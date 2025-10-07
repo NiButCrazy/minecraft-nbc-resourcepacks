@@ -1,0 +1,31 @@
+[
+  {
+    "name":"chestcavity",
+    "desc":"chestcavity汉化",
+    "authors":"Ni But Crazy",
+    "mods":"chestcavity",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"net.tigereye.chestcavity.util.OrganUtil",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":"Only Compatible With: ",
+          "value":"器官只能适配: "
+        },
+        {
+          "key":"Unsafe to use",
+          "value":"不能安全使用"
+        },
+        {
+          "key":"Safe to Use",
+          "value":"可安全使用"
+        }
+      ]
+    
+  }
+]

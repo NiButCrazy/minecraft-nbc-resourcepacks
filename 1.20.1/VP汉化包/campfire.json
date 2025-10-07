@@ -1,0 +1,39 @@
+[
+  {
+    "name":"Campfire",
+    "desc":"Campfire汉化",
+    "authors":"Ni But Crazy",
+    "mods":"Campfire",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"com.natamus.campfirespawnandtweaks_common_forge.events.CampfireEvent",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":"Campfire spawn point missing.",
+          "value":"营火重生点丢失"
+        },
+        {
+          "key":"Campfire spawn point removed.",
+          "value":"已移除营火重生点"
+        },
+        {
+          "key":"Campfire spawn point remains the same.",
+          "value":"营火重生点未改变"
+        },
+        {
+          "key":"Campfire spawn point replaced.",
+          "value":"已改变营火重生点"
+        },
+        {
+          "key":"Campfire spawn point set.",
+          "value":"已设置营火重生点"
+        }
+      ]
+    
+  }
+]

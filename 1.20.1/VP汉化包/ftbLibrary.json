@@ -1,0 +1,91 @@
+[
+  {
+    "name":"ftbLibrary",
+    "desc":"ftbLibrary汉化",
+    "authors":"Ni But Crazy",
+    "mods":"ftbLibrary",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"dev.ftb.mods.ftblibrary.util.TimeUtils",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":" second",
+          "value":" 秒"
+        },
+        {
+          "key":" seconds",
+          "value":" 秒"
+        },
+        {
+          "key":" minute",
+          "value":" 分钟"
+        },
+        {
+          "key":" minutes",
+          "value":" 分钟"
+        },
+        {
+          "key":" hour",
+          "value":" 小时"
+        },
+        {
+          "key":" hours",
+          "value":" 小时"
+        },
+        {
+          "key":" day",
+          "value":" 天"
+        },
+        {
+          "key":" days",
+          "value":" 天"
+        },
+        {
+          "key":"0 seconds",
+          "value":"0 秒"
+        },
+        {
+          "key":" and ",
+          "value":" "
+        }
+      ]
+    
+  },
+  {
+    "target_class":
+      {
+        "name":"dev.ftb.mods.ftbchunks.client.ChunkScreen$ChunkButton",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":" ago",
+          "value":" 之前"
+        },
+        {
+          "key":" from now",
+          "value":" 截至目前"
+        }
+      ]
+    
+  },
+  {
+    "target_class":
+      {
+        "name":"dev.ftb.mods.ftbchunks.client.FTBChunksClient",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":"Death #",
+          "value":"§c死亡地点 §r# "
+        }
+      ]
+    
+  }
+]

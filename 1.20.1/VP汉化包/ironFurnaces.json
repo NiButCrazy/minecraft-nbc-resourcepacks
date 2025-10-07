@@ -1,0 +1,23 @@
+[
+  {
+    "name":"ironFurnaces",
+    "desc":"ironFurnaces汉化",
+    "authors":"Ni But Crazy",
+    "mods":"ironFurnaces",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"ironfurnaces.items.ItemFurnace",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":"Cooktime: ",
+          "value":"熔炼所需时间: "
+        }
+      ]
+    
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name":"watut",
+    "desc":"watut汉化",
+    "authors":"Ni But Crazy",
+    "mods":"watut",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"com.corosus.watut.PlayerStatusManagerClient",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":" is typing",
+          "value":"正在打字"
+        }
+      ]
+    
+  }
+]

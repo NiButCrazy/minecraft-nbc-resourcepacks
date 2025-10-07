@@ -1,0 +1,25 @@
+[
+  {
+    "name":"roughtweaks",
+    "desc":"roughtweaks汉化",
+    "authors":"Ni But Crazy",
+    "mods":"roughtweaks",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"ms55.roughtweaksrevamped.common.item.HealItem"
+      },
+      "pairs": [
+        {
+          "key":" Hearts",
+          "value":"颗心"
+        },
+        {
+          "key":"Heal Amount: ",
+          "value":"治疗量: "
+        }
+      ]
+  }
+]

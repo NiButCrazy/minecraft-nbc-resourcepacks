@@ -1,0 +1,21 @@
+[
+  {
+    "name":"l2tabs",
+    "desc":"l2tabs图标修改",
+    "authors":"Ni But Crazy",
+    "mods":"l2tabs",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"dev/xkmc/l2tabs/tabs/core/BaseTab"
+      },
+      "pairs": [
+        {
+          "key":"textures/gui/container/creative_inventory/tabs.png",
+          "value":"textures/gui/container/l2tabs.png"
+        }
+      ]
+  }
+]

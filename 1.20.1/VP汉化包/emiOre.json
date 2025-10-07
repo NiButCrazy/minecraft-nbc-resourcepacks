@@ -1,0 +1,35 @@
+[
+  {
+    "name":"emiOre",
+    "desc":"emiOre",
+    "authors":"Ni But Crazy",
+    "mods":"emiOre",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"cc.abbie.emi_ores.compat.emi.recipe.AbstractPlacedFeatureEmiRecipe",
+        "method":""
+      },
+      "pairs": [
+        {
+          "key":"top",
+          "value":"顶"
+        },
+        {
+          "key":"bot",
+          "value":"底"
+        },
+        {
+          "key":"top+",
+          "value":"顶+"
+        },
+        {
+          "key":"bot+",
+          "value":"底+"
+        }
+      ]
+    
+  }
+]

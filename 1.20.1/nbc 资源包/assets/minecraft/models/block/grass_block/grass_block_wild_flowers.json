@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/grass_block_decor",
+  "textures": {
+    "decor": "minecraft:block/wildflowers"
+  }
+}

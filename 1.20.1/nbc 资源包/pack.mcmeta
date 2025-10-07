@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "\u00A76自用材质资源包，基于 \u00A73Yuushya\u00A76 和 \u00A73Stay True\u00A76，适配 \u00A7aFusion\u00A76 - by \u00A75 NiButCrazy"
+  },
+  "fusion": {
+      "overrides_folder": "fusion"
+  }
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "name":"catalogue",
+    "desc":"catalogue汉化",
+    "authors":"Ni But Crazy",
+    "mods":"catalogue",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"com/mrcrayfish/catalogue/client/screen/CatalogueModListScreen"
+      },
+      "pairs": [
+        {
+          "key":"Website",
+          "value":"网站"
+        },
+        {
+          "key":"Submit Bug",
+          "value":"提交 BUG"
+        }
+      ]
+  }
+]

@@ -1,0 +1,709 @@
+{
+  "replace": false,
+  "groups": [
+    "fruits",
+    "grains",
+    "proteins",
+    "sugars",
+    "vegetables"
+  ],
+  "effects": [
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.1,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.2,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.3,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.4,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.5,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.6,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.7,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.9,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.1,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.2,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.3,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.4,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.5,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.6,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.7,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.9,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.1,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.2,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.3,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.4,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.5,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.6,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.7,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["vegetables"],
+          "match": "all",
+          "above": 0.9,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.1,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.2,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.3,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.4,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.5,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.6,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.7,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 1.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.9,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.attack_speed",
+          "operation": "add",
+          "amount": 0.1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "all",
+          "above": 0.2,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": 2.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "all",
+          "above": 0.4,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.knockback_resistance",
+          "operation": "add",
+          "amount": 0.10
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "all",
+          "above": 0.6,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.attack_damage",
+          "operation": "add",
+          "amount": 2.0
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins", "fruits", "vegetables", "grains"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    },
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.movement_speed",
+          "operation": "multiply_base",
+          "amount": 0.20
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["sugars"],
+          "match": "all",
+          "above": 0.8,
+          "below": 1.0
+        }
+      ]
+    }
+  ]
+}

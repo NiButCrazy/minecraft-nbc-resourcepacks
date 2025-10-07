@@ -1,0 +1,155 @@
+[
+  {
+    "name":"Realm RPG: Quests & Rewards",
+    "desc":"Realm RPG: Quests & Rewards汉化",
+    "authors":"Ni But Crazy",
+    "mods":"Realm RPG: Quests & Rewards",
+    "dynamic":false
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfExpItem"
+      },
+      "p": [
+        {
+          "k":"§9Gives Extra Exp From Mobs",
+          "v":"§9获得额外经验"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfFireGreaterItem"
+      },
+      "p": [
+        {
+          "k":"§9+4 Extra Damage to Icy Creatures",
+          "v":"§9+4 对冰系生物造成额外伤害"
+        },
+        {
+          "k":"§9+25% Chance to Burn Target",
+          "v":"§9+25% 概率点燃目标"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfFireItem"
+      },
+      "p": [
+        {
+          "k":"§9+3 Extra Damage to Icy Creatures",
+          "v":"§9+3 对冰系生物造成额外伤害"
+        },
+        {
+          "k":"§9+20% Chance to Burn Target",
+          "v":"§9+20% 概率点燃目标"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfFireLesserItem"
+      },
+      "p": [
+        {
+          "k":"§9+2 Extra Damage to Icy Creatures",
+          "v":"§9+2 对冰系生物造成额外伤害"
+        },
+        {
+          "k":"§9+15% Chance to Burn Target",
+          "v":"§9+15% 概率点燃目标"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfGreaterIceItem"
+      },
+      "p": [
+        {
+          "k":"§9+4 Extra Damage to Fiery Creatures",
+          "v":"§9+4 对火系生物造成额外伤害"
+        },
+        {
+          "k":"§9+25% Chance to Slow Down Target",
+          "v":"§9+25% 概率缓慢目标"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfIceItem"
+      },
+      "p": [
+        {
+          "k":"§9+3 Extra Damage to Fiery Creatures",
+          "v":"§9+3 对火系生物造成额外伤害"
+        },
+        {
+          "k":"§9+20% Chance to Slow Down Target",
+          "v":"§9+20% 概率缓慢目标"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfIceLesserItem"
+      },
+      "p": [
+        {
+          "k":"§9+2 Extra Damage to Fiery Creatures",
+          "v":"§9+2 对火系生物造成额外伤害"
+        },
+        {
+          "k":"§9+15% Chance to Slow Down Target",
+          "v":"§9+15% 概率缓慢目标"
+        }
+      ]
+  },
+  {
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfWindGreaterItem"
+      },
+      "p": [
+        {
+          "k":"§9Grants Speed III",
+          "v":"§9速度 III"
+        }
+      ]
+  },
+  {
+    
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfWindItem"
+      },
+      "p": [
+        {
+          "k":"§9Grants Speed II",
+          "v":"§9速度 II"
+        }
+      ]
+  },
+  {
+    
+    "t":
+      {
+        "name":"net/mcreator/realmrpgquests/item/RingOfWindLesserItem"
+      },
+      "p": [
+        {
+          "k":"§9Grants Speed",
+          "v":"§9速度"
+        }
+      ]
+  }
+]
