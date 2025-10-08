@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "minecraft:coarse_dirt",
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:gravel",
+    "minecraft:red_sand",
+    "minecraft:rooted_dirt",
+    "minecraft:sand"
+  ],
+  "append": [
+    "fusion_block_transitions:block/podzol_overlay"
+  ]
+}

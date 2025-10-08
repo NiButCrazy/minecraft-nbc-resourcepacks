@@ -1,0 +1,56 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "textures": {
+    "top": "fusion_block_transitions:block/crimson_nylium_overflow",
+    "side": "fusion_block_transitions:block/crimson_nylium_overflow_side"
+  },
+  "connections": {
+    "top": {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "match_block",
+          "block": "crimson_nylium"
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    },
+    "side": {
+      "type": "or",
+      "predicates": [
+        {
+          "type": "match_block_in_front",
+          "block": "crimson_nylium"
+        },
+        {
+          "type": "and",
+          "predicates": [
+            {
+              "type": "match_block",
+              "block": "crimson_nylium"
+            },
+            {
+              "type": "is_face_visible"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "up": { "texture": "#top", "cullface": "up" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "east": { "texture": "#side", "cullface": "east" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "west": { "texture": "#side", "cullface": "west" }
+      }
+    }
+  ]
+}

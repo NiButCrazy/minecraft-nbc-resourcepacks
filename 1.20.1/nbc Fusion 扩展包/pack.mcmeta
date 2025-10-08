@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "添加了方块连接纹理"
+  },
+  "fusion": {
+      "overrides_folder": "fusion"
+  }
+}
