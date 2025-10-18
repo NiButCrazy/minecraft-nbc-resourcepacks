@@ -1,6 +1,6 @@
 # 自制自用 Minecraft 资源包
 
-### 最简单的食用方法
+### 最简单的食用方法​​
 
 👉 下载模组 [**全局数据包** - Global Packs](https://www.mcmod.cn/class/2826.html)
 
