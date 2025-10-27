@@ -7,8 +7,7 @@
     "minecraft:mud",
     "minecraft:podzol",
     "minecraft:red_sand",
-    "minecraft:rooted_dirt",
-    "minecraft:sand"
+    "minecraft:rooted_dirt"
   ],
   "append": [
     "fusion_block_transitions:block/mycelium_overlay"

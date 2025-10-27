@@ -5,8 +5,7 @@
     "minecraft:grass_block",
     "minecraft:gravel",
     "minecraft:red_sand",
-    "minecraft:rooted_dirt",
-    "minecraft:sand"
+    "minecraft:rooted_dirt"
   ],
   "append": [
     "fusion_block_transitions:block/podzol_overlay"
