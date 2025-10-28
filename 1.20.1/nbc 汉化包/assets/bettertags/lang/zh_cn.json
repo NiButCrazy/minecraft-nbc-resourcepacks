@@ -1,0 +1,32 @@
+{
+  "tip.bettertags.ctrl": "按住 %s 显示 NBT",
+  "tip.bettertags.shift": "按住 %s 显示标签",
+
+  "tip.bettertags.item_tags": "物品标签",
+  "tip.bettertags.block_tags": "方块标签",
+
+  "tip.bettertags.copied": "%s 复制至剪切板",
+  "tip.bettertags.copied_no": "%s 没有 NBT 数据",
+  "tip.bettertags.empty": "槽位空",
+  "tip.bettertags.more": "%s 更多...",
+
+  "tip.bettertags.durability": "耐久: %s",
+  "tip.bettertags.burn": "燃烧时间: %s",
+  "tip.bettertags.hours": "时",
+  "tip.bettertags.minutes": "分",
+  "tip.bettertags.seconds": "秒",
+  "tip.bettertags.length": "NBT 长度: %s",
+  "tip.bettertags.clock": "天 %s, %s",
+
+  "tip.bettertags.bees": "蜜蜂: %s",
+  "tip.bettertags.bee_empty": "空",
+  "tip.bettertags.bee_level": "储蜜量: %s",
+
+  "tip.shift": "SHIFT",
+  "tip.ctrl": "CTRL",
+  "tip.coords": "x: %s  y: %s  z: %s",
+  "tip.distance": "距离: %s 方块",
+
+  "biome.minecraft.overworld": "主世界",
+  "biome.minecraft.nether": "下界"
+}
