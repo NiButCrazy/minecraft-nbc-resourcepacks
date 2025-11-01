@@ -5,7 +5,6 @@
   "scripts": {
     "version": "nbc-auto-changelog -p && git add CHANGELOG.md"
   },
-  "keywords": [],
   "author": "Ni But Crazy",
   "license": "MIT"
 }
