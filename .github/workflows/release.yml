@@ -1,0 +1,62 @@
+name: Package NBC Files and Publish Release
+
+permissions:
+  contents: write  # 必须有写权限才能创建 release
+
+on:
+  push:
+    tags:
+      - 'v*'   # 触发模式，可改为 v* 只发布版本标签
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出代码
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+    
+    
+      # 2. 安装 Node.js (自带 npm)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20   # 可以换成你需要的版本
+
+      # 3. 全局安装包（例如 pnpm）
+      - name: Install pnpm globally
+        run: npm install -g nbc-auto-changelog
+
+      - name: Get CHANGELOG.md content
+        id: changelog
+        run: |
+          nbc-auto-changelog --stdout \
+            --ending-version "${{ github.ref_name }}" \
+            --starting-version "${{ github.ref_name }}" \
+            > changelog_new.md
+      
+      # 2. 压缩三个文件夹成 zip
+      - name: Compress NBC Files
+        run: |
+          zip -r "nbc-汉化包.zip" "1.20.1/nbc 汉化包"
+          zip -r "nbc-兼容包.zip" "1.20.1/nbc 兼容包"
+          zip -r "nbc-资源包.zip" "1.20.1/nbc 资源包"
+
+      # 3. 创建并上传 Release 附件（一次性上传多个文件）
+      - name: Create Release and Upload Files
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+          draft: false
+          body_path: changelog_new.md
+          prerelease: false
+          files: |
+            nbc-汉化包.zip
+            nbc-兼容包.zip
+            nbc-资源包.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
