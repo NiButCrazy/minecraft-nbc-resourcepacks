@@ -1,6 +1,12 @@
 ## 更新日志
 
-## [v1.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.1...v1.0.2) -  v1.0.1..
+## [v1.0.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.2...v1.0.3) -  v1.0.2..
+
+#### :books: 样式
+
+-  样式小修 &nbsp;- by @[NiButCrazy](https://github.com/NiButCrazy) [`(514e6c1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/514e6c14cbb55a51e65979a29f0b43779e93c31f)
+
+## [v1.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.1...v1.0.2) -  2025/11/01 
 
 #### :cyclone: 整体修改
 
