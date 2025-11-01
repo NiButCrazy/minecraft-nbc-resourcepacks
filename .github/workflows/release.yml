@@ -48,7 +48,7 @@ jobs:
       # 打包 all.zip
       - name: Create all.zip
         run: |
-          zip -r "all-${{ github.ref_name }}.zip" "nbc-汉化包.zip nbc-兼容包.zip nbc-资源包.zip"
+          zip -r all-${{ github.ref_name }}.zip nbc-汉化包.zip nbc-兼容包.zip nbc-资源包.zip
 
       # 3. 创建并上传 Release 附件（一次性上传多个文件）
       - name: Create Release and Upload Files
