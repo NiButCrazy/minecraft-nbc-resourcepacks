@@ -1,6 +1,12 @@
 ## 更新日志
 
-## 1.0.1
+## [v1.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.1...v1.0.2) -  v1.0.1..
+
+#### :cyclone: 整体修改
+
+- ci: 工作流修改 &nbsp;- by @[NiButCrazy](https://github.com/NiButCrazy) [`(1547934)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1547934b0f21bfffc6d8accc77b85a962b691cef)
+
+## v1.0.1
 
 #### :sparkles: 新功能
 
