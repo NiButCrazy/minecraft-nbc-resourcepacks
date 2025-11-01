@@ -1,6 +1,12 @@
 ## 更新日志
 
-## [v1.0.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.3...v1.0.4) -  v1.0.3..
+## [v1.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.4...v1.0.5) -  v1.0.4..
+
+#### :cyclone: 整体修改
+
+- ci: 修复 &nbsp;- by @[NiButCrazy](https://github.com/NiButCrazy) [`(d7140b1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d7140b1520309a7d05219c80d11b0be4dd6f999a)
+
+## [v1.0.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.3...v1.0.4) -  2025/11/01 
 
 #### :cyclone: 整体修改
 
