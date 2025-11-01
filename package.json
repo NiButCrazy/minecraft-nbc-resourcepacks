@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-nbc-resourcepacks",
+  "version": "1.0.1",
+  "description": "",
+  "scripts": {
+    "version": "nbc-auto-changelog -p && git add CHANGELOG.md"
+  },
+  "keywords": [],
+  "author": "Ni But Crazy",
+  "license": "MIT"
+}
