@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ironfurnaces:block/vibranium_furnace_top",
+        "front": "ironfurnaces:block/vibranium_furnace_front",
+        "side": "ironfurnaces:block/vibranium_furnace_side",
+        "bottom": "ironfurnaces:block/vibranium_furnace_bottom"
+    }
+}

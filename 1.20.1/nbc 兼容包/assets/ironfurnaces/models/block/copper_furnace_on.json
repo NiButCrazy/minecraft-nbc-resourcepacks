@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ironfurnaces:block/copper_furnace_top",
+        "front": "ironfurnaces:block/copper_furnace_front_on",
+        "side": "ironfurnaces:block/copper_furnace_side",
+        "bottom": "ironfurnaces:block/copper_furnace_bottom"
+    }
+}

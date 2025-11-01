@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ironfurnaces:block/allthemodium_furnace_top",
+        "front": "ironfurnaces:block/allthemodium_furnace_front_on",
+        "side": "ironfurnaces:block/allthemodium_furnace_side",
+        "bottom": "ironfurnaces:block/allthemodium_furnace_bottom"
+    }
+}

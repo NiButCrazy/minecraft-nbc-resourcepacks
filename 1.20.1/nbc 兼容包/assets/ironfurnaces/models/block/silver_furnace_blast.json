@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ironfurnaces:block/silver_furnace_top_blast",
+        "front": "ironfurnaces:block/silver_furnace_front_blast",
+        "side": "ironfurnaces:block/silver_furnace_side_blast",
+        "bottom": "ironfurnaces:block/silver_furnace_bottom_blast"
+    }
+}
