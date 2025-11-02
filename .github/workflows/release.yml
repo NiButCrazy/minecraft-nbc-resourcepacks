@@ -42,9 +42,9 @@ jobs:
       - name: Compress NBC Files
         run: |
           cd "1.20.1"
-          zip -r "nbc-汉化包.zip" "../nbc 汉化包"
-          zip -r "nbc-兼容包.zip" "../nbc 兼容包"
-          zip -r "nbc-资源包.zip" "../nbc 资源包"
+          zip -r "nbc-汉化包.zip" "nbc 汉化包"
+          zip -r "nbc-兼容包.zip" "nbc 兼容包"
+          zip -r "nbc-资源包.zip" "nbc 资源包"
       
       # 打包 all.zip
       - name: Create all.zip
