@@ -1,6 +1,8 @@
 ## :memo: 更新日志
 
-## [v1.0.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.8...v1.0.9) -  v1.0.8..
+## [v1.0.10](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.9...v1.0.10) -  v1.0.9..
+
+## [v1.0.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.8...v1.0.9) -  2025/11/02 
 
 #### :sparkles: 新功能
 
