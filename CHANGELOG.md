@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.10...v1.1.0) -  v1.0.10..
+## [v1.1.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.0...v1.1.1) -  v1.1.0..
+
+#### :hammer: CI / CD
+
+- ci: 修复压缩嵌套的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b967875)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b9678758e9d494a490e57f958ffd5b19d9ae67d8)
+
+## [v1.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.10...v1.1.0) -  2025/11/02 
 
 #### :hammer: CI / CD
 
