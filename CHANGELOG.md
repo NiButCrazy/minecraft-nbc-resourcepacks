@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v1.0.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.7...v1.0.8) -  v1.0.7..
+## [v1.0.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.8...v1.0.9) -  v1.0.8..
+
+#### :sparkles: 新功能
+
+-  ironfurnaces模组添加GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9f9c566)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9f9c56689ccdb875b335059267348706000d6ba5)
+
+#### :hammer: CI / CD
+
+- ci: 更改文件名 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f9d7a66)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f9d7a663b97406b20770ba4bf9ac6fd6911fe1cb)
+
+## [v1.0.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.7...v1.0.8) -  2025/11/02 
 
 #### :cyclone: 整体修改
 
