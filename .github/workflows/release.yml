@@ -41,13 +41,15 @@ jobs:
       # 2. 压缩三个文件夹成 zip
       - name: Compress NBC Files
         run: |
-          zip -r "nbc-汉化包.zip" "1.20.1/nbc 汉化包"
-          zip -r "nbc-兼容包.zip" "1.20.1/nbc 兼容包"
-          zip -r "nbc-资源包.zip" "1.20.1/nbc 资源包"
+          cd "1.20.1"
+          zip -r "nbc-汉化包.zip" "../nbc 汉化包"
+          zip -r "nbc-兼容包.zip" "../nbc 兼容包"
+          zip -r "nbc-资源包.zip" "../nbc 资源包"
       
       # 打包 all.zip
       - name: Create all.zip
         run: |
+      
           zip -r all-${{ github.ref_name }}.zip nbc-汉化包.zip nbc-兼容包.zip nbc-资源包.zip
 
       # 3. 创建并上传 Release 附件（一次性上传多个文件）
@@ -55,11 +57,11 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ github.ref_name }}
-          name: Release ${{ github.ref_name }}
+          name: 资源包+兼容包+汉化包(需解压) ${{ github.ref_name }}
           draft: false
           body_path: changelog_new.md
           prerelease: false
           files: |
-            all-${{ github.ref_name }}.zip
+            1.20.1/all-${{ github.ref_name }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
