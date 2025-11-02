@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.1.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.0...v1.1.1) -  v1.1.0..
+## [v1.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.1...v1.1.2) -  v1.1.1..
+
+#### :bug: 修复
+
+-  忘记修改包体位置了 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(072c67d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/072c67d8acd1cd9a2e7a59f617adca3a9e961066)
+
+## [v1.1.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.0...v1.1.1) -  2025/11/02 
 
 #### :hammer: CI / CD
 
