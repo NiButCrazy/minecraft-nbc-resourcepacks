@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.0.10](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.9...v1.0.10) -  v1.0.9..
+## [v1.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.10...v1.1.0) -  v1.0.10..
+
+#### :hammer: CI / CD
+
+- ci: 修复文件名空格问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3cf175b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3cf175b82e29ab3489cede48e3ac58f76913ba84)
+
+## [v1.0.10](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.9...v1.0.10) -  2025/11/02 
 
 ## [v1.0.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.8...v1.0.9) -  2025/11/02 
 
