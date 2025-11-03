@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v1.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.1...v1.1.2) -  v1.1.1..
+## [v1.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.2...v1.1.3) -  v1.1.2..
+
+#### :sparkles: 新功能
+
+-  灾变GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(186f13b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/186f13bf3cd3d55b3c5fab0ce59152291d8e7bbb)
+
+-  添加对alex洞穴和ftb任务的GUI适配,同时小小修改了ae2所有GUI的小细节,更加自然 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c396fde)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c396fde8d2277560365d44e272a85fbdafb1050f)
+
+#### :bug: 修复
+
+-  修复了p2p方块的纹理问题,顺便添加了之路石的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d90650f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d90650fbe91e4f7a5e681f308ce13c3d54607fdf)
+
+## [v1.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.1...v1.1.2) -  2025/11/02 
 
 #### :bug: 修复
 
