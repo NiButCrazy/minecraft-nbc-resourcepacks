@@ -32,9 +32,5 @@
     "block.minecraft.beacon.secondary": "",
     "advMode.command": "",
     "advMode.setCommand": "",
-    "merchant.trades": "\u00a7f\ue998\uee00",
-    "event.minecraft.raid": "\uE903",
-    "event.minecraft.raid.raiders_remaining": "",
-    "event.minecraft.raid.victory": "",
-    "event.minecraft.raid.defeat": ""
+    "merchant.trades": "\u00a7f\ue998\uee00"
 }
