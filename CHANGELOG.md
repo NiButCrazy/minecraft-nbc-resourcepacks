@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.3...v1.2.0) -  v1.1.3..
+## [v1.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.0...v1.2.1) -  v1.2.0..
+
+#### :bug: 修复
+
+-  修复了更多熔炉的燃烧显示问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(19d4b26)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/19d4b261e1ccdfb62338f9907e73c3ce2b9ab1b9)
+
+## [v1.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.3...v1.2.0) -  2025/11/05 
 
 #### :sparkles: 新功能
 
