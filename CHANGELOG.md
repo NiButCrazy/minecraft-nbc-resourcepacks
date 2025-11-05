@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v1.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.2...v1.1.3) -  v1.1.2..
+## [v1.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.3...v1.2.0) -  v1.1.3..
+
+#### :sparkles: 新功能
+
+-  添加了对xnet和rftools的部分GUI支持,其余的无从下手 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6be9184)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6be9184d8d110ecdd2a427a0c1079ceadcebdebf)
+
+-  添加对热力系咯的GUI支持(源码真滴难找) &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(07ea652)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/07ea652d71cb8490b68f644a6755ab92f0a911f1)
+
+-  添加了对充能器模组的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5a2ae74)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5a2ae74cfac140c06d05d6055ea1f6c453f39132)
+
+-  添加了对扫描器的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e6dc966)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e6dc966720e56c1c26c1068d8e8308f28724937f)
+
+-  添加了对灌注附魔台GUI的兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(17a91ec)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/17a91ec48d6103542b9b753088de797ab9da43fe)
+
+## [v1.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.2...v1.1.3) -  2025/11/03 
 
 #### :sparkles: 新功能
 
