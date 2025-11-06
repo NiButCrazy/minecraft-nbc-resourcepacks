@@ -1,6 +1,21 @@
 ## :memo: 更新日志
 
-## [v1.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.0...v1.2.1) -  v1.2.0..
+## [v1.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.1...v1.3.0) -  v1.2.1..
+
+#### :sparkles: 新功能
+
+-  添加了对small ships的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7747cd4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7747cd4d25bed9263c061b86e8ab6ccc946cc32f)
+	-  顺便修复了锦致装饰的灯笼模型问题
+
+-  锦致装饰的部分GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a457a1b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a457a1b4a9b195807a2052fab267e06bc5da9c58)
+
+#### :bug: 修复
+
+-  多态合成GUI小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7a20ed4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7a20ed45e48dba7a859b6f4b7424ce4fa8a1c3fd)
+
+-  优化了热力系列流体GUi显示容器 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(efe57a4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/efe57a436dda0a424df4305d0fb6cdf23e0d4cc7)
+
+## [v1.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.0...v1.2.1) -  2025/11/05 
 
 #### :bug: 修复
 
