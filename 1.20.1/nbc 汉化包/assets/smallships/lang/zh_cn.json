@@ -1,0 +1,15 @@
+{
+  "smallships.creative_mode_tab": "Small Ships Mod",
+  "death.attack.cannon_ball": "%s 被大炮轰杀",
+  "death.attack.cannon_ball.player": "%s 被 %s 用大炮轰成渣渣",
+  "death.attack.ship_hit": "%s 被船撞大运了",
+  "death.attack.ship_hit.player": "%s 被 %s 的船创死了",
+  "item.smallships.cherry_cog": "樱花木柯克船",
+  "item.smallships.bamboo_cog": "竹制柯克船",
+  "item.smallships.cherry_galley": "樱花木加莱船",
+  "item.smallships.bamboo_galley": "竹制柯克船",
+  "item.smallships.cherry_drakkar": "樱花木撞角战舰",
+  "item.smallships.bamboo_drakkar": "竹制撞角战舰",
+  "item.smallships.cherry_brigg": "樱花木双榄横帆小帆船",
+  "item.smallships.bamboo_brigg": "竹制双榄横帆小帆船"
+}

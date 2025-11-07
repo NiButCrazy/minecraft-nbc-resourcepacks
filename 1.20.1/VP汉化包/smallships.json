@@ -1,0 +1,45 @@
+[
+  {
+    "name":"smallships",
+    "desc":"smallships翻译",
+    "authors":"Ni But Crazy",
+    "mods":"smallships",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"com/talhanation/smallships/client/gui/screens/inventory/ShipContainerScreen"
+      },
+      "pairs": [
+        {
+          "key":"Name:",
+          "value":"名称:"
+        },
+        {
+          "key":"Type:",
+          "value":"类型:"
+        },
+        {
+          "key":"Crew:",
+          "value":"船员:"
+        },
+        {
+          "key":"Speed ",
+          "value":"速度 "
+        },
+        {
+          "key":"Damage:",
+          "value":"损坏: "
+        },
+        {
+          "key":"Shields:",
+          "value":"防御:"
+        },
+        {
+          "key":"Cannons:",
+          "value":"大炮:"
+        }
+      ]
+  }
+]
