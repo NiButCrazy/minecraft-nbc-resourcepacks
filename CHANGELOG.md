@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v1.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.1...v1.3.0) -  v1.2.1..
+## [v1.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.3.0...v1.4.0) -  v1.3.0..
+
+#### :sparkles: 新功能
+
+-  添加了smallship的补充翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ab3bc19)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ab3bc195753a7571231acfb482eab0c5b55b574e)
+
+-  添加了对蔚蓝浩空的GUi兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fe9002d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fe9002d5302445b220c72897ea965b56669ce8da)
+
+#### :recycle: 重构
+
+-  小修原版资源包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(df6815b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/df6815bb791f5ed66f1ad0d5d2616f406428cdca)
+
+## [v1.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.1...v1.3.0) -  2025/11/06 
 
 #### :sparkles: 新功能
 
