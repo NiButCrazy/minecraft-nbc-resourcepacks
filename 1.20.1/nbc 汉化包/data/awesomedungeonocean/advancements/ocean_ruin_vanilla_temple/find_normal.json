@@ -1,0 +1,33 @@
+{
+    "parent": "awesomedungeonocean:root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_ruin_vanilla_temple"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 10
+    },
+    "display": {
+        "show_toast": true,
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "description": " 顺利找到海洋神殿废墟",
+        "title": "发现: 海洋神殿废墟",
+        "announce_to_chat": true,
+        "frame": "challenge"
+    }
+}

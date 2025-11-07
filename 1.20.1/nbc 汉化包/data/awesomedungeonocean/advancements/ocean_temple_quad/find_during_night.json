@@ -1,0 +1,40 @@
+{
+    "parent": "awesomedungeonocean:ocean_temple_quad/find_normal",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:time_check",
+                        "value": {
+                            "min": 13000,
+                            "max": 22300
+                        }
+                    },
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_temple_quad"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 10
+    },
+    "display": {
+        "show_toast": true,
+        "hidden": false,
+        "icon": {
+            "item": "minecraft:filled_map"
+        },
+        "description": " 在夜晚找到海洋神庙四角屋",
+        "title": "探索: 海洋神庙四角屋",
+        "announce_to_chat": true,
+        "frame": "challenge"
+    }
+}

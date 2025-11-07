@@ -1,0 +1,125 @@
+{
+    "requirements": [
+        [
+            "awesomedungeonocean:ocean_ruin_vanilla_temple",
+            "awesomedungeonocean:ocean_ruin_pillager",
+            "awesomedungeonocean:ocean_the_column_temple",
+            "awesomedungeonocean:ocean_temple_quad",
+            "awesomedungeonocean:ocean_quad",
+            "awesomedungeonocean:ocean_warn_temple",
+            "awesomedungeonocean:ocean_cage"
+        ]
+    ],
+    "criteria": {
+        "awesomedungeonocean:ocean_ruin_vanilla_temple": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_ruin_vanilla_temple"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        },
+        "awesomedungeonocean:ocean_temple_quad": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_temple_quad"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        },
+        "awesomedungeonocean:ocean_quad": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_quad"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        },
+        "awesomedungeonocean:ocean_the_column_temple": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_the_column_temple"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        },
+        "awesomedungeonocean:ocean_cage": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_cage"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        },
+        "awesomedungeonocean:ocean_ruin_pillager": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_ruin_pillager"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        },
+        "awesomedungeonocean:ocean_warn_temple": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "predicate": {
+                            "dimension": "minecraft:overworld",
+                            "structure": "awesomedungeonocean:ocean_warn_temple"
+                        },
+                        "condition": "minecraft:location_check"
+                    }
+                ]
+            }
+        }
+    },
+    "display": {
+        "show_toast": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+        "description": "寻找到海洋中的史诗级地牢",
+        "title": "史诗级地牢海洋版",
+        "announce_to_chat": false,
+        "frame": "task"
+    }
+}
