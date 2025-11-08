@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v1.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.3.0...v1.4.0) -  v1.3.0..
+## [v1.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.4.0...v1.5.0) -  v1.4.0..
+
+#### :sparkles: 新功能
+
+-  添加了对海洋结构进度成就的翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8158d70)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8158d7046bfd41d29614aaf9755411928d638e9b)
+
+-  添加懒人厨房和喂养槽的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(78caaf4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/78caaf4b88854c946ec623883266f7d45dc17d6a)
+
+#### :cyclone: 整体修改
+
+- doc: 小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f966fa3)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f966fa371aacbf2f7541d0df40724d472d298b8e)
+
+## [v1.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.3.0...v1.4.0) -  2025/11/07 
 
 #### :sparkles: 新功能
 
