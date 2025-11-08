@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "nameless_trinkets:mysterious_trinket"
+    },
+    "title": {
+      "translate": "他们在星辉之外低语..."
+    },
+    "description": {
+      "translate": "能让命运所有碎片归于掌中吗？"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "nameless_trinkets:trinkets"
+          }
+        ]
+      }
+    }
+  }
+}
