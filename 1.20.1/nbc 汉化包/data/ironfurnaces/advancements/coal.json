@@ -1,0 +1,40 @@
+{
+  "display": {
+    "title": {
+      "text": "尝一下彩虹",
+      "color": "light_purple"
+    },
+    "description": {
+      "text": "获得一块彩虹煤炭"
+    },
+    "icon": {
+      "item": "ironfurnaces:rainbow_coal"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "rainbowcoal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "ironfurnaces:rainbow_coal",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "rainbowcoal"
+    ]
+  ]
+}
