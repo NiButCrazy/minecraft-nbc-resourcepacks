@@ -4,7 +4,7 @@
 
 👉 下载模组 [**全局数据包** - Global Packs](https://www.mcmod.cn/class/2826.html)
 
-然后游戏内把这仨资源包按需选中应用就行了
+然后游戏内把这仨资源包按需选中应用就行了，最好开着光影使用
 
 >  因为资源包中包含了数据包 `Data` ，而 [**全局数据包** - Global Packs](https://www.mcmod.cn/class/2826.html) 可以直接加载材质包中的数据包(YYDS)，因此提供了一种最简单的全局使用数据包的方法
 
