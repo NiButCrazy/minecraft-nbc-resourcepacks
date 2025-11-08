@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v1.5.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.0...v1.5.1) -  v1.5.0..
+## [v1.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.1...v1.6.0) -  v1.5.1..
+
+#### :sparkles: 新功能
+
+-  对 Nameless Trinkets 补充了史诗汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4b08232)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4b08232fe5d107cc62071dffc989cd2c1ac79cb9)
+
+-  添加了葡萄酒园的GUI兼容和汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4f592d7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4f592d7697cb9363abefdbc383af5ff38c007492)
+
+#### :bug: 修复
+
+-  修复了沉浸工程的jei显示错误 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cfd82d0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cfd82d037c18ff7696f208fc03e7a2f9406e9955)
+
+## [v1.5.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.0...v1.5.1) -  2025/11/08 
 
 #### :sparkles: 新功能
 
