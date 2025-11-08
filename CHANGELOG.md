@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.4.0...v1.5.0) -  v1.4.0..
+## [v1.5.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.0...v1.5.1) -  v1.5.0..
+
+#### :sparkles: 新功能
+
+-  添加了对祛魔编辑台的GUI支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f86f784)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f86f784e9cd8ef0a6e468fd3b27eb6549d2248e7)
+
+## [v1.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.4.0...v1.5.0) -  2025/11/08 
 
 #### :sparkles: 新功能
 
