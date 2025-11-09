@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v1.6.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.0...v1.6.1) -  v1.6.0..
+## [v1.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.1...v1.6.2) -  v1.6.1..
+
+#### :bug: 修复
+
+-  删除中文句号 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7d35cf0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7d35cf05f6d3ca6afb89a83097ef1810c26fc5fd)
+
+-  饰品GUI小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c05609f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c05609fb4aa71b6419d8d4dfd7df31cda7ee42b7)
+
+## [v1.6.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.0...v1.6.1) -  2025/11/09 
 
 #### :cyclone: 整体修改
 
