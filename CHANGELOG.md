@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.1...v1.6.2) -  v1.6.1..
+## [v1.6.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.2...v1.6.3) -  v1.6.2..
+
+#### :sparkles: 新功能
+
+-  添加烛火晚宴的GUI兼容,同时小修alex洞穴的GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4ebeb7f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4ebeb7f24891812ca395d46bafa4a83cef4f4b33)
+
+## [v1.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.1...v1.6.2) -  2025/11/09 
 
 #### :bug: 修复
 
