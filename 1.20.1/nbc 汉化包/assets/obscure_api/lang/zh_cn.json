@@ -22,28 +22,28 @@
   "lore.obscure_api.vial_of_knowledge": "§9知识（持续 2:00）",
 
   "effect.obscure_api.fury": "狂怒",
-  "effect.obscure_api.fury.desc": "每级提升职业技能威力10%。",
-  "effect.obscure_api.fury.description": "每级提升职业技能威力10%。",
+  "effect.obscure_api.fury.desc": "每级提升职业技能威力10%",
+  "effect.obscure_api.fury.description": "每级提升职业技能威力10%",
 
   "effect.obscure_api.knowledge": "洞察",
-  "effect.obscure_api.knowledge.desc": "能在物品提示中显示隐藏信息。",
-  "effect.obscure_api.knowledge.description": "能在物品提示中显示隐藏信息。",
+  "effect.obscure_api.knowledge.desc": "能在物品提示中显示隐藏信息",
+  "effect.obscure_api.knowledge.description": "能在物品提示中显示隐藏信息",
 
   "effect.obscure_api.rush": "时间",
-  "effect.obscure_api.rush.desc": "每级减少职业技能冷却时间10%。",
-  "effect.obscure_api.rush.description": "每级减少职业技能冷却时间10%。",
+  "effect.obscure_api.rush.desc": "每级减少职业技能冷却时间10%",
+  "effect.obscure_api.rush.description": "每级减少职业技能冷却时间10%",
 
   "enchantment.obscure_api.distance": "轨道扩展",
-  "enchantment.obscure_api.distance.desc": "增加弹射物的环绕半径。",
-  "enchantment.obscure_api.distance.description": "增加弹射物的环绕半径。",
+  "enchantment.obscure_api.distance.desc": "增加弹射物的环绕半径",
+  "enchantment.obscure_api.distance.description": "增加弹射物的环绕半径",
 
   "enchantment.obscure_api.fast_spin": "极速旋转",
-  "enchantment.obscure_api.fast_spin.desc": "提升弹射物的飞行速度。",
-  "enchantment.obscure_api.fast_spin.description": "提升弹射物的飞行速度。",
+  "enchantment.obscure_api.fast_spin.desc": "提升弹射物的飞行速度",
+  "enchantment.obscure_api.fast_spin.description": "提升弹射物的飞行速度",
 
   "enchantment.obscure_api.mirror": "镜像复制",
-  "enchantment.obscure_api.mirror.desc": "复制弹射物，但复制体仅造成50%伤害。",
-  "enchantment.obscure_api.mirror.description": "复制弹射物，但复制体仅造成50%伤害。",
+  "enchantment.obscure_api.mirror.desc": "复制弹射物，但复制体仅造成50%伤害",
+  "enchantment.obscure_api.mirror.description": "复制弹射物，但复制体仅造成50%伤害",
 
   "attribute.obscure_api.accuracy": "命中率",
   "attribute.obscure_api.criticalDamage": "暴击伤害",
