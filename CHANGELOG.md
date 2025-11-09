@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.1...v1.6.0) -  v1.5.1..
+## [v1.6.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.0...v1.6.1) -  v1.6.0..
+
+#### :cyclone: 整体修改
+
+- 添加了海灵物语的翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0af9af0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0af9af03177b3b3bd9e1d8704f11d237540e104c)
+
+## [v1.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.1...v1.6.0) -  2025/11/08 
 
 #### :sparkles: 新功能
 
