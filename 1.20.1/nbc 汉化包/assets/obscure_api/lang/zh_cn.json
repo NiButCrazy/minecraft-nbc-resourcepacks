@@ -1,0 +1,75 @@
+{
+  "obscure_api.ability.bonuses": "§f\uEA10职业加成",
+
+  "class_bonus.armor_cooldown.minus": "§2# 护甲冷却缩短",
+  "class_bonus.armor_cooldown.plus": "§c+# 护甲冷却延长",
+  "class_bonus.armor_power.minus": "§c# 护甲强度降低",
+  "class_bonus.armor_power.plus": "§2+# 护甲强度提升",
+  "class_bonus.weapon_cooldown.minus": "§2# 武器冷却缩短",
+  "class_bonus.weapon_cooldown.plus": "§c+# 武器冷却延长",
+  "class_bonus.weapon_power.minus": "§c# 武器威力降低",
+  "class_bonus.weapon_power.plus": "§2+# 武器威力提升",
+
+  "obscure_api.tooltip.collapse": "§f\uEA17§8能力一览",
+  "obscure_api.tooltip.expand": "§f\uEA16§8按住Shift展开",
+  "obscure_api.tooltip.knowledge": "§f\uEA21§9知识：",
+
+  "rarity.legendary.name": "传奇",
+  "rarity.mythic.name": "神话",
+
+  "item.obscure_api.astral_dust": "星尘",
+  "item.obscure_api.vial_of_knowledge": "知识之瓶",
+  "lore.obscure_api.vial_of_knowledge": "§9知识（持续 2:00）",
+
+  "effect.obscure_api.fury": "狂怒",
+  "effect.obscure_api.fury.desc": "每级提升职业技能威力10%。",
+  "effect.obscure_api.fury.description": "每级提升职业技能威力10%。",
+
+  "effect.obscure_api.knowledge": "洞察",
+  "effect.obscure_api.knowledge.desc": "能在物品提示中显示隐藏信息。",
+  "effect.obscure_api.knowledge.description": "能在物品提示中显示隐藏信息。",
+
+  "effect.obscure_api.rush": "时间",
+  "effect.obscure_api.rush.desc": "每级减少职业技能冷却时间10%。",
+  "effect.obscure_api.rush.description": "每级减少职业技能冷却时间10%。",
+
+  "enchantment.obscure_api.distance": "轨道扩展",
+  "enchantment.obscure_api.distance.desc": "增加弹射物的环绕半径。",
+  "enchantment.obscure_api.distance.description": "增加弹射物的环绕半径。",
+
+  "enchantment.obscure_api.fast_spin": "极速旋转",
+  "enchantment.obscure_api.fast_spin.desc": "提升弹射物的飞行速度。",
+  "enchantment.obscure_api.fast_spin.description": "提升弹射物的飞行速度。",
+
+  "enchantment.obscure_api.mirror": "镜像复制",
+  "enchantment.obscure_api.mirror.desc": "复制弹射物，但复制体仅造成50%伤害。",
+  "enchantment.obscure_api.mirror.description": "复制弹射物，但复制体仅造成50%伤害。",
+
+  "attribute.obscure_api.accuracy": "命中率",
+  "attribute.obscure_api.criticalDamage": "暴击伤害",
+  "attribute.obscure_api.criticalHit": "暴击率",
+  "attribute.obscure_api.dodge": "闪避",
+  "attribute.obscure_api.healingPower": "治疗强度",
+  "attribute.obscure_api.magicDamage": "魔法伤害",
+  "attribute.obscure_api.magicResistance": "魔法抗性",
+  "attribute.obscure_api.parry": "格挡",
+  "attribute.obscure_api.penetration": "穿透",
+  "attribute.obscure_api.regeneration": "生命恢复",
+  "attribute.obscure_api.resilience": "韧性",
+
+  "obscure_api.accuracy": "命中率",
+  "obscure_api.criticalDamage": "暴击伤害",
+  "obscure_api.criticalHit": "暴击率",
+  "obscure_api.dodge": "闪避",
+  "obscure_api.healingPower": "治疗强度",
+  "obscure_api.magicDamage": "魔法伤害",
+  "obscure_api.magicResistance": "魔法抗性",
+  "obscure_api.parry": "格挡",
+  "obscure_api.penetration": "穿透",
+  "obscure_api.regeneration": "生命恢复",
+  "obscure_api.resilience": "韧性",
+
+  "icon.attack_speed.fast": "§f\uEA12 §2迅速",
+  "icon.attack_speed.medium": "§f\uEA12 §f均衡",
+  "icon.attack_speed.slow": "§f\uEA12 §6沉重"
+}
