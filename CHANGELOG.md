@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v1.6.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.2...v1.6.3) -  v1.6.2..
+## [v1.6.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.3...v1.6.4) -  v1.6.3..
+
+#### :sparkles: 新功能
+
+-  添加了Supplementaries 数据包兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3210962)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/32109625612c626e687d853ced48402341c2fb0f)
+
+#### :bug: 修复
+
+-  修复了L2tabs和锦致装饰的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7a4022e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7a4022e882988e7086a2cdc1b2e6568d13c86144)
+
+## [v1.6.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.2...v1.6.3) -  2025/11/09 
 
 #### :sparkles: 新功能
 
