@@ -1,0 +1,20 @@
+{
+  "color": "#2e241e",
+  "containers": [
+    {
+      "filled": [
+        "undergarden:veiled_stew"
+      ],
+      "empty": "minecraft:bowl",
+      "capacity": 2
+    }
+  ],
+  "flowing_texture": "moonlight:block/soft_fluids/potion_flow",
+  "food": {
+    "divider": 2,
+    "item": "undergarden:veiled_stew"
+  },
+  "from_mod": "undergarden",
+  "still_texture": "moonlight:block/soft_fluids/soup_liquid",
+  "translation_key": "item.undergarden.veiled_stew"
+}

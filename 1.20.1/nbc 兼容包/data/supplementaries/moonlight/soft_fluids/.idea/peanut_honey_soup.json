@@ -1,0 +1,20 @@
+{
+  "color": "#b48c24",
+  "containers": [
+    {
+      "filled": [
+        "expandeddelight:peanut_honey_soup"
+      ],
+      "empty": "minecraft:bowl",
+      "capacity": 2
+    }
+  ],
+  "flowing_texture": "moonlight:block/soft_fluids/potion_flow",
+  "food": {
+    "divider": 2,
+    "item": "expandeddelight:peanut_honey_soup"
+  },
+  "from_mod": "expandeddelight",
+  "still_texture": "moonlight:block/soft_fluids/soup_liquid",
+  "translation_key": "item.expandeddelight.peanut_honey_soup"
+}

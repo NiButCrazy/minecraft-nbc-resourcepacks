@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "illagerinvasion:unusual_dust",
+    "illagerinvasion:illusionary_dust",
+    "alexscaves:sulfur_dust",
+    "alexscaves:moth_dust",
+    "tfmg:nitrate_dust",
+    "tfmg:sulfur_dust",
+    "tfmg:coal_coke_dust",
+    "tfmg:thermite_powder",
+    "tfmg:limesand",
+    "deeperdarker:soul_dust",
+    "better_end:ender_dust"
+  ]
+}

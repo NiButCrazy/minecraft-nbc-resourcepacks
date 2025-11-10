@@ -1,0 +1,20 @@
+{
+  "color": "#dcd4cc",
+  "containers": [
+    {
+      "filled": [
+        "biomeswevegone:white_puffball_stew"
+      ],
+      "empty": "minecraft:bowl",
+      "capacity": 2
+    }
+  ],
+  "flowing_texture": "moonlight:block/soft_fluids/potion_flow",
+  "food": {
+    "divider": 2,
+    "item": "biomeswevegone:white_puffball_stew"
+  },
+  "from_mod": "biomeswevegone",
+  "still_texture": "moonlight:block/soft_fluids/soup_liquid",
+  "translation_key": "item.biomeswevegone.white_puffball_stew"
+}
