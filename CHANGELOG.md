@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.6.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.3...v1.6.4) -  v1.6.3..
+## [v1.6.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.4...v1.6.5) -  v1.6.4..
+
+#### :bug: 修复
+
+-  GUI优化以及增添翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(762227c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/762227c9114ebb99d28417a9ccea87138bdb2c19)
+
+## [v1.6.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.3...v1.6.4) -  2025/11/10 
 
 #### :sparkles: 新功能
 
