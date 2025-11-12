@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.6.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.4...v1.6.5) -  v1.6.4..
+## [v1.6.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.5...v1.6.6) -  v1.6.5..
+
+#### :bug: 修复
+
+-  修复了更多熔炉的显示BUG &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5798008)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/579800847e1f665b91f0f476ed84088cdd6678c5)
+
+## [v1.6.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.4...v1.6.5) -  2025/11/11 
 
 #### :bug: 修复
 
