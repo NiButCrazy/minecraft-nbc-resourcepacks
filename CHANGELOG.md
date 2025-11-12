@@ -1,6 +1,13 @@
 ## :memo: 更新日志
 
-## [v1.6.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.5...v1.6.6) -  v1.6.5..
+## [v1.6.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.6...v1.6.7) -  v1.6.6..
+
+#### :sparkles: 新功能
+
+-  添加了Tom建议存储的GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f24e24e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f24e24e62d15e6db48ea9d048917378607263c49)
+	-  小修其他GUI
+
+## [v1.6.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.5...v1.6.6) -  2025/11/12 
 
 #### :bug: 修复
 
