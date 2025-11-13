@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v1.6.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.6...v1.6.7) -  v1.6.6..
+## [v1.6.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.7...v1.6.8) -  v1.6.7..
+
+#### :sparkles: 新功能
+
+-  重绘Tom的简单存储的方块纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6107910)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/61079109b8da90dc64a3b8cbad17a4d654078a46)
+
+-  小小修热力系列的方块纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(193639e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/193639eced9e06f640548df8c9f26f7ef0c376ca)
+
+## [v1.6.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.6...v1.6.7) -  2025/11/12 
 
 #### :sparkles: 新功能
 
