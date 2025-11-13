@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.6.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.7...v1.6.8) -  v1.6.7..
+## [v1.6.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.8...v1.6.9) -  v1.6.8..
+
+#### :bug: 修复
+
+-  小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4821995)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/48219954d2b64137e0ef2a6addf65a2bdf4f35e0)
+
+## [v1.6.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.7...v1.6.8) -  2025/11/13 
 
 #### :sparkles: 新功能
 
