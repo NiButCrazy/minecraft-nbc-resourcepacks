@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.6.11](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.10...v1.6.11) -  v1.6.10..
+## [v1.6.12](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.11...v1.6.12) -  v1.6.11..
+
+#### :sparkles: 新功能
+
+-  添加矿工乐事翻译和GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6933a62)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6933a620c7e5a48e11323473b1fa08bcd344dab9)
+
+## [v1.6.11](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.10...v1.6.11) -  2025/11/14 
 
 #### :sparkles: 新功能
 
