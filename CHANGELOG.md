@@ -1,6 +1,17 @@
 ## :memo: 更新日志
 
-## [v1.6.10](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.9...v1.6.10) -  v1.6.9..
+## [v1.6.11](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.10...v1.6.11) -  v1.6.10..
+
+#### :sparkles: 新功能
+
+-  添加了mek的额外fusion连接纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fdf2726)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fdf27266e73ad00616149e58d9a8a22cbc475a76)
+	-  顺便小修原版材质包
+
+#### :bug: 修复
+
+-  通用机械的GUI更加舒适 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(44766f5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/44766f52f73c031b74320caea7db6e82a560c0db)
+
+## [v1.6.10](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.9...v1.6.10) -  2025/11/13 
 
 ## [v1.6.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.8...v1.6.9) -  2025/11/13 
 
