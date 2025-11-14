@@ -71,5 +71,7 @@
 
   "icon.attack_speed.fast": "§f\uEA12 §2迅速",
   "icon.attack_speed.medium": "§f\uEA12 §f均衡",
-  "icon.attack_speed.slow": "§f\uEA12 §6沉重"
+  "icon.attack_speed.slow": "§f\uEA12 §6沉重",
+  "icon.attack_speed.very_fast": "§f\uEA12 §2超速",
+  "icon.attack_speed.very_slow": "§f\uEA12 §c笨重"
 }

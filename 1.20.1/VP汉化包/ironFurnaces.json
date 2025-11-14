@@ -9,8 +9,7 @@
   {
     "target_class":
       {
-        "name":"ironfurnaces.items.ItemFurnace",
-        "method":""
+        "name":"ironfurnaces.items.ItemFurnace"
       },
       "pairs": [
         {
@@ -18,6 +17,65 @@
           "value":"熔炼所需时间: "
         }
       ]
-    
+  },
+  {
+    "target_class":
+      {
+        "name":"ironfurnaces/items/ItemFurnaceCopy"
+      },
+      "pairs": [
+        {
+          "key":"Right-click to copy settings",
+          "value":"右键复制配置"
+        },
+        {
+          "key":"Sneak & right-click to apply settings",
+          "value":"潜行并右键单击以应用配置"
+        },
+        {
+          "key":"Settings applied",
+          "value":"配置已应用"
+        },
+        {
+          "key":"Down: ",
+          "value":"下方: "
+        },
+        {
+          "key":"Up: ",
+          "value":"上方: "
+        },
+        {
+          "key":"North: ",
+          "value":"北方: "
+        },
+        {
+          "key":"South: ",
+          "value":"南方: "
+        },
+        {
+          "key":"West: ",
+          "value":"西方: "
+        },
+        {
+          "key":"East: ",
+          "value":"东方: "
+        },
+        {
+          "key":"Auto Input: ",
+          "value":"自动输入: "
+        },
+        {
+          "key":"Auto Output: ",
+          "value":"自动输出: "
+        },
+        {
+          "key":"Redstone Mode: ",
+          "value":"红石模式: "
+        },
+        {
+          "key":"Redstone Value: ",
+          "value":"红石信号: "
+        }
+      ]
   }
 ]

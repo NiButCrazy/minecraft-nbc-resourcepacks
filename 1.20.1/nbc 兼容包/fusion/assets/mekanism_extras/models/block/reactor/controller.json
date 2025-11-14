@@ -1,0 +1,27 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    {
+      "type": "is_same_block"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:naquadah_reactor_port"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:naquadah_reactor_casing"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:naquadah_reactor_logic_adapter"
+    }
+  ],
+  "parent": "mekanism:block/machine",
+  "textures": {
+    "sides": "mekanism_extras:block/naquadah_reactor_casing",
+    "front": "mekanism_extras:block/naquadah_reactor_casing",
+    "up": "mekanism_extras:block/naquadah_reactor_controller"
+  }
+}

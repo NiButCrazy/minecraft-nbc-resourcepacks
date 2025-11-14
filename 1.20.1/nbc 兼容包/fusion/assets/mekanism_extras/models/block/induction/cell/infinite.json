@@ -1,0 +1,44 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:absolute_induction_cell"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:absolute_induction_provider"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:supreme_induction_cell"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:supreme_induction_provider"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:cosmic_induction_cell"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:cosmic_induction_provider"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:infinite_induction_cell"
+    },
+    {
+      "type": "match_block",
+      "block": "mekanism_extras:infinite_induction_provider"
+    }
+  ],
+  "parent": "mekanism:block/induction/cell/base",
+  "textures": {
+    "all": "mekanism_extras:block/infinite_induction_cell",
+    "glow": "mekanism:block/induction_cell_glow",
+    "led": "mekanism:block/induction_cell_led"
+  }
+}
