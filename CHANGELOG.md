@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v1.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.12...v1.7.0) -  v1.6.12..
+## [v1.7.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.0...v1.7.1) -  v1.7.0..
+
+#### :sparkles: 新功能
+
+-  添加深邃幽暗翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cce927e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cce927e799e0017c2c0ec8de33bb301c8c2e6189)
+
+#### :bug: 修复
+
+-  L2的JEI的GUI小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(79961b8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/79961b892a19118ede768211fa3143345113c56b)
+
+## [v1.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.12...v1.7.0) -  2025/11/15 
 
 #### :sparkles: 新功能
 
