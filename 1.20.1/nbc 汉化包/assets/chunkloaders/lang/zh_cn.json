@@ -1,0 +1,7 @@
+{  
+  "chunkloaders.inactivity.header": "[区块加载器]",
+  "chunkloaders.inactivity.notification": "%s 您的区块加载器在离线超过 %s 后被禁用，现在再次激活。",
+  "chunkloaders.inactivity.days": "%s 天",
+  "chunkloaders.inactivity.hours": "%s 小时",
+  "chunkloaders.inactivity.minutes": "%s 分钟"
+}
