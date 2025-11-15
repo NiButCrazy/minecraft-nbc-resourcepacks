@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v1.6.12](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.11...v1.6.12) -  v1.6.11..
+## [v1.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.12...v1.7.0) -  v1.6.12..
+
+#### :sparkles: 新功能
+
+-  添加区块加载器的翻译和GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3cba624)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3cba62474f9ed2510645626ca8a24a1cb79d52a0)
+
+-  添加了Visual Keybinder的GUI支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5eacd01)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5eacd017e69b70b3ff6e03a9c410bcaa26ba1ce9)
+
+-  添加了L2全家桶的GUI支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(12e66db)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/12e66db4548f39108cbf3fc1edc884b780990c69)
+
+-  把染料全部变为最新版染料材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3b02eb2)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3b02eb2944e4b80ee209ab885fed44df97f18212)
+
+## [v1.6.12](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.11...v1.6.12) -  2025/11/14 
 
 #### :sparkles: 新功能
 
