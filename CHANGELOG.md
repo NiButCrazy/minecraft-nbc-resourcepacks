@@ -1,6 +1,22 @@
 ## :memo: 更新日志
 
-## [v1.7.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.0...v1.7.1) -  v1.7.0..
+## [v1.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.1...v1.8.0) -  v1.7.1..
+
+#### :sparkles: 新功能
+
+-  添加了植物魔法的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(aebcd50)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/aebcd5029041ba2532c434c5f2a0834df1a5c714)
+
+-  添加简单村民的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(acba39a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/acba39a5846068801528903cfa1e1a6ce82d659b)
+
+-  添加老鼠(rats)模组的GUI支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8bb506a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8bb506ac66943ab4a24258c465e6a4f0a9310f70)
+
+-  添加了水产业的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ee1aee6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ee1aee68e34225b20a5314883b33401d0beaa75e)
+
+#### :bug: 修复
+
+-  添加rats村民交易翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0ca08d8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0ca08d8453eb10c9ee79a6ade1de4b3ba461b337)
+
+## [v1.7.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.0...v1.7.1) -  2025/11/16 
 
 #### :sparkles: 新功能
 
