@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.8.0...v1.9.0) -  v1.8.0..
+## [v1.9.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.0...v1.9.1) -  v1.9.0..
+
+#### :cyclone: 整体修改
+
+- remove: 删除冰的材质,改回原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(57d46ab)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/57d46ab7adea2c01e2db206b88742e4183b318d7)
+
+## [v1.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.8.0...v1.9.0) -  2025/11/17 
 
 #### :sparkles: 新功能
 
