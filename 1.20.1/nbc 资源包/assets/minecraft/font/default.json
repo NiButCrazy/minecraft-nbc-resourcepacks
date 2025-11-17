@@ -1,6 +1,15 @@
 {
     "providers": [
     {
+        "type": "bitmap",
+        "file": "vocal_villagers:font/credit.png",
+        "ascent": 8,
+        "height": 10,
+        "chars": [
+            "\uf630"
+        ]
+    },
+    {
         "type": "space",
         "advances": {
             "\uE999": -1,

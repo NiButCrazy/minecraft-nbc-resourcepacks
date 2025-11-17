@@ -1,5 +1,8 @@
 {
-	"entity.minecraft.villager.alchemist":"炼金师",
+	"entity.minecraft.villager.alchemist":"炼金术师",
 	"stat.blue_skies.interact_with_food_prep_table": "使用蔚蓝浩空小灶次数",
-	"stat.blue_skies.interact_with_tool_box": "使用蔚蓝浩空工具箱次数"
+	"stat.blue_skies.interact_with_tool_box": "使用蔚蓝浩空工具箱次数",
+	"entity.minecraft.villager.wrangler":"牧人",
+	"entity.minecraft.villager.nightwatcher":"守夜人",
+	"entity.minecraft.villager.summoner":"召唤师"
 }
