@@ -3,6 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
+	"render_type": "cutout",
 	"textures": {
 		"3": "block/furnaces/furnace/fire_furnace",
 		"7": "block/furnaces/furnace/furnace_lit_atlas",
