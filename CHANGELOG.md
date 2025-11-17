@@ -1,6 +1,32 @@
 ## :memo: 更新日志
 
-## [v1.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.1...v1.8.0) -  v1.7.1..
+## [v1.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.8.0...v1.9.0) -  v1.8.0..
+
+#### :sparkles: 新功能
+
+-  添加了村民更多声音 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(db2c41a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/db2c41abb48ef3271aac14cb128a8cfa8559f767)
+
+-  修复了沉浸工程村民皮肤兼容问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(632dc4a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/632dc4a56a55ba27b29c3c197e067cea229f79db)
+
+#### :bug: 修复
+
+-  ae2和蔚蓝浩空的村民职业皮肤兼容修复 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(bd6516c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/bd6516c8666a84d96e03bd640e949ab20df4bc2e)
+
+-  修复了熔炉透明贴图\粒子效果显示错误的BUG &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fb349da)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fb349da92de957f3d3f767d99823a493e425dbe0)
+
+-  修复rats村民职业皮肤兼容修复 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c80beb7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c80beb7e37321f3bad97dcc6b299c5ff7e6f2524)
+
+-  let`s do 两大模组的村民皮肤兼容修复 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fbb5e46)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fbb5e46a13bf4159725e65f9aece75acaa35cd6e)
+
+-  修复了一部分GUI问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b2396a1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b2396a14a5b37d45306b8fb5e7b18b996127d7ad)
+
+-  小修植物魔法GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0cf2b92)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0cf2b927d6bb2df1b824d3f1575fdd2584b356f9)
+
+#### :cyclone: 整体修改
+
+- feat : 添加xaero的汉化包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(73c4303)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/73c4303b8b79bd4e76ee53b95d6aba5a9a0f5485)
+
+## [v1.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.1...v1.8.0) -  2025/11/16 
 
 #### :sparkles: 新功能
 
