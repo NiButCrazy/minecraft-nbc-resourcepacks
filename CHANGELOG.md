@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v1.9.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.0...v1.9.1) -  v1.9.0..
+## [v1.9.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.1...v1.9.2) -  v1.9.1..
+
+#### :bug: 修复
+
+-  修复了水灵物语的箱子纹理鬼畜问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(574bb99)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/574bb99483fcd45c38b8383452de70d9c6515890)
+
+-  修复了劫掠兽和幻术师的贴图错乱 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(36cf0d5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/36cf0d52d408b2003e27ba3300af43514d9342d6)
+
+-  修复了蔚蓝浩空村民衣袖问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2e5e1c7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2e5e1c7eae27630277c04bcf0f2228919bab2e44)
+
+## [v1.9.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.0...v1.9.1) -  2025/11/17 
 
 #### :cyclone: 整体修改
 
