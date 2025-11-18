@@ -1,6 +1,13 @@
 ## :memo: 更新日志
 
-## [v1.9.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.1...v1.9.2) -  v1.9.1..
+## [v1.9.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.2...v1.9.3) -  v1.9.2..
+
+#### :sparkles: 新功能
+
+-  新生魔艺村民职业兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3372e12)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3372e12e2a75d4f839320cb19b7876ecf3aee441)
+	-  顺便小修JEI部分界面
+
+## [v1.9.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.1...v1.9.2) -  2025/11/18 
 
 #### :bug: 修复
 
