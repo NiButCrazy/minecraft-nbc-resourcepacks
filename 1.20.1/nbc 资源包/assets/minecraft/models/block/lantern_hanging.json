@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Yuushya",
 	"parent": "block/block",
 	"texture_size": [32, 32],
@@ -80,8 +81,9 @@
 			}
 		},
 		{
-			"from": [7.5, -2, 6.5],
-			"to": [7.5, 4, 9.5],
+			"from": [8, -2, 6.6],
+			"to": [8, 4, 9.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 0, 0.1]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 3], "texture": "#missing"},
 				"east": {"uv": [4, 0, 5.5, 3], "texture": "#1"},
@@ -92,9 +94,9 @@
 			}
 		},
 		{
-			"from": [6.5, -2, 8.5],
-			"to": [9.5, 4, 8.5],
-			
+			"from": [6.5, -2, 8.1],
+			"to": [9.5, 4, 8.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, -0.4]},
 			"faces": {
 				"north": {"uv": [4, 0, 5.5, 3], "texture": "#1"},
 				"east": {"uv": [0, 0, 0, 3], "texture": "#1"},
@@ -107,7 +109,6 @@
 		{
 			"from": [7.5, 14, 8],
 			"to": [8.5, 17, 8],
-			
 			"faces": {
 				"north": {"uv": [2.5, 0, 3, 3], "texture": "#1"},
 				"east": {"uv": [0, 0, 0, 3], "texture": "#missing"},
@@ -134,7 +135,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 225, 0],
+			"rotation": [0, -135, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
@@ -142,7 +143,7 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [30, -135, 0],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"fixed": {
