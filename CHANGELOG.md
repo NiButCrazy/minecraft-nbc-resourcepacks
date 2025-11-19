@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v1.9.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.2...v1.9.3) -  v1.9.2..
+## [v1.9.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.3...v1.9.4) -  v1.9.3..
+
+#### :sparkles: 新功能
+
+-  meet your fight 的纹理兼容和部分实体汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1c35fe8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1c35fe86d55958cffd63f8d845336f416df76ca5)
+
+#### :bug: 修复
+
+-  挺杂的,修了很多材质包细节 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3aa737f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3aa737f7d3e95a565946666868357799cbc03ae4)
+
+#### :cyclone: 整体修改
+
+- change: 改变了药水瓶材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8b69909)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8b699091332b6465136c52136801707303548ed9)
+
+## [v1.9.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.2...v1.9.3) -  2025/11/18 
 
 #### :sparkles: 新功能
 
