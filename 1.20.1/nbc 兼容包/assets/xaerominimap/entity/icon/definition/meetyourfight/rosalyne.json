@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "meetyourfight:textures/entity/rosalyne_coffin.png": "outlined_sprite:meetyourfight/rosalyne_coffin.png",
+        "meetyourfight:textures/entity/rosalyne_cracked.png": "outlined_sprite:meetyourfight/rosalyne_cracked.png",
+        "default":"outlined_sprite:meetyourfight/rosalyne.png",
+        "layersAllowed": true
+    }
+}

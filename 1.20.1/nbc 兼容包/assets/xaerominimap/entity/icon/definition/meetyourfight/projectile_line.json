@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "meetyourfight:textures/entity/projectile_rose.png": "outlined_sprite:meetyourfight/projectile_rose.png",
+        "meetyourfight:textures/entity/projectile_dame_fortuna.png": "outlined_sprite:meetyourfight/projectile_dame_fortuna.png",
+        "default":"outlined_sprite:meetyourfight/projectile_bellringer.png",
+        "layersAllowed": true
+    }
+}

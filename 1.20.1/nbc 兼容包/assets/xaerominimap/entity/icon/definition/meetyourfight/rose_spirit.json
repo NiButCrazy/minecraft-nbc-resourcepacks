@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "default": "outlined_sprite:meetyourfight/rose_spirit.png",
+        "layersAllowed": true
+    }
+}
