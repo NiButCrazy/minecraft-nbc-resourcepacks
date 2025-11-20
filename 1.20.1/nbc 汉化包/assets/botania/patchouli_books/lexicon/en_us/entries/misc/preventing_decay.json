@@ -1,0 +1,15 @@
+{
+  "name": "botania.entry.preventingDecay",
+  "category": "botania:misc",
+  "icon": "botania:monocle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(m)no$() Yes! Mana is now displayed with clear numerical values alongside the familiar progress bars, giving you precise insight into how much mana is stored or required.$(br)This applies to many components throughout the mod, including:$(li)Mana Pools$(li)Terra Plates$(li)Runic Altars$(li)Mana-holding items"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "This makes tracking, planning, and automating mana usage easier than ever. For even more detail, holding Shift reveals values in millibuckets (mB), following standard Forge fluid conventions.$(br)Let numbers guide your magical efficiency!"
+    }
+  ]
+}

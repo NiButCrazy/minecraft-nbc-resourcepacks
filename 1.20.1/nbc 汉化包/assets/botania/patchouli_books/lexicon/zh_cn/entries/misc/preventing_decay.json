@@ -1,0 +1,16 @@
+{
+  "name": "botania.entry.preventingDecay",
+  "category": "botania:misc",
+  "icon": "botania:monocle",
+  "pages":
+  [
+    {
+      "type": "patchouli:text",
+      "text": "孩子们，是的！现在魔力会以清晰的数值与熟悉的进度条一同显示，让你能够精准掌握当前储存或所需的魔力量。$(br)这项改动适用于模组中的许多组件，包括：$(li)魔力池$(li)泰拉凝聚板$(li)符文祭坛$(li)可储存魔力的物品"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这样一来，追踪、规划和自动化魔力使用比以往更加轻松。想获得更详细的数值信息时，只需按住 Shift，即可显示以毫桶（mB）为单位的数值，遵循标准 Forge 流体规范。$(br)让数字引导你的魔法高效之路！"
+    }
+  ]
+}
