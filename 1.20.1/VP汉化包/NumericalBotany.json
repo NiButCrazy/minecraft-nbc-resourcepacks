@@ -1,0 +1,57 @@
+[
+  {
+    "name":"NumericalBotany",
+    "desc":"NumericalBotany翻译",
+    "authors":"Ni But Crazy",
+    "mods":"NumericalBotany",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"de/red/numericalbotany/util/ToolTipUtil"
+      },
+      "pairs": [
+        {
+          "key":"Cost: ",
+          "value":"魔力消耗: "
+        },
+        {
+          "key":"Provides: ",
+          "value":"蕴含魔力: "
+        },
+        {
+          "key":"Holds: ",
+          "value":"Holds: "
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"de/red/numericalbotany/mixin/MixinHUDHandler"
+      },
+      "pairs": [
+        {
+          "key":"Cost: ",
+          "value":"魔力消耗: "
+        },
+        {
+          "key":"Infinite ",
+          "value":"无限 "
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"de/red/numericalbotany/mixin/MixinManaPoolBlockEntityWandHud"
+      },
+      "pairs": [
+        {
+          "key":"Infinite",
+          "value":"无限"
+        }
+      ]
+  }
+]
