@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v1.9.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.3...v1.9.4) -  v1.9.3..
+## [v1.9.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.4...v1.9.5) -  v1.9.4..
+
+#### :sparkles: 新功能
+
+-  修改了瓶子和蜘蛛纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5790dcb)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5790dcb3cff70bdca6b1721099ad3e6581cc9ce3)
+
+## [v1.9.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.3...v1.9.4) -  2025/11/19 
 
 #### :sparkles: 新功能
 
