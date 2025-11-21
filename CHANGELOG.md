@@ -1,6 +1,22 @@
 ## :memo: 更新日志
 
-## [v1.9.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.4...v1.9.5) -  v1.9.4..
+## [v1.10.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.5...v1.10.0) -  v1.9.5..
+
+#### :sparkles: 新功能
+
+-  新增药水材质包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(73e83ba)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/73e83badb8f492605ab5e6751da383be831a1f80)
+
+-  NumericalBotany硬编码汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(dd5c30c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/dd5c30c083cfc05d1dee5d0634c3d44d2b7fc602)
+
+-  NumericalBotany汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7d1bf75)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7d1bf752cd2add21008c5998a92dae6ada47769a)
+
+-  掠夺者的枪的声音音量减轻 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(36a95c2)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/36a95c2285a0f5b253c203fc5ef72a0b13d79c5d)
+
+#### :recycle: 重构
+
+-  通用机械的GUI的图标位置小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e713d46)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e713d467e17e05cc330ea96b6da2a866f585a6cf)
+
+## [v1.9.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.4...v1.9.5) -  2025/11/20 
 
 #### :sparkles: 新功能
 
