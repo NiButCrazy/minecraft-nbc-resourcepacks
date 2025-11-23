@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v1.10.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.0...v1.10.1) -  v1.10.0..
+## [v1.10.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.1...v1.10.2) -  v1.10.1..
+
+#### :sparkles: 新功能
+
+-  锦致装饰铁栅栏门材质chong hui &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(434e1cf)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/434e1cf9ed309fa225405ef3dcfc772d8d80f93e)
+
+-  添加药水效果的描述 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e5124a1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e5124a1143e2bccf428c52b1cc2fde99e195c2c6)
+
+## [v1.10.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.0...v1.10.1) -  2025/11/22 
 
 #### :bug: 修复
 
