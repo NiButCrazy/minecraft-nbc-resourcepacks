@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [46, 25],
+	"textures": {
+		"1": "iceandfire:item/skulls/skull_hippogryph",
+		"particle": "iceandfire:item/skulls/skull_hippogryph"
+	},
+	"elements": [
+		{
+			"name": "skull",
+			"from": [6, 5, 3],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [7.30435, 5.12, 9.04348, 8.96], "texture": "#1"},
+				"east": {"uv": [4.52174, 5.12, 7.30435, 8.96], "texture": "#1"},
+				"south": {"uv": [2.78261, 5.12, 4.52174, 8.96], "texture": "#1"},
+				"west": {"uv": [0, 5.12, 2.78261, 8.96], "texture": "#1"},
+				"up": {"uv": [2.78261, 0, 4.52174, 5.12], "texture": "#1"},
+				"down": {"uv": [4.52174, 5.12, 6.26087, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "up beak",
+			"from": [6.5, 6, 11],
+			"to": [10.5, 10, 16],
+			"faces": {
+				"north": {"uv": [4.86957, 13.44, 6.26087, 16], "texture": "#1"},
+				"east": {"uv": [3.13043, 13.44, 4.86957, 16], "texture": "#1"},
+				"south": {"uv": [1.73913, 13.44, 3.13043, 16], "texture": "#1"},
+				"west": {"uv": [0, 13.44, 1.73913, 16], "texture": "#1"},
+				"up": {"uv": [1.73913, 10.24, 3.13043, 13.44], "texture": "#1"},
+				"down": {"uv": [3.13043, 10.24, 4.52174, 13.44], "texture": "#1"}
+			}
+		},
+		{
+			"name": "beak tip",
+			"from": [7.5, 4, 15.5],
+			"to": [9.5, 9, 16.5],
+			"faces": {
+				"north": {"uv": [10.78261, 12.8, 11.47826, 16], "texture": "#1"},
+				"east": {"uv": [10.43478, 12.8, 10.78261, 16], "texture": "#1"},
+				"south": {"uv": [9.73913, 12.8, 10.43478, 16], "texture": "#1"},
+				"west": {"uv": [9.3913, 12.8, 9.73913, 16], "texture": "#1"},
+				"up": {"uv": [9.73913, 11.52, 10.43478, 12.8], "texture": "#1"},
+				"down": {"uv": [10.43478, 11.52, 11.13043, 12.8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "down beak",
+			"from": [6.55, 5.3, 7.5],
+			"to": [10.45, 6.3, 15.5],
+			"faces": {
+				"north": {"uv": [14.6087, 4.48, 16, 5.12], "texture": "#1"},
+				"east": {"uv": [12.17391, 4.48, 14.6087, 5.12], "texture": "#1"},
+				"south": {"uv": [10.78261, 4.48, 12.17391, 5.12], "texture": "#1"},
+				"west": {"uv": [8.69565, 4.48, 10.78261, 5.12], "texture": "#1"},
+				"up": {"uv": [10.78261, 0, 12.17391, 4.48], "texture": "#1"},
+				"down": {"uv": [12.17391, 4.48, 13.56522, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, -135, 0],
+			"translation": [-0.25, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, -135, 0],
+			"translation": [-0.25, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 3, -0.5],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [25, 37, 0],
+			"translation": [-0.75, 0, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0.25, 0, -1],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}
