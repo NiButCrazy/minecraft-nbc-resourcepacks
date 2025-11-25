@@ -1,6 +1,17 @@
 ## :memo: 更新日志
 
-## [v1.10.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.1...v1.10.2) -  v1.10.1..
+## [v2.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.2...v2.0.0) -  v1.10.2..
+
+#### :sparkles: 新功能
+
+-  食物纹理大修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d5e4dec)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d5e4decb563b9aeeaacb9d9ea946c4e16cec17ef)
+	-  顺便添加了冰与火之歌的全新纹理材质
+
+#### :bug: 修复
+
+-  牛排纹理小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fac4be6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fac4be62cb1d90b6b11bd3ec15202db5ff8439f1)
+
+## [v1.10.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.1...v1.10.2) -  2025/11/23 
 
 #### :sparkles: 新功能
 
