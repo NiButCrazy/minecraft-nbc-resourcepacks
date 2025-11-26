@@ -1,6 +1,24 @@
 ## :memo: 更新日志
 
-## [v2.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.2...v2.0.0) -  v1.10.2..
+## [v2.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.0.0...v2.1.0) -  v2.0.0..
+
+#### :sparkles: 新功能
+
+-  添加了各种各样的猪 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7d7cc04)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7d7cc04c0247364cd24d1f6d055804c29d03506b)
+
+-  添加了各种各样的牛 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c6f556c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c6f556cfe56cba5e5747494f50189b6c1636f5eb)
+
+-  添加各种各样的鸡 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5efe9ad)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5efe9ad546e5a420cee894955fe0dafb10787cf4)
+
+-  添加各种各样的牛 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(19eec69)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/19eec69ef43a681c256aa735a4041c1c208961cb)
+
+#### :bug: 修复
+
+-  修了一点牛的贴图模型 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cff5ec1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cff5ec18351b7d919cadc7700a16c0170540910f)
+
+-  更新了资源包选择按钮GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(abeec59)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/abeec590cd18f5300ea4cdc7e217132b0dd6171a)
+
+# [v2.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.2...v2.0.0) -  2025/11/25 
 
 #### :sparkles: 新功能
 
