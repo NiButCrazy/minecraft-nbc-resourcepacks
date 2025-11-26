@@ -1,0 +1,42 @@
+{
+	"textureSize": [64, 178],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 0, -4, 8, 13, 8], "textureOffset": [0, 157], "sizeAdd": 0.25},
+				{"coordinates": [-4, 0, -4, 8, 10, 8], "textureOffset": [0, 108]},
+				{"coordinates": [-5, 0, -4, 10, 8, 8], "textureOffset": [0, 127]},
+				{"coordinates": [-2, 0, -5, 4, 4, 1], "textureOffset": [31, 128], "sizeAdd": 0.01},
+				{"coordinates": [2, 0, -5, 1, 2, 1], "textureOffset": [2, 131]},
+				{"coordinates": [-3, 0, -5, 1, 2, 1], "textureOffset": [2, 127]},
+				{"coordinates": [-1, -1, -6, 2, 4, 2], "textureOffset": [32, 120]},
+				{"coordinates": [-5, 0, -4, 10, 12, 8], "textureOffset": [0, 66], "sizeAdd": 0.25}
+			],
+			"submodels": [
+				{
+					"id": "ear1",
+					"invertAxis": "xy",
+					"translate": [4, 6, 0],
+					"rotate": [0, 0, 30],
+					"boxes": [
+						{"coordinates": [0, -5, -2, 1, 5, 4], "textureOffset": [38, 134]}
+					]
+				},
+				{
+					"id": "ear2",
+					"invertAxis": "xy",
+					"translate": [-4, 6, 0],
+					"rotate": [0, 0, -30],
+					"boxes": [
+						{"coordinates": [-1, -5, -2, 1, 5, 4], "textureOffset": [38, 134]}
+					]
+				}
+			]
+		}
+	]
+}
