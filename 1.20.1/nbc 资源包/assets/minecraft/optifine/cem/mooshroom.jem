@@ -1,24 +1,11 @@
 {
 	"textureSize": [64, 64],
-	"texture": "textures/entity/cow/cows.png",
 	"models": [
 		{
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
 			"translate": [0, -20, 8],
-			"boxes": [
-				{
-					"coordinates": [-4, 18.5, -14, 8, 6, 6],
-					"uvNorth": [6, 38, 14, 44],
-					"uvEast": [0, 38, 6, 44],
-					"uvSouth": [14, 32, 23, 38],
-					"uvWest": [14, 38, 20, 44],
-					"uvUp": [6, 32, 14, 38],
-					"uvDown": [14, 32, 23, 38],
-					"sizeAdd": 0.25
-				}
-			],
 			"submodels": [
 				{
 					"id": "face",
@@ -49,10 +36,6 @@
 					"invertAxis": "xy",
 					"mirrorTexture": "u",
 					"translate": [0.5, 25, -10],
-					"boxes": [
-						{"coordinates": [-5.6, -3.05, -1, 1, 3, 1], "textureOffset": [22, 0], "sizeAdd": 0.1},
-						{"coordinates": [3.6, -3.05, -1, 1, 3, 1], "textureOffset": [22, 0], "sizeAdd": 0.1}
-					],
 					"submodels": [
 						{
 							"id": "bone",
@@ -71,47 +54,6 @@
 							"rotate": [0, 0, -22.5],
 							"boxes": [
 								{"coordinates": [-1.61732, -0.92388, -1, 2, 6, 2], "textureOffset": [8, 56]}
-							]
-						},
-						{
-							"id": "front",
-							"invertAxis": "xy",
-							"translate": [0, -2.5, -2],
-							"rotate": [-60, 0, 0],
-							"boxes": [
-								{"coordinates": [-5.25, 0, -1, 2, 6, 2], "textureOffset": [0, 56]}
-							],
-							"submodels": [
-								{
-									"id": "head_sub_5",
-									"invertAxis": "xy",
-									"mirrorTexture": "u",
-									"translate": [0, 0, 0],
-									"boxes": [
-										{"coordinates": [2.5, 0, -1, 2, 6, 2], "textureOffset": [0, 56]}
-									]
-								}
-							]
-						},
-						{
-							"id": "large",
-							"invertAxis": "xy",
-							"translate": [-0.5, -25, 3.25],
-							"boxes": [
-								{"coordinates": [-8, 24, -5, 2, 2, 2], "textureOffset": [56, 60]},
-								{"coordinates": [4, 22, -5, 4, 2, 2], "textureOffset": [44, 60]}
-							],
-							"submodels": [
-								{
-									"id": "head_sub_7",
-									"invertAxis": "xy",
-									"mirrorTexture": "u",
-									"translate": [0, 0, 0],
-									"boxes": [
-										{"coordinates": [-8, 22, -5, 4, 2, 2], "textureOffset": [44, 60]},
-										{"coordinates": [6, 24, -5, 2, 2, 2], "textureOffset": [56, 60]}
-									]
-								}
 							]
 						}
 					]
@@ -183,6 +125,23 @@
 							]
 						}
 					]
+				},
+				{
+					"id": "mushroom",
+					"invertAxis": "xy",
+					"translate": [0, 26.5, -11],
+					"boxes": [
+						{
+							"coordinates": [-3, -2.5, 0, 5, 6, 0],
+							"uvNorth": [16, 36, 21, 42],
+							"uvSouth": [21, 36, 16, 42]
+						},
+						{
+							"coordinates": [-0.5, -2.5, -2.5, 0, 6, 5],
+							"uvEast": [21, 36, 16, 42],
+							"uvWest": [16, 36, 21, 42]
+						}
+					]
 				}
 			],
 			"animations": [
@@ -217,17 +176,72 @@
 							"uvUp": [1, 0, 5, 1],
 							"uvDown": [1, 5, 5, 6]
 						},
-						{
-							"coordinates": [-6, -7, -3.45, 12, 18, 10],
-							"uvNorth": [30, 42, 42, 60],
-							"uvEast": [20, 42, 30, 60],
-							"uvSouth": [52, 42, 64, 60],
-							"uvWest": [42, 42, 52, 60],
-							"uvUp": [42, 42, 30, 32],
-							"uvDown": [54, 32, 42, 42],
-							"sizeAdd": 0.5
-						},
 						{"coordinates": [-6, -7, -3, 12, 18, 10], "textureOffset": [18, 4]}
+					],
+					"submodels": [
+						{
+							"id": "shrooms",
+							"invertAxis": "xy",
+							"translate": [-2.5, -2, 9.5],
+							"boxes": [
+								{
+									"coordinates": [-2.5, 0, -2.5, 5, 0, 6],
+									"uvUp": [7, 41, 2, 35],
+									"uvDown": [7, 35, 2, 41]
+								}
+							],
+							"submodels": [
+								{
+									"id": "shrooms2",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0.5],
+									"rotate": [0, 0, 90],
+									"boxes": [
+										{
+											"coordinates": [-2.5, 0, -3, 5, 0, 6],
+											"uvUp": [2, 41, 7, 35],
+											"uvDown": [2, 35, 7, 41]
+										}
+									]
+								},
+								{
+									"id": "shrooms3",
+									"invertAxis": "xy",
+									"translate": [5.5, 6, 1],
+									"rotate": [0, 0, 45],
+									"boxes": [
+										{
+											"coordinates": [-3, 0, -3.5, 6, 0, 7],
+											"uvNorth": [7, 0, 13, 0],
+											"uvEast": [7, 0, 14, 0],
+											"uvSouth": [7, 0, 13, 0],
+											"uvWest": [7, 0, 14, 0],
+											"uvUp": [15, 42, 9, 35],
+											"uvDown": [15, 35, 9, 42]
+										}
+									],
+									"submodels": [
+										{
+											"id": "shrooms4",
+											"invertAxis": "xy",
+											"translate": [0.5, 0, -0.5],
+											"rotate": [0, 0, 90],
+											"boxes": [
+												{
+													"coordinates": [-3, 0.5, -3, 6, 0, 7],
+													"uvNorth": [7, 0, 13, 0],
+													"uvEast": [7, 0, 14, 0],
+													"uvSouth": [7, 0, 13, 0],
+													"uvWest": [7, 0, 14, 0],
+													"uvUp": [9, 42, 15, 35],
+													"uvDown": [9, 35, 15, 42]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
 					]
 				},
 				{
