@@ -1,0 +1,131 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [500, 500],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [-90, 0, 0],
+			"submodels": [
+				{
+					"id": "gaumaker_dryad_body",
+					"invertAxis": "xy",
+					"translate": [0, 15, -16],
+					"rotate": [90, 0, 0],
+					"boxes": [
+						{"coordinates": [-5, 9, -9, 10, 6, 17], "textureOffset": [152, 0]},
+						{"coordinates": [-8.5, 14.75, -6, 17, 1, 17], "textureOffset": [185, 30]},
+						{"coordinates": [-5, 14, -12, 10, 7, 9], "textureOffset": [189, 0], "sizeAdd": 0.1}
+					],
+					"submodels": [
+						{
+							"id": "gaumaker_ear",
+							"invertAxis": "xy",
+							"translate": [5, 17.5, -5],
+							"rotate": [-5.123, -21.9386, 13.4936],
+							"boxes": [
+								{"coordinates": [-0.75, -3.5, 0, 9, 7, 0], "textureOffset": [151, 10]}
+							]
+						},
+						{
+							"id": "gaumaker_ear2",
+							"invertAxis": "xy",
+							"translate": [-5, 17.5, -5],
+							"rotate": [-5.123, 21.9386, -13.4936],
+							"boxes": [
+								{"coordinates": [-8.25, -3.5, 0, 9, 7, 0], "textureOffset": [185, 23]}
+							]
+						},
+						{
+							"id": "gaumaker_pumpkin",
+							"invertAxis": "xy",
+							"translate": [0, 18.5, 2.5],
+							"rotate": [0, 45, 0],
+							"boxes": [
+								{"coordinates": [-5.5, -3.5, -5.5, 11, 7, 11], "textureOffset": [152, 23]},
+								{"coordinates": [-3.5, 3.5, -3.5, 7, 3, 7], "textureOffset": [216, 16]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7],
+			"submodels": [
+				{
+					"id": "gaumaker_dryad_leg",
+					"invertAxis": "xy",
+					"translate": [5, 4.5, 4.5],
+					"boxes": [
+						{"coordinates": [-2, -4.5, -3, 4, 5, 6], "textureOffset": [128, 0]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7],
+			"submodels": [
+				{
+					"id": "gaumaker_dryad_leg2",
+					"invertAxis": "xy",
+					"translate": [-5, 4.5, 4.5],
+					"boxes": [
+						{"coordinates": [-2, -4.5, -3, 4, 5, 6], "textureOffset": [143, 23]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5],
+			"submodels": [
+				{
+					"id": "gaumaker_dryad_leg3",
+					"invertAxis": "xy",
+					"translate": [5, 5.5, -4.5],
+					"boxes": [
+						{"coordinates": [-2, -5.5, -3.5, 4, 7, 7], "textureOffset": [148, 41]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5],
+			"submodels": [
+				{
+					"id": "gaumaker_dryad_leg4",
+					"invertAxis": "xy",
+					"translate": [-5, 5.5, -4.5],
+					"boxes": [
+						{"coordinates": [-2, -5.5, -3.5, 4, 7, 7], "textureOffset": [170, 41]}
+					]
+				}
+			]
+		}
+	]
+}

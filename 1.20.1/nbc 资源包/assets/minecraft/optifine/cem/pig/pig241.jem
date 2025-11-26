@@ -1,0 +1,124 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [500, 500],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [-90, 0, 0],
+			"submodels": [
+				{
+					"id": "barkskin_dryad_body",
+					"invertAxis": "xy",
+					"translate": [0, 15, -11],
+					"rotate": [90, 0, 0],
+					"boxes": [
+						{"coordinates": [-6, 4, -9, 12, 9, 18], "textureOffset": [130, 55]},
+						{"coordinates": [-6, 6.75, -14, 12, 8, 10], "textureOffset": [130, 82], "sizeAdd": 0.1},
+						{"coordinates": [-6, 3.5, -14, 12, 8, 10], "textureOffset": [214, 55], "sizeAdd": 0.05}
+					],
+					"submodels": [
+						{
+							"id": "cubebarkskin_dryad_ear",
+							"invertAxis": "xy",
+							"translate": [5.5, 14.25, -4.5],
+							"rotate": [-18.0778, 14.2906, -4.6066],
+							"boxes": [
+								{"coordinates": [-0.5, -2, -0.75, 1, 3, 3], "textureOffset": [138, 65], "sizeAdd": 0.1}
+							]
+						},
+						{
+							"id": "cubebarkskin_dryad_ear2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [-5.5, 14.25, -4.5],
+							"rotate": [-18.0778, -14.2906, 4.6066],
+							"boxes": [
+								{"coordinates": [-0.5, -2, -0.75, 1, 3, 3], "textureOffset": [138, 65], "sizeAdd": 0.1}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7],
+			"submodels": [
+				{
+					"id": "barkskin_dryad_leg",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [4.5, 3.5, 6],
+					"boxes": [
+						{"coordinates": [-2, -3.5, -2.5, 4, 5, 5], "textureOffset": [130, 55]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7],
+			"submodels": [
+				{
+					"id": "barkskin_dryad_leg2",
+					"invertAxis": "xy",
+					"translate": [-4.5, 3.5, 6],
+					"boxes": [
+						{"coordinates": [-2, -3.5, -2.5, 4, 5, 5], "textureOffset": [130, 55]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5],
+			"submodels": [
+				{
+					"id": "barkskin_dryad_leg3",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [4.5, 3.5, -3],
+					"boxes": [
+						{"coordinates": [-2, -3.5, -2.5, 4, 5, 5], "textureOffset": [130, 55]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5],
+			"submodels": [
+				{
+					"id": "barkskin_dryad_leg4",
+					"invertAxis": "xy",
+					"translate": [-4.5, 3.5, -4],
+					"boxes": [
+						{"coordinates": [-2, -3.5, -2.5, 4, 5, 5], "textureOffset": [130, 55]}
+					]
+				}
+			]
+		}
+	]
+}

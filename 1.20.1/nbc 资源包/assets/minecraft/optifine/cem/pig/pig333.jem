@@ -1,0 +1,172 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [500, 500],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{"coordinates": [-5, 7, -5, 10, 16, 8], "textureOffset": [28, 8]}
+			],
+			"submodels": [
+				{
+					"id": "carrot",
+					"invertAxis": "xy",
+					"translate": [0, 15, -11],
+					"rotate": [90, 0, 0],
+					"boxes": [
+						{"coordinates": [-4, 14, -4, 2, 1, 2], "textureOffset": [41, 366]},
+						{"coordinates": [2, 14, -2, 2, 1, 2], "textureOffset": [41, 366]},
+						{"coordinates": [1, 14, 4, 2, 1, 2], "textureOffset": [41, 366]}
+					],
+					"submodels": [
+						{
+							"id": "body_sub_127",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{"coordinates": [-4, 14, 2, 2, 2, 2], "textureOffset": [37, 362]}
+							]
+						},
+						{
+							"id": "carrot_stem",
+							"invertAxis": "xy",
+							"translate": [-3, 15, -3],
+							"rotate": [0, -147.5, 0],
+							"boxes": [
+								{"coordinates": [-4.5, 0, 0, 6, 8, 0], "textureOffset": [29, 353]}
+							]
+						},
+						{
+							"id": "carrot_stem2",
+							"invertAxis": "xy",
+							"translate": [3, 15, -1],
+							"rotate": [0, 10, 0],
+							"boxes": [
+								{"coordinates": [-4.5, 0, 0, 6, 8, 0], "textureOffset": [29, 353]}
+							]
+						},
+						{
+							"id": "carrot_stem3",
+							"invertAxis": "xy",
+							"translate": [-3, 16, 3],
+							"rotate": [0, 30, 0],
+							"boxes": [
+								{"coordinates": [-4.5, 0, 0, 6, 8, 0], "textureOffset": [29, 353]}
+							]
+						},
+						{
+							"id": "carrot_stem4",
+							"invertAxis": "xy",
+							"translate": [2, 19, 5],
+							"rotate": [0, -50, 0],
+							"boxes": [
+								{"coordinates": [-4.5, -4, 0, 6, 8, 0], "textureOffset": [29, 353]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6],
+			"boxes": [
+				{"coordinates": [-4, 8, -14, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-3, 9, -15, 6, 3, 1], "textureOffset": [0, 28]}
+			],
+			"submodels": [
+				{
+					"id": "ear",
+					"invertAxis": "xy",
+					"translate": [3, 15, -10],
+					"rotate": [0, 0, 25],
+					"boxes": [
+						{"coordinates": [0, -5, -2, 1, 5, 4], "textureOffset": [18, 16]}
+					]
+				},
+				{
+					"id": "ear2",
+					"invertAxis": "xy",
+					"translate": [-3, 15, -10],
+					"rotate": [0, 0, -25],
+					"boxes": [
+						{"coordinates": [-1, -5, -2, 1, 5, 4], "textureOffset": [18, 25]}
+					]
+				},
+				{
+					"id": "carrot_head",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-4.5, 19, -10, 6, 8, 0], "textureOffset": [29, 353]}
+					],
+					"submodels": [
+						{
+							"id": "head_sub_124",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{"coordinates": [-2, 16, -12, 4, 3, 4], "textureOffset": [25, 362]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"ear.rz": "torad(30)+sin(time/10)/30",
+					"ear2.rz": "torad(-30)-sin(time/10)/30"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7],
+			"boxes": [
+				{"coordinates": [1, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7],
+			"boxes": [
+				{"coordinates": [-5, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5],
+			"boxes": [
+				{"coordinates": [1, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5],
+			"boxes": [
+				{"coordinates": [-5, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}

@@ -1,0 +1,157 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [500, 500],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [-90, 0, 0],
+			"submodels": [
+				{
+					"id": "ministrosity",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [90, 0, 0],
+					"submodels": [
+						{
+							"id": "ministrosity_bottom_body",
+							"invertAxis": "xy",
+							"translate": [0, -6, -15],
+							"boxes": [
+								{"coordinates": [-3.5, -1, -3, 7, 5, 7], "textureOffset": [0, 488]},
+								{"coordinates": [-3.5, -2, -3, 7, 11, 7], "textureOffset": [36, 423]},
+								{"coordinates": [-3.5, 3, -3, 7, 0, 7], "textureOffset": [0, 468]}
+							],
+							"submodels": [
+								{
+									"id": "ministrosity_left_arm",
+									"invertAxis": "xy",
+									"translate": [-4, 3, 0],
+									"rotate": [0, 0, 35],
+									"boxes": [
+										{"coordinates": [-4.5, -2, -2, 5, 3, 4], "textureOffset": [31, 493]},
+										{"coordinates": [-5.5, -2, -2, 1, 3, 4], "textureOffset": [35, 479]}
+									]
+								},
+								{
+									"id": "ministrosity_right_arm",
+									"invertAxis": "xy",
+									"translate": [4, 3, 0],
+									"rotate": [0, 0, -35],
+									"boxes": [
+										{"coordinates": [-0.5, -2, -2, 5, 3, 4], "textureOffset": [31, 486]},
+										{"coordinates": [4.5, -2, -2, 1, 3, 4], "textureOffset": [35, 479]}
+									]
+								}
+							]
+						},
+						{
+							"id": "ministrosity_top_body",
+							"invertAxis": "xy",
+							"translate": [0, -3, -11],
+							"boxes": [
+								{"coordinates": [-3.5, 0, -7, 7, 6, 7], "textureOffset": [0, 475]},
+								{"coordinates": [-1, 1, -7.1, 2, 2, 1], "textureOffset": [0, 475]},
+								{"coordinates": [-3.5, 1, -7, 7, 0, 7], "textureOffset": [0, 468]}
+							],
+							"submodels": [
+								{
+									"id": "ministrosity_santa_hat",
+									"invertAxis": "xy",
+									"translate": [0, -11, 7],
+									"boxes": [
+										{"coordinates": [-4, 16, -14.5, 8, 2, 8], "textureOffset": [65, 477], "sizeAdd": 0.2}
+									],
+									"submodels": [
+										{
+											"id": "ministrosity_santa_hat2",
+											"invertAxis": "xy",
+											"translate": [0, 23.75, -9.5],
+											"rotate": [12.5, 0, 0],
+											"boxes": [
+												{"coordinates": [-3, -6.75, -3, 6, 7, 6], "textureOffset": [80, 487]}
+											],
+											"submodels": [
+												{
+													"id": "ministrosity_santa_hat3",
+													"invertAxis": "xy",
+													"translate": [0, 2, 1],
+													"rotate": [22.5, 0, 0],
+													"boxes": [
+														{"coordinates": [-2, -2.75, -2, 4, 4, 4], "textureOffset": [64, 487], "sizeAdd": 0.1}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": "ministrosity_leg1",
+							"invertAxis": "xy",
+							"translate": [2, -7, -15],
+							"boxes": [
+								{"coordinates": [-1.5, -4, -1, 3, 4, 3], "textureOffset": [51, 492]}
+							]
+						},
+						{
+							"id": "ministrosity_leg2",
+							"invertAxis": "xy",
+							"translate": [-2, -7, -15],
+							"boxes": [
+								{"coordinates": [-1.5, -4, -1, 3, 4, 3], "textureOffset": [51, 492]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6],
+			"animations": [
+				{
+					"ministrosity_leg1.rx": "leg3.rx",
+					"ministrosity_leg2.rx": "leg4.rx",
+					"ministrosity_right_arm.rz": "-sin(limb_swing)*limb_speed",
+					"ministrosity_left_arm.rz": "sin(limb_swing)*limb_speed",
+					"ministrosity_top_body.rx": "sin(limb_swing)*limb_speed/7"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5]
+		}
+	]
+}

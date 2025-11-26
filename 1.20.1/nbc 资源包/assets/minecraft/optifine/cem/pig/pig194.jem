@@ -1,0 +1,277 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [500, 500],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{"coordinates": [-5, 7, -5, 10, 16, 8], "textureOffset": [28, 8]}
+			],
+			"submodels": [
+				{
+					"id": "plant_pot_body",
+					"invertAxis": "xy",
+					"translate": [0, 4, -13],
+					"rotate": [90, 0, 0],
+					"boxes": [
+						{"coordinates": [-3, 16, -13, 6, 6, 6], "textureOffset": [173, 215]},
+						{"coordinates": [-4, 21, -14, 8, 2, 8], "textureOffset": [171, 205]},
+						{"coordinates": [-3, 21, -13, 6, 2, 6], "textureOffset": [168, 227]}
+					],
+					"submodels": [
+						{
+							"id": "christmas_tree",
+							"invertAxis": "xy",
+							"translate": [0, 22, -10],
+							"rotate": [5, 0, 0],
+							"boxes": [
+								{"coordinates": [-1, 0, -1, 2, 14, 2], "textureOffset": [232, 230]},
+								{"coordinates": [-7, 2, 0, 14, 16, 0], "textureOffset": [272, 182]},
+								{"coordinates": [0, 2, -7, 0, 16, 14], "textureOffset": [272, 168]},
+								{"coordinates": [-2, 2, -2, 4, 13, 4], "textureOffset": [283, 198]},
+								{"coordinates": [-1, 14, -1, 2, 1, 2], "textureOffset": [232, 233]},
+								{"coordinates": [-1, 15, -1, 2, 2, 2], "textureOffset": [238, 228]}
+							],
+							"submodels": [
+								{
+									"id": "ornaments",
+									"invertAxis": "xy",
+									"translate": [0, -22, 10],
+									"boxes": [
+										{"coordinates": [4, 23, -11, 2, 2, 2], "textureOffset": [240, 232], "sizeAdd": 0.01},
+										{"coordinates": [-3, 32, -9, 2, 2, 2], "textureOffset": [240, 232], "sizeAdd": 0.01},
+										{"coordinates": [1, 25, -15, 2, 2, 2], "textureOffset": [240, 236], "sizeAdd": 0.01},
+										{"coordinates": [-1, 34, -13, 2, 2, 2], "textureOffset": [240, 236], "sizeAdd": 0.01},
+										{"coordinates": [-2, 40, -11, 4, 4, 2], "textureOffset": [260, 236], "sizeAdd": 0.01},
+										{"coordinates": [-4, 28, -13, 2, 2, 2], "textureOffset": [240, 240], "sizeAdd": 0.01},
+										{"coordinates": [2, 25, -9, 2, 2, 2], "textureOffset": [240, 240], "sizeAdd": 0.01},
+										{"coordinates": [-5, 23, -13, 2, 2, 2], "textureOffset": [246, 234], "sizeAdd": 0.01},
+										{"coordinates": [2, 30, -11, 2, 2, 2], "textureOffset": [246, 230], "sizeAdd": 0.01},
+										{"coordinates": [-4, 27, -9, 2, 2, 2], "textureOffset": [246, 230], "sizeAdd": 0.01},
+										{"coordinates": [-2, 22, -6, 2, 2, 2], "textureOffset": [254, 234], "sizeAdd": 0.01},
+										{"coordinates": [-2, 30, -14, 2, 2, 2], "textureOffset": [254, 234], "sizeAdd": 0.01}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves1",
+									"invertAxis": "xy",
+									"translate": [0, 2, 0],
+									"rotate": [2.5, 0, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 189]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves2",
+									"invertAxis": "xy",
+									"translate": [0, 3, 0],
+									"rotate": [0, 45, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 203]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves3",
+									"invertAxis": "xy",
+									"translate": [-1, 4, 0],
+									"rotate": [-2.5, 90, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -6, 14, 0, 14], "textureOffset": [230, 189]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves4",
+									"invertAxis": "xy",
+									"translate": [0, 5, 0],
+									"rotate": [2.5, 50, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 203]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves5",
+									"invertAxis": "xy",
+									"translate": [0, 6, 0],
+									"rotate": [-2.5, -5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 175]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves6",
+									"invertAxis": "xy",
+									"translate": [0, 7, 0],
+									"rotate": [0, 52.5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 203]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves7",
+									"invertAxis": "xy",
+									"translate": [0, 8, 0],
+									"rotate": [5, -7.5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 175]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves8",
+									"invertAxis": "xy",
+									"translate": [0, 8, 0],
+									"rotate": [-2.5, -7.5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 175]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves9",
+									"invertAxis": "xy",
+									"translate": [0, 10, 0],
+									"rotate": [2.5, 7.5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 175]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves10",
+									"invertAxis": "xy",
+									"translate": [0, 9, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 161]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves11",
+									"invertAxis": "xy",
+									"translate": [0, 11, 0],
+									"rotate": [2.5, -5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 161]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves12",
+									"invertAxis": "xy",
+									"translate": [0, 12, 0],
+									"rotate": [-2.5, 52.5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 147]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves13",
+									"invertAxis": "xy",
+									"translate": [0, 13, 0],
+									"rotate": [5, -5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 161]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves14",
+									"invertAxis": "xy",
+									"translate": [0, 14, 0],
+									"rotate": [0, 32.5, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 147]}
+									]
+								},
+								{
+									"id": "christmas_tree_leaves15",
+									"invertAxis": "xy",
+									"translate": [0, 15, 0],
+									"rotate": [-2.5, 0, 0],
+									"boxes": [
+										{"coordinates": [-7, 0, -7, 14, 0, 14], "textureOffset": [230, 147]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6],
+			"boxes": [
+				{"coordinates": [-4, 8, -14, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-3, 9, -15, 6, 3, 1], "textureOffset": [0, 28]}
+			],
+			"submodels": [
+				{
+					"id": "ear",
+					"invertAxis": "xy",
+					"translate": [3, 15, -10],
+					"rotate": [0, 0, 25],
+					"boxes": [
+						{"coordinates": [0, -5, -2, 1, 5, 4], "textureOffset": [18, 16]}
+					]
+				},
+				{
+					"id": "ear2",
+					"invertAxis": "xy",
+					"translate": [-3, 15, -10],
+					"rotate": [0, 0, -25],
+					"boxes": [
+						{"coordinates": [-1, -5, -2, 1, 5, 4], "textureOffset": [18, 25]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"ear.rz": "torad(30)+sin(time/10)/30",
+					"ear2.rz": "torad(-30)-sin(time/10)/30"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7],
+			"boxes": [
+				{"coordinates": [1, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7],
+			"boxes": [
+				{"coordinates": [-5, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5],
+			"boxes": [
+				{"coordinates": [1, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5],
+			"boxes": [
+				{"coordinates": [-5, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}
