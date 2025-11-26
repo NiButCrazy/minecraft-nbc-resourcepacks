@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v2.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.0.0...v2.1.0) -  v2.0.0..
+## [v2.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.1.0...v2.2.0) -  v2.1.0..
+
+#### :sparkles: 新功能
+
+-  传送石材质重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(17e26dd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/17e26ddf2faf6bc463d0aef0b7d765be2f8894fe)
+
+-  添加骷髅变体 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(90525e7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/90525e7c10dc03f0d261d837f64b0bca437aa506)
+
+-  车万女仆GUI兼容适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(63d3cbd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/63d3cbd8f7daaf1a5de0587412e399c8b9186f65)
+
+#### :bug: 修复
+
+-  修复车万女仆的GUI问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(191cfb9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/191cfb99c0ae907177893a28438d7eb51da48ece)
+
+## [v2.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.0.0...v2.1.0) -  2025/11/26 
 
 #### :sparkles: 新功能
 
