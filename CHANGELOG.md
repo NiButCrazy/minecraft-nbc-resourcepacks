@@ -1,6 +1,34 @@
 ## :memo: 更新日志
 
-## [v2.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.1.0...v2.2.0) -  v2.1.0..
+## [v3.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.2.0...v3.0.0) -  v2.2.0..
+
+#### :sparkles: 新功能
+
+-  热力系列的机器材质回退原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f7b294f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f7b294f25136baf9256d4cb441be148425562550)
+
+-  添加了FTB的全新GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(08c77a4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/08c77a4dffa1997c3e3e34658bedf451ba2fb121)
+
+-  模块傀儡GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a7c26d5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a7c26d5397e2ec73ab15d773d911b479ebb0b433)
+
+-  添加了lootr的全新材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2277fe0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2277fe0ad7b38a33d394ddebd42d79149283cfb6)
+
+-  修改潜影盒材质纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0010030)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/001003064da048d6650fa3c1a98212e2413a841b)
+
+-  沉浸式飞机GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4ea2484)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4ea2484f34f264c66f13f1a099ad8e63e29fd711)
+
+-  新增alex mobs的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f7f6e2b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f7f6e2bd96cb788d355530835c0574f40e9f295e)
+
+#### :bug: 修复
+
+-  修复了箱子纹理的一点问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7edef93)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7edef93f6a8216fe8fc1768114031432b2b2e95d)
+
+-  懒人厨房的容器GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(54196b8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/54196b87e0fc805177efb246bfa4689a29d8d3e1)
+
+-  修复了nameless 饰品导致的图标错误 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3ed2c41)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3ed2c41bed49f4fa734858a6948f3623a65f6edc)
+
+-  模块化傀儡饰品图标小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4757cb0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4757cb0e60642d64346e624ca26016a8be354e00)
+
+## [v2.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.1.0...v2.2.0) -  2025/11/26 
 
 #### :sparkles: 新功能
 
