@@ -84,5 +84,7 @@
   "subtitles.entity.stalker.notice": "潜行者注意到你",
   "tooltips.deeperdarker.crystallized_amber.item": "包含 %s",
   "tooltips.deeperdarker.crystallized_amber.leech": "包含幽匿水蛭",
-  "tooltips.deeperdarker.ice_lily.flowerless": "无花"
+  "tooltips.deeperdarker.ice_lily.flowerless": "无花",
+  "itemGroup.deeperdarker": "幽邃黑暗",
+  "key.categories.deeperdarker": "幽邃黑暗"
 }
