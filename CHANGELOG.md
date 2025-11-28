@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v3.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.2.0...v3.0.0) -  v2.2.0..
+## [v3.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.0.0...v3.1.0) -  v3.0.0..
+
+#### :sparkles: 新功能
+
+-  添加了kubejs实用脚本的类别,添加了沉浸工程的多方块结构的思索索引支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(49dcdca)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/49dcdcaa0107a8c0a159a50a19f50de4dce6cc4d)
+
+-  添加对铁魔法的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(dcd44a6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/dcd44a689059774ac1e9fc7b41288632e5ad7a75)
+
+# [v3.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.2.0...v3.0.0) -  2025/11/27 
 
 #### :sparkles: 新功能
 
