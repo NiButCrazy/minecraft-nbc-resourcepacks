@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v3.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.0.0...v3.1.0) -  v3.0.0..
+## [v3.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.1.0...v3.2.0) -  v3.1.0..
+
+#### :sparkles: 新功能
+
+-  沉浸工程材质重绘 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(014f916)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/014f916051088275591b15f299cd5d76687b4dab)
+
+-  重绘精致存储的材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2a68fcd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2a68fcdb00679e330113aeb09d73d61511f3be1b)
+
+-  精致存储GUI兼容一半 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(88adf80)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/88adf8035ff4311611c01c4adbffe763a69cb137)
+
+#### :bug: 修复
+
+-  small ship 翻译补充 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(be59b59)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/be59b59a25a020909e7951271d5d80eb047f5ef5)
+
+## [v3.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.0.0...v3.1.0) -  2025/11/28 
 
 #### :sparkles: 新功能
 
