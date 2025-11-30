@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v3.2.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.1...v3.2.2) -  v3.2.1..
+## [v3.2.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.2...v3.2.3) -  v3.2.2..
+
+#### :sparkles: 新功能
+
+-  添加了召唤祭坛的data数据包,包含了合成方式和成就 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1e7bac9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1e7bac9a5bb63530d29cb3a726ee813fb549d186)
+
+## [v3.2.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.1...v3.2.2) -  2025/11/30 
 
 #### :sparkles: 新功能
 
