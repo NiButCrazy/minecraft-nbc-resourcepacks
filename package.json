@@ -1,6 +1,6 @@
 {
   "name": "minecraft-nbc-resourcepacks",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "",
   "scripts": {
     "version": "nbc-auto-changelog -p && git add CHANGELOG.md"

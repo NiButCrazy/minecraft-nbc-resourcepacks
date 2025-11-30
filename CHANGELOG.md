@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v3.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.1.0...v3.2.0) -  v3.1.0..
+## [v3.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.0...v3.2.1) -  v3.2.0..
+
+#### :bug: 修复
+
+-  修复了通用机械切割机的材质问题,更改了恶魂和流浪商人的材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f3a41a2)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f3a41a28214ae7b2ac77c81790e38aad3529d586)
+
+## [v3.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.1.0...v3.2.0) -  2025/11/29 
 
 #### :sparkles: 新功能
 
