@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "summoningrituals:altar"
+    },
+    "title": "祭坛 GET！后宫团启动~",
+    "description": "恭喜你解锁了《召唤火箭101》最终环节",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+  },
+  "criteria": {
+    "got_altar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "summoningrituals:altar"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

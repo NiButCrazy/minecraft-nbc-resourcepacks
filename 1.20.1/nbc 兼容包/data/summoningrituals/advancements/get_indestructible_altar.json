@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "summoningrituals:indestructible_altar"
+    },
+    "title": "硬邦邦",
+    "description": "硬邦邦的黑色头颅用来干什么呢？好难猜啊",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "summoningrituals:get_altar",
+  "criteria": {
+    "got_indestructible_altar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "summoningrituals:indestructible_altar"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "GEG",
+    "WWW"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:candle"
+    },
+    "A": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "E": {
+      "item": "minecraft:enchanting_table"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "summoningrituals:altar",
+    "count": 1
+  }
+}
