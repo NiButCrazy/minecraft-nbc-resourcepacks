@@ -17,12 +17,19 @@
       "conditions": {
         "items": [
           {
-            "item": "summoningrituals:indestructible_altar"
+            "items": [
+              "summoningrituals:indestructible_altar"
+            ]
           }
         ]
       }
     }
   },
+  "requirements": [
+    [
+      "got_indestructible_altar"
+    ]
+  ],
   "rewards": {
     "experience": 10
   }

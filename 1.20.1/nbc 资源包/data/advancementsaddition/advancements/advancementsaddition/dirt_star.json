@@ -17,14 +17,23 @@
     },
     "criteria": {
         "dirt": {
-            "trigger": "minecraft:consume_item",
+            "trigger": "minecraft:inventory_changed",
             "conditions": {
-                "item": {
-                    "count": 1
-                }
+                "items": [
+                    {
+                      "items": [
+                        "minecraft:dirt"
+                      ]
+                    }
+                  ]
             }
         }
     },
+    "requirements": [
+        [
+          "dirt"
+        ]
+      ],
     "rewards": {
         "experience": 10
     },

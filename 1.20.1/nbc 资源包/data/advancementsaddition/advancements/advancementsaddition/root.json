@@ -18,7 +18,7 @@
     },
     "criteria": {
         "apple": {
-            "trigger": "minecraft:consume_item",
+            "trigger": "minecraft:tick",
             "conditions": {
                 "item": {
                     "item": "minecraft:enchanted_golden_apple",

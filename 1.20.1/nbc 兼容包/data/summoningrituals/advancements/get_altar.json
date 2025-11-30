@@ -5,7 +5,7 @@
     },
     "title": "祭坛 GET！后宫团启动~",
     "description": "恭喜你解锁了《召唤火箭101》最终环节",
-    "frame": "goal",
+    "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false,
@@ -17,12 +17,19 @@
       "conditions": {
         "items": [
           {
-            "item": "summoningrituals:altar"
+            "items": [
+              "summoningrituals:altar"
+            ]
           }
         ]
       }
     }
   },
+  "requirements": [
+    [
+      "got_altar"
+    ]
+  ],
   "rewards": {
     "experience": 50
   }
