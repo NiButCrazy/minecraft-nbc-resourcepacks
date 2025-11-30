@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v3.2.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.2...v3.2.3) -  v3.2.2..
+## [v3.2.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.3...v3.2.4) -  v3.2.3..
+
+#### :bug: 修复
+
+-  修复了数据包成就的BUG &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8cb4f43)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8cb4f439c6fc3250ae3e6002bb75863fd2eca5a8)
+
+## [v3.2.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.2...v3.2.3) -  2025/11/30 
 
 #### :sparkles: 新功能
 
