@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v3.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.0...v3.2.1) -  v3.2.0..
+## [v3.2.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.1...v3.2.2) -  v3.2.1..
+
+#### :sparkles: 新功能
+
+-  召唤祭坛GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c397b38)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c397b38fc526e3fc0c149ea660ae0e2a10e28a23)
+
+## [v3.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.0...v3.2.1) -  2025/11/30 
 
 #### :bug: 修复
 
