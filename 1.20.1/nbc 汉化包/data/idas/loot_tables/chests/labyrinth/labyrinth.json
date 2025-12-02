@@ -1,0 +1,487 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 2,
+        "max": 4
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:name_tag",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:raw_iron",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 9
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:raw_gold",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 9
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:raw_copper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 9
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:emerald",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "minecraft:bone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 6
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:spider_eye",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 3,
+                "max": 7
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:saddle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:dune_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "idas:music_disc_calidum"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "idas:disc_fragment_slither",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:lead"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:enchanted_golden_apple"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l陷阱！\n\\\"},
+{\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+{\\\"text\\\":\\\"这片阴暗的迷宫之中，布满了阴险致命的陷阱，仿佛在静静地等待着我的到来。\\\"},
+{\\\"text\\\":\\\"刚才，我差点在开启一个诡异的箱子时，被骤然窜出的烈焰吞噬殆尽，那一刻仿佛听见了看不见的低语。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"我开始怀疑，这样的冒险是否值得把生命与灵魂曝露在黑暗之下……\\\"},
+{\\\"text\\\":\\\"但某种无法抗拒的好奇，像无形的手，推着我继续深入。\\\"},
+{\\\"text\\\":\\\"看来，我只能向更深处迈步——不论那里在等待我的是什么。\n\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"——Salazar，声称能征服地牢的孤胆探险者\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Salazar,
+            display:{Lore:[\"藏于阴森的迷宫深处\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "迷宫手稿 1",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l秘密房间！\n\\\"},
+{\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+{\\\"text\\\":\\\"当我不在拼命逃离那些怪物的追杀时，我便小心地在这片阴冷的迷宫中搜索隐藏的房间。\\\"},
+{\\\"text\\\":\\\"到目前为止，我只找到过一个。在那座尘封的图书馆里，有一处暗藏的机关——缓慢地转动后，露出了一个满是黄金的密室，空气却冰冷得仿佛在低声警告我。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"——Salazar，声称能征服地牢的孤胆探险者\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Salazar,
+            display:{Lore:[\"藏于阴森的迷宫深处\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "迷宫手稿 2",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l终结\n\\\"},
+{\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+{\\\"text\\\":\\\"我一直在躲避潜伏在这片迷宫中的怪物，它们的气息如影随形。至今，我仍能听见外头传来低沉的呻吟声，像是在呼唤我的名字。\\\"},
+{\\\"text\\\":\\\"我想，如果我不立刻离开……这里将成为我的葬身之地。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"如果你正在读这段话——不要停下脚步！去打破这片诅咒！\\\"},
+{\\\"text\\\":\\\"找到那被黑暗封存的宝藏！\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"——Salazar，声称能征服地牢的孤胆探险者\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Salazar,
+            display:{Lore:[\"藏于阴森的迷宫深处\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "迷宫手稿 3",
+              "add": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 4,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:bone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:gunpowder",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:string",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:coal",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 6
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "quark:moss_paste",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:dried_kelp",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 3,
+                "max": 7
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:sand",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

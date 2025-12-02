@@ -1,0 +1,191 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:blade_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:arms_up_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:skull_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:howl_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "create:crushed_raw_copper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "create:crushed_raw_zinc"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "create:crushed_raw_gold"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_shovel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:black_candle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "supplementaries:flute"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "supplementaries:rope"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "supplementaries:statue"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "idas:disc_fragment_slither"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:dune_armor_trim_smithing_template"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§l陷阱！\n\\\"},
+                {\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+                {\\\"text\\\":\\\"这座迷宫似乎有生命，它在暗处埋下阴险的陷阱。\\\"},
+                {\\\"text\\\":\\\"方才，一个布满符文的箱子几乎让我葬身火海……\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"我无法判断这里的秘密是否值得冒此风险，\\\"},
+                {\\\"text\\\":\\\"但某种古老而邪恶的低语正在促使我向前……\\\"},
+                {\\\"text\\\":\\\"我……无法停下脚步。\n\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"——Salazar，地牢克星\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Salazar,
+            display:{Lore:[\"长眠于迷宫的密室\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "迷宫笔记 1",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§l隐秘房间\n\\\"},
+                {\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+                {\\\"text\\\":\\\"在长廊深处，我偶尔能逃离追逐我的畸形生物，\\\"},
+                {\\\"text\\\":\\\"然后开始搜寻那些被阴影掩盖的密室。\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"迄今为止，我只发现了一个——在被灰尘覆盖的图书馆中，一柄隐匿的曲柄悄然转动，缓缓开启了通往黄金之室的大门。\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"——Salazar，地牢克星\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Salazar,
+            display:{Lore:[\"长眠于迷宫的密室\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "迷宫笔记 2",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§l终局\n\\\"},
+                {\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+                {\\\"text\\\":\\\"我已退至角落，躲避那些在迷宫中游弋的怪物。它们的呻吟声，如同冷风般贴着我的耳骨呢喃。\\\"},
+                {\\\"text\\\":\\\"若我不立刻离开，这里将成为我的坟墓。\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"若你能看到此刻的文字，务必继续前进！斩断这古老的诅咒！\\\"},
+                {\\\"text\\\":\\\"寻找被阴影封印的宝藏！\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"——Salazar，地牢克星\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Salazar,
+            display:{Lore:[\"长眠于迷宫的密室\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "迷宫笔记 3",
+              "add": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

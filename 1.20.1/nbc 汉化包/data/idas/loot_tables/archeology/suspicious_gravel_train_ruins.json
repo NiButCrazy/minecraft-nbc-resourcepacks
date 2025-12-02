@@ -1,0 +1,143 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "create:rose_quartz"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:metal_bracket"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:steam_whistle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:wrench"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:cinder_flour"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:clipboard"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:brass_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:iron_sheet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:golden_sheet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+              "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§l全员登车！！\n\\\"},
+                {\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+                {\\\"text\\\":\\\"我刚刚登上了人生中第一列火车！\\\"},
+                {\\\"text\\\":\\\"听说它比最快的骏马还要快！\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"不可思议，一个普通农夫也能如此优雅地旅行！我正前往附近的城堡\\\"},
+                {\\\"text\\\":\\\"去出售我的珍稀农作物。希望他们会喜欢甜菜！\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在废弃列车的残骸中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "火车日志 1",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+              "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§l列车长手记\n\\\"},
+                {\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+                {\\\"text\\\":\\\"今天是我作为这辆壮丽火车的列车长的第一天！\\\"},
+                {\\\"text\\\":\\\"我的工作只是停车和启动，它会沿轨道自行前进。\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"这能有多难呢？\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在废弃列车的残骸中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "火车日志 2",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+              "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§l退役通告\n\\\"},
+                {\\\"text\\\":\\\"~~~~~~~~~\n\\\"},
+                {\\\"text\\\":\\\"这列火车即将退役。这会是我最后一次乘坐它。\\\"},
+                {\\\"text\\\":\\\"§k已涂黑\\\"},
+                {\\\"text\\\":\\\" 已经入侵了这片土地……\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"我们已不再安全。空气里充满压抑，连车轮的回响都在颤抖。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在废弃列车的残骸中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "火车日志 3",
+              "add": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

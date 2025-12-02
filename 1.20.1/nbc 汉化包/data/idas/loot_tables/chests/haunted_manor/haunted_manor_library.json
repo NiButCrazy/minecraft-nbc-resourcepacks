@@ -1,0 +1,339 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l记录一：邂逅\n\\\"},
+{\\\"text\\\":\\\"我遇到了一位令人惊叹的女子！她的红色和服在昏暗中宛若燃烧的火焰。\\\"},
+{\\\"text\\\":\\\"她向我倾诉那些奇异而美丽的景象，那声音仿佛在我耳边低语，诱使我去掌握探索的技艺。我渴望有一天能踏入她的家园，看看那未知的深处。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在诡影庄园中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "诡异手稿 #1",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l记录二：改造\n\\\"},
+{\\\"text\\\":\\\"数周过去，一切似乎顺利得令人心安。然而，她与我的仆人们相处得过于默契，仿佛隐藏着某种默默的契约。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"我的猫依然有些畏惧她，但它一直胆小。我深爱的她甚至提出要求——改造一间房间。我迫不及待地想看看她会如何改变它，仿佛那个房间正等着迎接某种未知的存在。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在诡影庄园中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "诡异手稿 #1",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l记录三：尖叫\n\\\"},
+{\\\"text\\\":\\\"几天过去了，尖叫声依然没有停止，仿佛从墙壁与地板的缝隙中渗出，缠绕在每一次呼吸里。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"我不敢下去看究竟发生了什么，更不想知道真相。她说一切都好，我只能选择相信——或许，这才是活下去的唯一办法。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在诡影庄园中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "诡异手稿 #3",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l记录四：对不起\n\\\"},
+{\\\"text\\\":\\\"对不起，对不起，对不起……我亲手引来了一只怪物，将我自己的部下如同盛宴上的祭品般奉上。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"它前几天送了我一份“礼物”——丹尼斯的头，被整齐地包裹在礼盒之中。那一刻，我几乎呕出胃里的所有东西，却只能将恶心与恐惧生生咽下。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在诡影庄园中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "诡异手稿 #4",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+    {\\\"text\\\":\\\"§l记录五：囚困\n\\\"},
+{\\\"text\\\":\\\"我诱它跟随我前往地窖，说那里还有更多的仆人。我不知道它为何会听从，也不知道它为何会跟来。\n但我成功了——我困住了它。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在诡影庄园中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "诡异手稿 #5",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+{\\\"text\\\":\\\"§l记录六：终结\n\\\"},
+{\\\"text\\\":\\\"过去一周，我已经挖了太多的坟墓。每填上一次土，就好像又有一具灵魂攀附在我的背上，沉得我几乎无法呼吸。\\\"}
+]\",
+\"[
+{\\\"text\\\":\\\"这些日子，我已无法安眠。有时，我发誓透过窗子看见她的脸——那张既美丽又狰狞的脸。她一定在自己的地狱中诅咒我。别担心，我很快就会去陪她。\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在诡影庄园中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "诡异手稿 #6",
+              "add": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 2,
+        "max": 10
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 7
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 20
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 1
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:writable_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "create:crafting_blueprint",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:painting",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "quark:abacus",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

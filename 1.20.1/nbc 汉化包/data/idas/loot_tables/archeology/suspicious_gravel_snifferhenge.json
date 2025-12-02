@@ -1,0 +1,162 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:flint_and_steel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:snort_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:shelter_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:explorer_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:arms_up_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:howl_pottery_sherd"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "create:crushed_raw_copper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "create:crushed_raw_zinc"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "create:crushed_raw_iron"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:pink_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:pink_candle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "quark:pink_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§k已涂黑\\\"},
+                {\\\"text\\\":\\\"§l的日志\n第202日\n\n\\\"},
+                {\\\"text\\\":\\\"旅途中，我偶然闯入一片诡异的石阵。石面上仿佛存有低语，与风一同渗入骨髓。\\\"},
+                {\\\"text\\\":\\\"这里，埋葬着一个早已湮灭的古代文明……而我似乎被它盯上了.\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在神秘的石阵中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "石阵日志 1/3",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"§k已涂黑\\\"},
+                {\\\"text\\\":\\\"§l的日志\n第209日\n\n\\\"},
+                {\\\"text\\\":\\\"在这片残破的废墟中，我徘徊了数日，似乎有东西在注视，并低声引诱我向更深处前行。\\\"},
+                {\\\"text\\\":\\\"\n我找到了那个……秘密\\\"}
+              ]\",
+              \"[
+                {\\\"text\\\":\\\"点燃一线微光……\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在神秘的石阵中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "石阵日志 2/3",
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function":"set_nbt",
+        "tag":"{
+          pages:[
+              \"[
+                \\\"\\\",
+                {\\\"text\\\":\\\"给我食物，我便长存.\n\\\"},
+                {\\\"text\\\":\\\"给我水，我便殒灭.\n\\\"},
+                {\\\"text\\\":\\\"我...是谁?\\\"}
+              ]\"
+            ],
+            title:Journal,
+            author:Unknown,
+            display:{Lore:[\"在神秘的石阵中发现\"]}
+            }"},
+            {
+              "function": "minecraft:set_name",
+              "name": "石阵日志 3/3",
+              "add": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
