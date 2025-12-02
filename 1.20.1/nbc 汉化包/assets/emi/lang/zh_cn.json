@@ -1,0 +1,5 @@
+{
+  "tooltip.emi.synfav.obtained": "已获取：%s/%s",
+  "tooltip.emi.synfav.remaining": "剩余：%s",
+  "tooltip.emi.synfav.batches_remaining": "剩余可制作次数：%s"
+}
