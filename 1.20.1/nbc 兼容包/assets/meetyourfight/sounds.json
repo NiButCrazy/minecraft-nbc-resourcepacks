@@ -1,0 +1,10 @@
+{
+	"item.proc.slicers_dice": {
+		"subtitle": "subtitles.meetyourfight.item.bonus_damage",
+		"sounds": [ { "name": "minecraft:mob/zombie/woodbreak", "volume": 0.1 } ]
+	},
+	"item.proc.ace_of_iron": {
+		"subtitle": "subtitles.meetyourfight.item.damage_negated",
+		"sounds": [ { "name": "minecraft:random/anvil_land", "volume": 0.1 } ]
+	}
+}
