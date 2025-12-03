@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/piglin/piglin_head.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": 0.25}
+			],
+			"submodels": [
+				{
+					"id": "ear1",
+					"invertAxis": "xy",
+					"translate": [4, 6, 0],
+					"rotate": [0, 0, 30],
+					"boxes": [
+						{"coordinates": [-2, -5, -2, 1, 5, 4], "textureOffset": [54, 23]}
+					]
+				},
+				{
+					"id": "ear2",
+					"invertAxis": "xy",
+					"translate": [-4, 6, 0],
+					"rotate": [0, 0, -30],
+					"boxes": [
+						{"coordinates": [1, -5, -2, 1, 5, 4], "textureOffset": [54, 23]}
+					]
+				}
+			]
+		}
+	]
+}
