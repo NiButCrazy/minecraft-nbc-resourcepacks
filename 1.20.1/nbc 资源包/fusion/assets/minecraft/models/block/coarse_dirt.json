@@ -2,6 +2,7 @@
   "loader": "fusion:model",
   "type": "connecting",
   "parent": "block/block",
+  "render_type": "cutout",
   "textures": {
      "particle": "#all",
      "all": "minecraft:block/coarse_dirt",
