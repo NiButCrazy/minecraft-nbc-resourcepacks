@@ -29,22 +29,6 @@
 					]
 				},
 				{
-					"id": "blink",
-					"invertAxis": "xy",
-					"translate": [0, 20, -11],
-					"boxes": [
-						{
-							"coordinates": [-4, -4, -3, 8, 8, 6],
-							"uvNorth": [54, 0, 62, 8],
-							"uvEast": [0, 6, 6, 14],
-							"uvSouth": [20, 6, 28, 14],
-							"uvWest": [14, 6, 20, 14],
-							"uvUp": [14, 6, 6, 0],
-							"uvDown": [22, 0, 14, 6]
-						}
-					]
-				},
-				{
 					"id": "horns",
 					"invertAxis": "xy",
 					"mirrorTexture": "u",
@@ -190,9 +174,7 @@
 					"ear_l.rz": "torad(-22.5)+sin(time/10)/15",
 					"ear_r.rz": "torad(22.5)-sin(time/10)/15",
 					"var.counter": "if(frame_counter == var.frame_counter_prev, var.counter, var.counter > 1, 0, var.counter + 0.035 * frame_time*5)",
-					"var.frame_counter_prev": "frame_counter",
-					"blink.visible": "var.counter < 0.05",
-					"face.visible": "!blink.visible"
+					"var.frame_counter_prev": "frame_counter"
 				}
 			]
 		},

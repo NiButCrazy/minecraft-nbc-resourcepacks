@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textureSize": [128, 128],
 	"models": [
 		{
@@ -18,22 +19,6 @@
 							"translate": [0, 23, -12],
 							"boxes": [
 								{"coordinates": [-6, -5, -4, 12, 10, 8], "textureOffset": [44, 82]}
-							]
-						},
-						{
-							"id": "blink",
-							"invertAxis": "xy",
-							"translate": [0, 23, -12],
-							"boxes": [
-								{
-									"coordinates": [-6, -5, -4, 12, 10, 8],
-									"uvNorth": [86, 90, 98, 100],
-									"uvEast": [44, 90, 52, 100],
-									"uvSouth": [72, 90, 84, 100],
-									"uvWest": [64, 90, 72, 100],
-									"uvUp": [64, 90, 52, 82],
-									"uvDown": [76, 82, 64, 90]
-								}
 							]
 						}
 					]
@@ -148,8 +133,6 @@
 					"head.ry": "0",
 					"var.counter": "if(frame_counter == var.frame_counter_prev, var.counter, var.counter > 1, 0, var.counter + 0.035 * frame_time*5)",
 					"var.frame_counter_prev": "frame_counter",
-					"blink.visible": "var.counter < 0.05",
-					"face.visible": "!blink.visible",
 					"head.sx": "if(is_child, 0.5, 1)",
 					"head.sy": "head.sx",
 					"head.sz": "head.sx"
