@@ -1,6 +1,44 @@
 ## :memo: 更新日志
 
-## [v3.2.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.3...v3.2.4) -  v3.2.3..
+## [v4.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.4...v4.0.0) -  v3.2.4..
+
+#### :sparkles: 新功能
+
+-  添加了全新的耄耋纹理和模型 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a817c0a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a817c0a6991d02835153dc00274b310594967e5c)
+
+-  地牢建筑统合汉化书籍内容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d2f2f22)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d2f2f220f5d8c928e9e6d80565a91b94fab047be)
+
+-  地牢建筑统合添加汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3629875)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/36298750dfc6627f511df661e803c38366b40c30)
+
+-  添加了 Structure Gel API 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c3bf51b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c3bf51bf0e0189610715718159c6358106fc351f)
+
+-  添加了全新的狼材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(724223b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/724223be7ca0bfe52eaa741d0d03bf4acb6d75ec)
+
+-  添加了蔚蓝浩空结构翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e721e84)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e721e84badd565c679ace4daa5b9c58f550cdb1a)
+
+-  添加emi翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e0bcf4a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e0bcf4a1a010fa2fd1496167c825ea34a6a80404)
+
+#### :bug: 修复
+
+-  修复了大部分optifine模型纹理显示异常的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4c606ef)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4c606ef8002285dd0efd6c6a3dc1e9eb1776c1e5)
+
+-  删掉了眨眼动作,防止纹理显示异常 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0b386da)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0b386dafec2c7337393848181c394873707cd439)
+
+-  修复了猪灵头颅显示错误的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(78fd508)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/78fd5086a21cd1f32808b30894e8fb7e2b4bb52c)
+
+-  迎战的音效声音调小 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(841154f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/841154f0e4153ceab7603bd796b6b5c3e744cc76)
+
+-  修了fusion连接纹理颜色 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a51dae3)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a51dae31374de5ced0acd6cc37713e2dc7fb919f)
+
+-  修复了砂土材质问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e5f2ec5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e5f2ec5814d9d6f59b18f7d72f29e29d887630df)
+
+-  修复了成就GUI显示问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ad937ec)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ad937ec93cf77f33f6247de3b8225e295cf59175)
+
+#### :recycle: 重构
+
+-  更换了诡异疣块纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7d469fd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7d469fd5f7fa1fdd8738e2e653d6a33f03b84d2b)
+
+## [v3.2.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.3...v3.2.4) -  2025/11/30 
 
 #### :bug: 修复
 
