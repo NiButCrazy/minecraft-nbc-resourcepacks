@@ -1,6 +1,5 @@
 {
 	"textureSize": [64, 64],
-	"texture": "textures/entity/cow/calf.png",
 	"models": [
 		{
 			"part": "head",
