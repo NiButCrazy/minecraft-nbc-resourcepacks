@@ -1823,5 +1823,10 @@
   "structure.joshie.village_ocean": "海上村庄",
   "structure.joshie.blossom_blade": "樱下剑冢",
   "structure.joshie.libraries.cold": "古寒书阁",
-  "structure.joshie.libraries.normal": "失落书阁"
+  "structure.joshie.libraries.normal": "失落书阁",
+
+  "_comment": "The Forgotten Dimensions",
+  "structure.the_forgotten_dimensions.avariel_outpost_1": "[TFD]真冰哨所二",
+  "structure.the_forgotten_dimensions.avariel_outpost_0": "[TFD]真真冰哨所一",
+  "structure.the_forgotten_dimensions.ancient_snow_castle": "[TFD]真远古雪之堡垒"
 }
