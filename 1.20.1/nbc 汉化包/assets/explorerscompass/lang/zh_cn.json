@@ -1787,5 +1787,41 @@
   "structure.twilightforest.quest_grove": "[暮色森林]谜题羊树丛",
   "structure.twilightforest.small_hollow_hill": "[暮色森林]空心矿山",
   "structure.twilightforest.troll_cave": "[暮色森林]巨魔洞穴",
-  "structure.twilightforest.yeti_cave": "[暮色森林]雪怪洞窟"
+  "structure.twilightforest.yeti_cave": "[暮色森林]雪怪洞窟",
+
+  "_comment": "Awesome Dungeon - 海洋扩展",
+  "structure.awesomedungeonocean.brigantine": "[Awesome Dungeon - 海洋扩展]双桅帆船",
+  "structure.awesomedungeonocean.frigate_large": "[Awesome Dungeon - 海洋扩展]大型护卫舰",
+  "structure.awesomedungeonocean.frigate_medium": "[Awesome Dungeon - 海洋扩展]中型护卫舰",
+  "structure.awesomedungeonocean.ocean_cage": "[Awesome Dungeon - 海洋扩展]海底牢笼",
+  "structure.awesomedungeonocean.ocean_quad": "[Awesome Dungeon - 海洋扩展]海洋四角屋",
+  "structure.awesomedungeonocean.ocean_ruin_pillager": "[Awesome Dungeon - 海洋扩展]海底掠夺者遗迹",
+  "structure.awesomedungeonocean.ocean_ruin_vanilla_temple": "[Awesome Dungeon - 海洋扩展]原版海洋神殿残骸",
+  "structure.awesomedungeonocean.ocean_temple_quad": "[Awesome Dungeon - 海洋扩展]四柱海洋神殿",
+  "structure.awesomedungeonocean.ocean_the_column_temple": "[Awesome Dungeon - 海洋扩展]海洋神柱庙宇",
+  "structure.awesomedungeonocean.ocean_warn_temple": "[Awesome Dungeon - 海洋扩展]海洋警告神庙",
+
+  "_comment": "老鼠",
+  "structure.rats.baron_runway":"[老鼠]老鼠男爵的机场跑道",
+  "structure.rats.dutchrat_ship":"[老鼠]鼠西洲幽灵船",
+
+  "_comment": "Subsurface",
+  "structure.subsurface.coral_caves": "[Subsurface]珊瑚洞穴",
+  "structure.subsurface.foliage_caves": "[Subsurface]林叶洞穴",
+  "structure.subsurface.fungal_caves": "[Subsurface]蘑菇洞穴",
+  "structure.subsurface.icicle_caves": "[Subsurface]冰锥洞穴",
+  "structure.subsurface.mesa_caves": "[Subsurface]红沙洞穴",
+  "structure.subsurface.quartz_canyons": "[Subsurface]石英峡谷",
+  "structure.subsurface.sand_caves": "[Subsurface]沙洞穴",
+  "structure.subsurface.soul_canyons": "[Subsurface]灵魂峡谷",
+  "structure.subsurface.swamp_caves": "[Subsurface]沼泽洞穴",
+  "structure.subsurface.underground_forest": "[Subsurface]地下森林",
+  "structure.subsurface.underground_taiga": "[Subsurface]地下针叶林",
+  "structure.subsurface.cave_blocker": "[Subsurface]洞穴封锁器",
+
+  "_comment": "joshie",
+  "structure.joshie.village_ocean": "海上村庄",
+  "structure.joshie.blossom_blade": "樱下剑冢",
+  "structure.joshie.libraries.cold": "古寒书阁",
+  "structure.joshie.libraries.normal": "失落书阁"
 }
