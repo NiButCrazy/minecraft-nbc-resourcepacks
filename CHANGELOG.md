@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v4.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.4...v4.0.0) -  v3.2.4..
+## [v4.0.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.0...v4.0.4) -  v4.0.0..
+
+#### :sparkles: 新功能
+
+-  添加了马的全新材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(86b0f64)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/86b0f64b5c48fc2070af548dd601182527f96351)
+
+-  探险者指针更多结构汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5691d60)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5691d60114848f478305897b93892f5681cf0bae)
+
+-  末影人新材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(592cc3a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/592cc3acc3b7a31518c83da4328bcf321e2db9e5)
+
+#### :books: 样式
+
+-  删除丑丑灯方块 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(93800c9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/93800c93c5b2e66e6d5837b259409522a32c6494)
+
+# [v4.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.4...v4.0.0) -  2025/12/03 
 
 #### :sparkles: 新功能
 
