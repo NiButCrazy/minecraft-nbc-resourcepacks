@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v4.0.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.0...v4.0.4) -  v4.0.0..
+## [v4.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.4...v4.0.5) -  v4.0.4..
+
+#### :sparkles: 新功能
+
+-  全新自然/探索者指南针材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b11fc81)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b11fc812deeeed30719f68dd52efbbc52c383c5c)
+
+-  小修ae2的材质包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4a867f2)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4a867f25755713b25b3209eef6fd24d125de9f7f)
+
+## [v4.0.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.0...v4.0.4) -  2025/12/04 
 
 #### :sparkles: 新功能
 
