@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.5...v4.0.6) -  v4.0.5..
+## [v4.0.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.6...v4.0.7) -  v4.0.6..
+
+#### :sparkles: 新功能
+
+-  植物魔法成就翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3b60a86)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3b60a861d0b69f9a6beadf0cf41792304582143a)
+
+## [v4.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.5...v4.0.6) -  2025/12/05 
 
 #### :sparkles: 新功能
 
