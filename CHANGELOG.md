@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.4...v4.0.5) -  v4.0.4..
+## [v4.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.5...v4.0.6) -  v4.0.5..
+
+#### :sparkles: 新功能
+
+-  void miners 材质和汉化更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f7c0725)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f7c072514bd94b79cc7cb1a31a5ed908448617fd)
+
+## [v4.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.4...v4.0.5) -  2025/12/05 
 
 #### :sparkles: 新功能
 
