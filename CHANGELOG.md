@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v4.0.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.6...v4.0.7) -  v4.0.6..
+## [v4.0.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.7...v4.0.8) -  v4.0.7..
+
+#### :sparkles: 新功能
+
+-  实体纹理特性汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5965dc5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5965dc55802fa0d69d8cad840c0e0211346349a6)
+
+-  实体纹理特性GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(be7b6cd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/be7b6cd37fdcaa8c068b13169c911850108d5767)
+
+#### :bug: 修复
+
+-  crateGUI兼容修复 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8e59a71)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8e59a717c38497013ab0944dccf9c8b9ed53c39a)
+
+## [v4.0.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.6...v4.0.7) -  2025/12/05 
 
 #### :sparkles: 新功能
 
