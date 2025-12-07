@@ -1,6 +1,26 @@
 ## :memo: 更新日志
 
-## [v4.0.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.7...v4.0.8) -  v4.0.7..
+## [v4.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.8...v4.1.0) -  v4.0.8..
+
+#### :sparkles: 新功能
+
+-  fusion玻璃板优化,兼容连接纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6c0da70)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6c0da70616325f052c77affb1edb723900e406ce)
+
+-  更多熔炉翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f012a7f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f012a7f8dbe9d807f44e837fa33eee1c081a16ca)
+
+-  蔚蓝浩空翻译更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4ac4785)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4ac4785614c92c099bfb31842fff8b65cd0cfe5b)
+
+-  添加了create低版本GUI兼容包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6484cd8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6484cd87932e3706d3cc18d3ce7557bd590fc339)
+
+-  添加了emi蓝图的翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0d07f64)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0d07f64c1dfff9931f18f7a98c9a8e5b701bfb82)
+
+#### :bug: 修复
+
+-  修复了更多熔炉成就问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(355b075)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/355b075b061d2267848f5b0ea608cec2d477769f)
+
+-  create低版本兼容包路径修复 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f470660)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f4706602f28a0bd182cb66c046b03ea2761bde50)
+
+## [v4.0.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.7...v4.0.8) -  2025/12/06 
 
 #### :sparkles: 新功能
 
