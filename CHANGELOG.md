@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v4.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.8...v4.1.0) -  v4.0.8..
+## [v4.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.0...v4.1.2) -  v4.1.0..
+
+#### :sparkles: 新功能
+
+-  暮色森林材质翻新并修复虫子材质问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6856533)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6856533212d756c51e3962b480d831e882ff5ed9)
+
+#### :bug: 修复
+
+-  小修create兼容包材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(71e0b26)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/71e0b26975f84c0896f366b27e63ae2624a0d497)
+
+## [v4.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.8...v4.1.0) -  2025/12/07 
 
 #### :sparkles: 新功能
 
