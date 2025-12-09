@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.0...v4.1.2) -  v4.1.0..
+## [v4.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.2...v4.1.3) -  v4.1.2..
+
+#### :sparkles: 新功能
+
+-  添加了物品拾取的汉化翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ebbf060)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ebbf06006cc35b04007798966133a0ed34996242)
+
+## [v4.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.0...v4.1.2) -  2025/12/08 
 
 #### :sparkles: 新功能
 
