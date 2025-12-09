@@ -1,0 +1,47 @@
+{
+  "pickup.loot_journal.item_single": "%s",
+  "pickup.loot_journal.item_multiple": "%s x%s",
+  "pickup.loot_journal.grouped_items_single": "%s 更多物品",
+  "pickup.loot_journal.grouped_items_multiple": "%s 更多物品",
+  "pickup.loot_journal.experience_single": "经验",
+  "pickup.loot_journal.experience_multiple": "经验 (%s)",
+
+  "text.autoconfig.obscuria/loot_journal-client.title": "Loot Journal",
+
+  "text.autoconfig.obscuria/loot_journal-client.option.display": "显示设置",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.style": "消息样式",
+
+  "text.autoconfig.obscuria/loot_journal-client.option.display.itemEntry": "物品拾取",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.itemEntry.display": "显示物品拾取",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.itemEntry.displayTotalAmount": "显示所有物品数量",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.itemEntry.useItemFormatting": "使用 Minecraft 文本格式",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.itemEntry.color": "文本颜色",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.itemEntry.italic": "斜体字",
+
+  "text.autoconfig.obscuria/loot_journal-client.option.display.aggregatedEntry": "合并显示拾取记录",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.aggregatedEntry.display": "显示汇总拾取记录",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.aggregatedEntry.color": "文本颜色",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.aggregatedEntry.italic": "斜体字",
+
+  "text.autoconfig.obscuria/loot_journal-client.option.display.experienceEntry": "经验拾取",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.experienceEntry.display": "显示经验拾取",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.experienceEntry.color": "文本颜色",
+  "text.autoconfig.obscuria/loot_journal-client.option.display.experienceEntry.italic": "斜体字",
+
+  "text.autoconfig.obscuria/loot_journal-client.option.layout": "布局设置",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.anchor": "屏幕位置",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.anchorPixelOffset": "偏移量",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.anchorPercentOffset": "相对偏移量 (%)",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.scale": "消息缩放倍率 (%)",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.separation": "行间距",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.lifetime": "消息持续时间 (秒)",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.displayCapacity": "最大显示消息数量",
+  "text.autoconfig.obscuria/loot_journal-client.option.layout.queueCapacity": "消息列表尺寸",
+
+  "text.autoconfig.obscuria/loot_journal-client.option.filter": "过滤设置",
+  "text.autoconfig.obscuria/loot_journal-client.option.filter.defaultItemPolicy": "默认过滤规则",
+  "text.autoconfig.obscuria/loot_journal-client.option.filter.itemIdBlacklist": "物品 ID 黑名单",
+  "text.autoconfig.obscuria/loot_journal-client.option.filter.itemIdWhitelist": "物品 ID 白名单",
+  "text.autoconfig.obscuria/loot_journal-client.option.filter.modIdBlacklist": "模组 ID 黑名单",
+  "text.autoconfig.obscuria/loot_journal-client.option.filter.modIdWhitelist": "模组 ID 白名单"
+}
