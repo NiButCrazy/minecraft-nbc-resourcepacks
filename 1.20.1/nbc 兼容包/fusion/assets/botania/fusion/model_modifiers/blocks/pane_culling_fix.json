@@ -1,0 +1,8 @@
+{
+  "pane_culling_fix": true,
+  "targets": [
+    "botania:bifrost_pane",
+    "botania:elf_glass_pane",
+    "botania:mana_glass_pane"
+  ]
+}
