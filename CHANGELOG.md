@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.1.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.3...v4.1.4) -  v4.1.3..
+## [v4.1.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.4...v4.1.5) -  v4.1.4..
+
+#### :bug: 修复
+
+-  修复了植物魔法玻璃板连接纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cd9b61e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cd9b61efbaa48cdb94614e9b9dec04ebae93e74d)
+
+## [v4.1.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.3...v4.1.4) -  2025/12/10 
 
 #### :sparkles: 新功能
 
