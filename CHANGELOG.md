@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.2...v4.1.3) -  v4.1.2..
+## [v4.1.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.3...v4.1.4) -  v4.1.3..
+
+#### :sparkles: 新功能
+
+-  添加了沉浸工程的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5d545f4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5d545f40052f979b036d6ab92b08ea2029e15cd6)
+
+## [v4.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.2...v4.1.3) -  2025/12/09 
 
 #### :sparkles: 新功能
 
