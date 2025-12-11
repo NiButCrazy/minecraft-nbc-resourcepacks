@@ -21,6 +21,18 @@
   {
     "target_class":
       {
+        "name":"ironfurnaces.items.ItemMillionFurnace"
+      },
+      "pairs": [
+        {
+          "key":"Cooktime: ",
+          "value":"熔炼所需时间: "
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
         "name":"ironfurnaces/items/ItemFurnaceCopy"
       },
       "pairs": [
@@ -76,6 +88,27 @@
           "key":"Redstone Value: ",
           "value":"红石信号: "
         }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"ironfurnaces/gui/furnaces/BlockIronFurnaceScreenBase"
+      },
+      "pairs": [
+        {
+          "key":"Auto Split",
+          "value":"自动整理"
+        },
+        {
+          "key":"ON",
+          "value":"开"
+        },
+        {
+          "key":"OFF",
+          "value":"关"
+        }
+
       ]
   }
 ]
