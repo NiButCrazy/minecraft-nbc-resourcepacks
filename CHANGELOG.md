@@ -1,6 +1,22 @@
 ## :memo: 更新日志
 
-## [v4.1.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.4...v4.1.5) -  v4.1.4..
+## [v4.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.5...v4.2.0) -  v4.1.5..
+
+#### :sparkles: 新功能
+
+-  添加了饰品收纳盒的GUI兼容与翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(df1a3d3)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/df1a3d3e0ef1072cb3629b0b496302b19c615822)
+
+-  更新收纳盒物品纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(188baa1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/188baa1716ad3c8c55299d940ffe5828ced98e97)
+
+-  全新铜块连接纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(86b1bad)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/86b1bad5371f7a76526d056e613b9ef1ba3045fa)
+
+-  小修铜块变体纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4021738)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/40217384b164d840d941d2a1a67d9c857faa84e3)
+
+#### :bug: 修复
+
+-  小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b2f109d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b2f109df56ef775f859664d1700782745d6f58cf)
+
+## [v4.1.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.4...v4.1.5) -  2025/12/10 
 
 #### :bug: 修复
 
