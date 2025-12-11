@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.5...v4.2.0) -  v4.1.5..
+## [v4.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.0...v4.2.1) -  v4.2.0..
+
+#### :bug: 修复
+
+-  修复了信标不显示GUI按钮图标的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(530eb69)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/530eb698f0de373d4b6cb9cf67a3af1c14cf3d5e)
+
+## [v4.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.5...v4.2.0) -  2025/12/11 
 
 #### :sparkles: 新功能
 
