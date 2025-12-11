@@ -84,7 +84,7 @@
   "tooltip.nameless_trinkets.callus_3": "受到伤害减少 %1$s.",
 
 
-  "tooltip.nameless_trinkets.cracked_crown_1": "属性+50%",
+  "tooltip.nameless_trinkets.cracked_crown_1": "属性 +50%",
   "tooltip.nameless_trinkets.cracked_crown_2": "提升所有属性",
 
   "tooltip.nameless_trinkets.creeper_sense_1": "当你按下Shift时,你会爆炸",
@@ -119,7 +119,7 @@
   "tooltip.nameless_trinkets.gills_2": "你不能呼吸空气",
   "tooltip.nameless_trinkets.gills_3": "仅在水下时可移动",
 
-  "tooltip.nameless_trinkets.gods_crown_1": "属性120%",
+  "tooltip.nameless_trinkets.gods_crown_1": "属性 +120%",
   "tooltip.nameless_trinkets.gods_crown_2": "提升所有属性",
 
   "tooltip.nameless_trinkets.ice_cube_1": "攻击时施加 %2$s 秒的缓慢 %1$s 效果.",
