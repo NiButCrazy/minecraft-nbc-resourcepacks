@@ -108,9 +108,7 @@
 
 
 
-    
-    {"type": "bitmap", "height": 28, "ascent": -88, "chars": ["\uEc21"],
-        "file": "minecraft:gui/interfaces/beacon_curtain.png"},
+
     {"type": "bitmap", "height": 183, "ascent": 42, "chars": ["\uEc22"],
         "file": "minecraft:gui/interfaces/beacon_glow.png"},
 
