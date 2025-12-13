@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v4.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.0...v4.2.1) -  v4.2.0..
+## [v4.2.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.1...v4.2.6) -  v4.2.1..
+
+#### :sparkles: 新功能
+
+-  添加应用通量的翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(023725f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/023725ff10351f751324057bd14c432baf6c978b)
+
+-  更新西瓜纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(22d2cb1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/22d2cb15c3efb402b4c169ae6bdd8d5e55c49929)
+
+-  ae2新增部分翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c84736c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c84736ccbdc88d5334b3d3f3947fd04704e9ad21)
+
+-  修复了疣猪兽的材质错误 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0777d7d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0777d7d6b2e96342e053033d5a1360f8ab5f7391)
+
+## [v4.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.0...v4.2.1) -  2025/12/11 
 
 #### :bug: 修复
 
