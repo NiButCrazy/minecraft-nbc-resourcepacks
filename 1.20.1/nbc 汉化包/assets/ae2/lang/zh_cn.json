@@ -4,5 +4,21 @@
   "ae2.emi_integration.category_charger": "充能",
   "ae2.emi_integration.category_condenser": "物质聚合",
   "ae2.emi_integration.category_entropy_manipulator": "物质熵变",
-  "ae2.emi_integration.category_inscriber": "压印"
+  "ae2.emi_integration.category_inscriber": "压印",
+  "block.ae2.crystal_resonance_generator": "水晶谐振发电机",
+  "chat.ae2.TestWorldNotInSuperflat": "测试世界只能在超平坦世界中创建！",
+  "dimension.ae2.spatial_storage": "空间存储",
+  "gui.ae2.CantFitInsideStorageCell": "该物品无法放入其他存储元件",
+  "gui.ae2.EnergyGenerationCapacity": "Generation Capacity: %s",
+  "gui.ae2.NoChannel": "缺少频道",
+  "gui.ae2.SearchTooltipToolTips": "Use # to search in tooltips (#looting)",
+  "gui.ae2.TransformTypeExplode": "Explode",
+  "gui.ae2.TransformTypeThrowInFluid": "Throw in %s",
+  "gui.ae2.units.fe": "FE",
+  "gui.ae2.units.rf": "RF",
+  "gui.tooltips.ae2.InscriberBufferHigh": "最多堆叠 64 个物品",
+  "gui.tooltips.ae2.InscriberBufferLow": "最多堆叠 4 个物品",
+  "gui.tooltips.ae2.InscriberBufferSize": "输入堆叠上限",
+  "key.ae2.guide": "打开物品指南",
+  "waila.ae2.Suppressed": "已隐藏"
 }
