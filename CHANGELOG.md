@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.2.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.1...v4.2.6) -  v4.2.1..
+## [v4.2.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.6...v4.2.7) -  v4.2.6..
+
+#### :bug: 修复
+
+-  通用机械GUI图标修复 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(87c5f15)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/87c5f1553f85308e60a663883105c106712db392)
+
+## [v4.2.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.1...v4.2.6) -  2025/12/13 
 
 #### :sparkles: 新功能
 
