@@ -5,6 +5,7 @@
   "gui.container_SRMB": "移动并右键单击以将其交换或移动到第二个可用的饰品栏位",
   "key.open_convenient_screen": "打开饰品收纳箱",
   "config.forbidden_items": "禁止物品清单 ",
+  "key.open_convenient_gui":"打开饰品盒",
   "config.forbidden_items.tooltip": "黑名单物品 \n添加饰品类型名称至黑名单, 逗号分隔. \n例子: \"curios:amulet\", \"curios:ring\".",
   "convenientcurioscontainer.configuration.section.convenientcurioscontainer.common.toml.title": "饰品收纳盒配置"
 }

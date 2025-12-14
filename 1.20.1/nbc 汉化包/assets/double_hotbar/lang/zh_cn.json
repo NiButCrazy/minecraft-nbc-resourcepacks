@@ -1,0 +1,23 @@
+{
+  "category.double_hotbar.keybinds": "双重快捷栏",
+  "key.double_hotbar.swap": "切换快捷栏",
+  "subtitles.double_hotbar.woosh": "快速移动快捷栏",
+  "text.autoconfig.double_hotbar.option.disableMod": "关闭模组功能",
+  "text.autoconfig.double_hotbar.option.displayDoubleHotbar": "显示第二个快捷栏",
+  "text.autoconfig.double_hotbar.option.inventoryRow": "选择切换的物品栏行数",
+  "text.autoconfig.double_hotbar.option.shift": "垂直位置 (像素单位)",
+  "text.autoconfig.double_hotbar.option.allowDoubleTap": "启用双击",
+  "text.autoconfig.double_hotbar.option.doubleTapWindow": "双击间隔 (ms)",
+  "text.autoconfig.double_hotbar.option.holdToSwap": "启用长按切换",
+  "text.autoconfig.double_hotbar.option.holdTime": "长按切换时间 (ms)",
+  "text.autoconfig.double_hotbar.option.renderCrop": "裁剪快捷栏高度 (像素单位)",
+  "text.autoconfig.double_hotbar.option.holdToSwapBar": "长按切换整栏",
+  "text.autoconfig.double_hotbar.option.wooshVolume": "音效音量 (%)",
+  "text.autoconfig.double_hotbar.option.reverseBars": "主要快捷栏置顶 (试验性)",
+  "text.autoconfig.double_hotbar.title":"双重快捷栏配置",
+  "text.forge.double_hotbar.option.shift": "垂直位置",
+  "text.forge.double_hotbar.option.renderCrop": "裁剪快捷栏高度",
+  "text.forge.double_hotbar.option.wooshVolume": "音效音量",
+  "text.double_hotbar.option.true": "是",
+  "text.double_hotbar.option.false": "否"
+}
