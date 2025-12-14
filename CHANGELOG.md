@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.7...v4.3.0) -  v4.2.7..
+## [v4.3.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.0...v4.3.1) -  v4.3.0..
+
+#### :bug: 修复
+
+-  修复了西瓜藤蔓生长纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6426505)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6426505e9f0600308258fa7b3ce3f6a4342da1ab)
+
+## [v4.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.7...v4.3.0) -  2025/12/14 
 
 #### :sparkles: 新功能
 
