@@ -1,0 +1,169 @@
+[
+  {
+    "name":"keybinder",
+    "desc":"Raw's Visual Keybinder汉化",
+    "authors":"Ni But Crazy",
+    "mods":"Raw's Visual Keybinder",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/screen/AlternativeKeybindScreen"
+      },
+      "pairs": [
+        {
+          "key":"Visual keybinder",
+          "value":"可视化按键绑定"
+        },
+        {
+          "key":"Presets",
+          "value":"预设"
+        },
+        {
+          "key":"Name filter",
+          "value":"名称过滤器"
+        },
+        {
+          "key":"Category filter",
+          "value":"类别过滤器"
+        },
+        {
+          "key":"No layouts..",
+          "value":"无布局"
+        },
+        {
+          "key":"Select layout",
+          "value":"选择布局"
+        },
+        {
+          "key":"No bindings",
+          "value":"未绑定"
+        },
+        {
+          "key":"Change binding",
+          "value":"更改绑定键位"
+        },
+        {
+          "key":"Filter name",
+          "value":"过滤名称"
+        },
+        {
+          "key":"Filter category ",
+          "value":"过滤类别"
+        },
+        {
+          "key":"Select a key to view/edit bindings",
+          "value":"查看/编辑绑定键位"
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/screen/PresetsScreen"
+      },
+      "pairs": [
+        {
+          "key":"new preset name",
+          "value":"新预设名称"
+        },
+        {
+          "key":"Save preset",
+          "value":"保存预设"
+        },
+        {
+          "key":"Preset name",
+          "value":"预设名称"
+        },
+        {
+          "key":"Keybinding presets",
+          "value":"按键绑定预设方案"
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/mixin/ControlsScreenMixin"
+      },
+      "pairs": [
+        {
+          "key":"Visual keybinder",
+          "value":"可视化按键绑定"
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/config/ClientConfig"
+      },
+      "pairs": [
+        {
+          "key":"Full keyboard and mouse",
+          "value":"所有键盘和鼠标"
+        },
+        {
+          "key":"Mouse",
+          "value":"鼠标"
+        },
+        {
+          "key":"Full keyboard",
+          "value":"所有键盘"
+        },
+        {
+          "key":"Keypad",
+          "value":"小键盘"
+        },
+        {
+          "key":"Function keys",
+          "value":"功能键"
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/ui_list/DefaultKeyBindsList"
+      },
+      "pairs": [
+        {
+          "key":"No results",
+          "value":"无结果"
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/ui_list/KeyPresetOptionsList$ResetAllEntry"
+      },
+      "pairs": [
+        {
+          "key":"Reset",
+          "value":"重置"
+        },
+        {
+          "key":"Reset to defaults",
+          "value":"重置至默认"
+        }
+      ]
+  },
+  {
+    "target_class":
+      {
+        "name":"com/gmail/rawlxxxviii/visual_keybinder/ui_list/KeyPresetOptionsList$UnbindAllEntry"
+      },
+      "pairs": [
+        {
+          "key":"Unbind",
+          "value":"解除按键绑定"
+        },
+        {
+          "key":"Unbind all keybindings",
+          "value":"解除所有按键绑定"
+        }
+      ]
+  }
+]
