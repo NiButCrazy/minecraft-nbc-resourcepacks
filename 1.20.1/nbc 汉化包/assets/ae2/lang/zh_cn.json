@@ -11,7 +11,7 @@
   "gui.ae2.CantFitInsideStorageCell": "该物品无法放入其他存储元件",
   "gui.ae2.EnergyGenerationCapacity": "Generation Capacity: %s",
   "gui.ae2.NoChannel": "缺少频道",
-  "gui.ae2.SearchTooltipToolTips": "Use # to search in tooltips (#looting)",
+  "gui.ae2.SearchTooltipToolTips": "用 # 按提示框搜索 (#tooltips)",
   "gui.ae2.TransformTypeExplode": "Explode",
   "gui.ae2.TransformTypeThrowInFluid": "Throw in %s",
   "gui.ae2.units.fe": "FE",
