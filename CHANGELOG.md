@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.3.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.1...v4.3.5) -  v4.3.1..
+## [v4.3.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.5...v4.3.6) -  v4.3.5..
+
+#### :sparkles: 新功能
+
+-  汉化包小修+ae2的GUI贴图小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(94ca68b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/94ca68b5d036f68f0dfb404f58243a93114f0829)
+
+## [v4.3.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.1...v4.3.5) -  2025/12/17 
 
 #### :sparkles: 新功能
 
