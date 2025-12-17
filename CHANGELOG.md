@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v4.3.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.0...v4.3.1) -  v4.3.0..
+## [v4.3.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.1...v4.3.5) -  v4.3.1..
+
+#### :sparkles: 新功能
+
+-  可视化按键的VP汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9b570fa)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9b570fa21266df1b91c8f8d3ac62be23fc3ea1eb)
+
+-  修复ae2石英线缆放搅拌机失去粒子的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cb0c231)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cb0c2311e42be65738830f57141da3457325f00b)
+
+#### :bug: 修复
+
+-  ME终端物品添加粒子效果 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(487e1a0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/487e1a062d2a615b12a725b25adb63bccbbc3976)
+
+-  修复校频幽匿感测体材质问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(71489ee)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/71489ee036d7d18532c3bafa7a9ca1415cd9b42b)
+
+## [v4.3.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.0...v4.3.1) -  2025/12/14 
 
 #### :bug: 修复
 
