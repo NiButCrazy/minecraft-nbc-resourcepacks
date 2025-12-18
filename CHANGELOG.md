@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v4.3.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.5...v4.3.6) -  v4.3.5..
+## [v4.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.6...v4.4.0) -  v4.3.6..
+
+#### :sparkles: 新功能
+
+-  修改ae2的GUI材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ae82d98)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ae82d98b4afa4b86c93d9be0d0f8db947f619367)
+
+-  ae2无线终端材质包更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cc90650)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cc90650b0376f368a40d5022359a0d695a130438)
+
+## [v4.3.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.5...v4.3.6) -  2025/12/17 
 
 #### :sparkles: 新功能
 
