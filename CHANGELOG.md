@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v4.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.6...v4.4.0) -  v4.3.6..
+## [v4.4.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.0...v4.4.2) -  v4.4.0..
+
+#### :sparkles: 新功能
+
+-  补全了ae2指导手册的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f6b9711)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f6b9711eb575d05b652ac7de15720a675b2bd002)
+
+-  一键整理添加翻译补充 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(727562c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/727562c4d05d873a623ed0323c840f95c8104245)
+
+## [v4.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.6...v4.4.0) -  2025/12/18 
 
 #### :sparkles: 新功能
 
