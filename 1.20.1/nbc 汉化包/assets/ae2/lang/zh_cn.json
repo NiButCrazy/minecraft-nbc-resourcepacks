@@ -20,5 +20,6 @@
   "gui.tooltips.ae2.InscriberBufferLow": "最多堆叠 4 个物品",
   "gui.tooltips.ae2.InscriberBufferSize": "输入堆叠上限",
   "key.ae2.guide": "打开物品指南",
-  "waila.ae2.Suppressed": "已隐藏"
+  "waila.ae2.Suppressed": "已隐藏",
+  "gui.ae2.SearchPlaceholder": ""
 }
