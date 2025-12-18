@@ -170,5 +170,11 @@
   "config.jade.plugin_expatternprovider.jade_chamber": "ME水晶修复器",
   "config.jade.plugin_expatternprovider.jade_wireless": "ME无线连接器颜色",
   "key.epp.viewpattern": "查看样板配置",
-  "key.epp.category": "AE2扩展"
+  "key.epp.category": "AE2扩展",
+  "block.expatternprovider.wireless_hub": "ME无线集线器",
+  "gui.expatternprovider.wireless_hub": "ME无线集线器",
+  "gui.wireless_hub.disconnect.tooltip": "断开连接",
+  "gui.wireless_hub.empty_port.tooltip": "端口可用",
+  "chat.wireless_connect.out_of_port": "ME无线集线器暂无可用端口",
+  "jade.wireless_connector.used": "已使用频道: %s"
 }
