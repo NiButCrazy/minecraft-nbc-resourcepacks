@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v4.4.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.2...v4.4.3) -  v4.4.2..
+## [v4.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.3...v4.4.5) -  v4.4.3..
+
+#### :sparkles: 新功能
+
+-  添加了许多翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(37d74d6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/37d74d60e798febfb51d4b124b560b16acbfcfdb)
+
+## [v4.4.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.2...v4.4.3) -  2025/12/18 
 
 #### :sparkles: 新功能
 
