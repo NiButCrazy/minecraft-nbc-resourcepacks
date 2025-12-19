@@ -69,7 +69,7 @@
   "tooltip.voidminers.controller.energy": "能量：%d RF/t",
   "tooltip.voidminers.controller.missing_structure": "矿机未正确组装，按住 Shift 右键该方块查看引导。需要的方块总数：",
   "tooltip.voidminers.controller.not_active": "矿机组装正确，但未激活。\n请确保矿机能看到虚空/基岩！\n矿机与基岩之间的距离不重要，只要中心方块能看到基岩即可！",
-  "tooltip.voidminers.controller.not_working": "矿机运行异常！\n检查是否至少有1个空槽，且所需能量小于总能量存储",
+  "tooltip.voidminers.controller.not_working": "矿机运行异常！\n检查是否至少有1个空槽，且提供所需能源",
   "tooltip.voidminers.controller.working": "矿机运行正常",
   "tooltip.voidminers.energy": "能量消耗：%dx",
   "tooltip.voidminers.item": "产出倍率: %dx",
