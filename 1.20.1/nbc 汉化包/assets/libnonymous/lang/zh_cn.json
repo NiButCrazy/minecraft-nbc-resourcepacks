@@ -1,0 +1,5 @@
+{
+  "gui.libnonymous.label.button.redstone.tooltip.ignore": "忽略红石信号",
+  "gui.libnonymous.label.button.redstone.tooltip.rejected": "收到红石信号时停止工作",
+  "gui.libnonymous.label.button.redstone.tooltip.required": "收到红石信号时工作"
+}
