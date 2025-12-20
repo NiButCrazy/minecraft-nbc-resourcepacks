@@ -1,6 +1,24 @@
 ## :memo: 更新日志
 
-## [v4.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.3...v4.4.5) -  v4.4.3..
+## [v5.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.5...v5.0.0) -  v4.4.5..
+
+#### :sparkles: 新功能
+
+-  更新了南瓜材质变体 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c1f4a16)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c1f4a16629c2e61802cbbe507742416fe796965f)
+
+-  mek激光模组添加汉化和材质小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(61150f5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/61150f5006fa09fa66008cf425db3ee5888d0f49)
+
+-  南瓜生长藤材质小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f12e42c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f12e42cab7e6d0ed3045a3ceea2bedffc99774f1)
+
+-  大修ae2材质,并添加汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7e7f588)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7e7f5880ebc2d849880dd9dec18d2d79c1b2383a)
+
+-  more mek process材质重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0f84b87)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0f84b872c58459602b66b5f874d2fee6f38d5e72)
+
+-  新增盆栽GUI兼容以及小修ae2材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8e4c73c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8e4c73c7a01d634c76dfe262878eaba4b0300556)
+
+-  饰品模组材质小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e31db4f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e31db4f554d38e64c28a917a2a719223b55c3313)
+
+## [v4.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.3...v4.4.5) -  2025/12/19 
 
 #### :sparkles: 新功能
 
