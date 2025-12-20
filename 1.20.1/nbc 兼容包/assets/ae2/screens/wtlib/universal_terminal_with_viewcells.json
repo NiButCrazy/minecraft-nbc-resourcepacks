@@ -7,17 +7,17 @@
     "upgrades": {
       "$comment": "The upgrade panel found on some screens",
       "right": 9,
-      "top": 16
+      "top": 18
     },
     "singularityBackground": {
       "right": 9,
-      "top": -2
+      "top": 0
     }
   },
   "slots": {
     "AE2WTLIB_SINGULARITY": {
       "right": 1,
-      "top": 6
+      "top": 8
     }
   }
 }

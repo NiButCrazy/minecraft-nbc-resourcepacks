@@ -1,7 +1,7 @@
 ---
 navigation:
   parent: aae_intro/aae_intro-index.md
-  title: Advanced IO Bus
+  title: ME高级IO总线
   icon: advanced_ae:advanced_io_bus_part
 categories:
   - advanced items
