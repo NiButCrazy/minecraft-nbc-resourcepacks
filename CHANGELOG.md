@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v5.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.5...v5.0.0) -  v4.4.5..
+## [v5.0.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.0...v5.0.1) -  v5.0.0..
+
+#### :sparkles: 新功能
+
+-  pipez的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f8ee20d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f8ee20d72e5371e6645dcd5078147a29b583cd22)
+
+# [v5.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.5...v5.0.0) -  2025/12/20 
 
 #### :sparkles: 新功能
 
