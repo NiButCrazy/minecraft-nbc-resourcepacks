@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v5.0.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.0...v5.0.1) -  v5.0.0..
+## [v5.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.1...v5.0.2) -  v5.0.1..
+
+#### :sparkles: 新功能
+
+-  原版陶瓦材质回退原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a24bf6b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a24bf6b898063fa767e2ac4eb8daf771f1bf4ec2)
+
+-  末地纹理材质更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f9a171e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f9a171e8d720f29351236a2c8d3bb288286914a4)
+
+## [v5.0.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.0...v5.0.1) -  2025/12/24 
 
 #### :sparkles: 新功能
 
