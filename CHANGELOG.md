@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v5.0.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.2...v5.0.3) -  v5.0.2..
+## [v5.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.3...v5.0.5) -  v5.0.3..
+
+#### :bug: 修复
+
+-  修复了高级ae的GUI的各种错误问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f400b46)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f400b463860290eb025e700e4055f602b5f71996)
+
+-  灾变磨制砂岩材质小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e07205f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e07205fde11811d259a6788f71254dd28401c33f)
+
+## [v5.0.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.2...v5.0.3) -  2025/12/25 
 
 #### :sparkles: 新功能
 
