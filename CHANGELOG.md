@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v5.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.1...v5.0.2) -  v5.0.1..
+## [v5.0.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.2...v5.0.3) -  v5.0.2..
+
+#### :sparkles: 新功能
+
+-  添加了对精致存储的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0d80d1e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0d80d1e50f8e93d10a0fc55fcec96bf5eb691709)
+
+#### :bug: 修复
+
+-  修复砂岩及其变体的纹理错误的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c6748a7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c6748a731bae7d5030a4a3b809bf7fa2203d47b0)
+
+## [v5.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.1...v5.0.2) -  2025/12/24 
 
 #### :sparkles: 新功能
 
