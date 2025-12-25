@@ -14,16 +14,16 @@
 	},
 	"background": {
 		"texture": "guis/adv_pattern_encoder.png",
-		"srcRect": [0, 0, 176, 182]
+		"srcRect": [0, 0, 196, 188]
 	},
 	"slots": {
 		"ENCODED_PATTERN": {
-			"left": 147,
+			"left": 168,
 			"top": 17,
 			"grid": "HORIZONTAL"
 		},
 		"MACHINE_OUTPUT": {
-			"left": 147,
+			"left": 168,
 			"top": 64,
 			"grid": "HORIZONTAL"
 		}
