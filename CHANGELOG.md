@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v5.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.3...v5.0.5) -  v5.0.3..
+## [v5.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.5...v5.0.6) -  v5.0.5..
+
+#### :sparkles: 新功能
+
+- 修复了扩展ae模组的GUI显示问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2b5439d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2b5439d1b2dc7aba81d8c51c1f1261045566c4da)
+
+## [v5.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.3...v5.0.5) -  2025/12/25 
 
 #### :bug: 修复
 
