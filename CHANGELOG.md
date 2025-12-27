@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v5.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.5...v5.0.6) -  v5.0.5..
+## [v5.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.6...v5.1.0) -  v5.0.6..
+
+#### :sparkles: 新功能
+
+-  添加了guidme的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cf8f19e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cf8f19ebdf0820b46fbb5d270752a84ff174d71c)
+
+-  重绘了高级ae的量子升级卡的材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5966634)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/59666342d451fcd8b4213349d8f188f0b4295351)
+
+#### :bug: 修复
+
+-  修复黄色染色玻璃物品贴图错误的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(791abc4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/791abc47f18da60bd71ed47c607731ec793f537d)
+
+## [v5.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.5...v5.0.6) -  2025/12/26 
 
 #### :sparkles: 新功能
 
