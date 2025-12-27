@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks":
+  [
+    "item:twilightforest:charm_of_keeping_2"
+  ],
+  "text": "emi.info.twilightforest.charm_of_keeping_2"
+}

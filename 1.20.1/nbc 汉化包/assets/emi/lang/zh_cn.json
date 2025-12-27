@@ -1,5 +1,10 @@
 {
   "tooltip.emi.synfav.obtained": "已获取：%s/%s",
   "tooltip.emi.synfav.remaining": "剩余：%s",
-  "tooltip.emi.synfav.batches_remaining": "剩余可制作次数：%s"
+  "tooltip.emi.synfav.batches_remaining": "剩余可制作次数：%s",
+  "emi.info.twilightforest.charm_of_life_1":"类似不死图腾，但是可堆叠。\n\u00A77放在物品栏任意位置都可生效。",
+  "emi.info.twilightforest.charm_of_life_2":"类似不死图腾，但是可堆叠。\n\u00A75触发时给予大量生命回复和30s抗性提升。\n\u00A77放在物品栏任意位置都可生效。",
+  "emi.info.twilightforest.charm_of_keeping_1":"死亡时保存玩家身上的装备与主副手物品。\n\u00A77放在物品栏任意位置都可生效。",
+  "emi.info.twilightforest.charm_of_keeping_2":"死亡后会保留玩家的装备和最下面快捷栏的物品\n\u00A77放在物品栏任意位置都可生效。",
+  "emi.info.twilightforest.charm_of_keeping_3":"死亡后会保留玩家的装备和全身持有的物品，但是不能保留经验。\n\u00A77放在物品栏任意位置都可生效。"
 }
