@@ -1,6 +1,24 @@
 ## :memo: 更新日志
 
-## [v5.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.6...v5.1.0) -  v5.0.6..
+## [v5.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.1.0...v5.2.0) -  v5.1.0..
+
+#### :sparkles: 新功能
+
+-  雕纹砂岩材质重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(eeac430)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/eeac43009ce49f664ac64449af0289b109d102d8)
+
+-  对暮色森林部分物品添加emi的info描述 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b2d16ae)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b2d16ae5f197d1216646c07d701f311fc5a49029)
+
+-  热力系列的GUI和材质完善重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4d6f03f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4d6f03f2a3998d70f7075fa645d47cb5007d95fd)
+
+-  锦致装饰的荧光瓶材质重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2a35619)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2a35619ba2f12d5f19826d2b88bd7fbe0e2febb6)
+
+-  小修创造模式tab,添加细节 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e89b64f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e89b64ff229e0f6a5e03222d99351cbebc51ae77)
+
+#### :bug: 修复
+
+-  紫水晶回退原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b870fa9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b870fa9e0f5776e48f3088f7b67d08430b4fa079)
+
+## [v5.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.6...v5.1.0) -  2025/12/27 
 
 #### :sparkles: 新功能
 
