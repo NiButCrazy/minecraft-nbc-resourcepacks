@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v5.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.1.0...v5.2.0) -  v5.1.0..
+## [v5.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.2.0...v5.2.1) -  v5.2.0..
+
+#### :sparkles: 新功能
+
+-  画作材质更新,并添加翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9b1b625)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9b1b625aa1b4a81f4364f677cde40d6ff10016ca)
+
+-  物品展示框模型更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8bc8d23)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8bc8d2376b9597df065a501a8da766774a7d90f7)
+
+#### :bug: 修复
+
+-  修复了通用机械的热力蒸馏控制器显示错误 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6bcae54)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6bcae54fc4238a47ad2b0364c2ab0df5648adc54)
+
+## [v5.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.1.0...v5.2.0) -  2025/12/28 
 
 #### :sparkles: 新功能
 
