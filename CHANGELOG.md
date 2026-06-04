@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v5.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.2.0...v5.2.1) -  v5.2.0..
+## [v5.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.2.1...v5.3.0) -  v5.2.1..
+
+#### :sparkles: 新功能
+
+-  添加了butcher的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9e2b57b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9e2b57b03b02be308f290ee25470b7fd4f75c9ef)
+
+-  添加了对 butcher 旧版本的材质兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d19df24)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d19df240b4c291358bee9fba0707778b84470d2b)
+
+#### :bug: 修复
+
+-  通用机械的部分GUI细节小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b475292)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b4752920ff919ac663e40dece1ebda30ab799e59)
+
+## [v5.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.2.0...v5.2.1) -  2026/01/06 
 
 #### :sparkles: 新功能
 
