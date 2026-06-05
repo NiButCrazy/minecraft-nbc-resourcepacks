@@ -56,7 +56,7 @@
   "tooltip.nameless_trinkets.mysterious_trinket_1": "右键使用获得一个随机饰品",
   "tooltip.nameless_trinkets.mysterious_trinket_2": "右键使用§c不会§7获得随机饰品槽位",
   "tooltip.nameless_trinkets.unknown_fragment": "通过在紫水晶块上右击饰品获得",
-  "tooltip.nameless_trinkets.hold_shift": "按住shift键获取信息",
+  "tooltip.nameless_trinkets.hold_shift": "按住 shift 键获取信息",
   "tooltip.nameless_trinkets.amphibious_hands_1": "水下挖掘速度 x%1$s ",
 
   "tooltip.nameless_trinkets.blaze_nucleus_1": "火焰免疫",
