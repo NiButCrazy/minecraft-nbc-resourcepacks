@@ -1,6 +1,24 @@
 ## :memo: 更新日志
 
-## [v5.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.3.1...v5.4.0) -  v5.3.1..
+## [v5.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.0...v5.4.5) -  v5.4.0..
+
+#### :sparkles: 新功能
+
+-  添加截图管理器汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9604532)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/96045321ceb4d3d61f42cac07f748233ff32b63d)
+
+-  添加笼中生物的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(23b77df)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/23b77df4435b7aa8388b7250feaddb3eaa0ac98a)
+
+-  农场贸易GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(679db33)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/679db33ea1c0bd9b68f6deccf836b9b58313cf8c)
+
+#### :bug: 修复
+
+-  修复了尸壳在部分场景下贴图错误的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(335641a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/335641a239023a255f63030a5c310192fab91136)
+
+#### :recycle: 重构
+
+-  更改标题背景图,兼容fancy menu &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9667e31)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9667e31343d6ce4d2cc94a164ad8c166c85350ec)
+
+## [v5.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.3.1...v5.4.0) -  2026/06/06 
 
 #### :sparkles: 新功能
 
