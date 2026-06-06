@@ -1,0 +1,11 @@
+{
+  "attribute.name.ranged_weapon.damage": "远程伤害",
+  "attribute.name.ranged_weapon.haste": "蓄拉速度",
+  "attribute.name.ranged_weapon.pull_time": "蓄拉速率",
+  "item.modifiers.both_hands": "当持有：",
+  "effect.ranged_weapon.damage": "冲击",
+  "effect.ranged_weapon.haste": "速射",
+  "item.ranged_weapon.pull_time": "%1$s蓄拉速率",
+  "effect.ranged_weapon.damage.desc": "可增加实体造成的弹射物伤害",
+  "effect.ranged_weapon.damage.description": "可增加实体造成的弹射物伤害"
+}
