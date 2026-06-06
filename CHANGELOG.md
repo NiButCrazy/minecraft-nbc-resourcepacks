@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v5.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.0...v5.4.5) -  v5.4.0..
+## [v5.4.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.5...v5.4.7) -  v5.4.5..
+
+#### :sparkles: 新功能
+
+-  添加alcocraftplus的汉化和GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(80a5c80)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/80a5c8018c2a3f02097b5bc0fbf7047b23eb042d)
+
+-  添加自定义三明治的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(144aa57)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/144aa5703efdc14de01cc9579948651d78cd36c1)
+
+## [v5.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.0...v5.4.5) -  2026/06/06 
 
 #### :sparkles: 新功能
 
