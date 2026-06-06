@@ -1,0 +1,7 @@
+{
+  "attribute.name.projectile_damage.generic" : "弹射物伤害",
+  "item.modifiers.both_hands": "当持有：",
+  "effect.projectile_damage.impact": "冲击",
+  "effect.projectile_damage.impact.desc": "可增加实体造成的弹射物伤害",
+  "effect.projectile_damage.impact.description": "可增加实体造成的弹射物伤害"
+}
