@@ -1,6 +1,30 @@
 ## :memo: 更新日志
 
-## [v5.3.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.3.0...v5.3.1) -  v5.3.0..
+## [v5.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.3.1...v5.4.0) -  v5.3.1..
+
+#### :sparkles: 新功能
+
+-  添加Marium的魂类武器的翻译汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(74c7b69)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/74c7b69eec47b6d93d71c543003f18e55950a04e)
+
+-  添加Cluttered的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a0394ba)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a0394ba428ab2ebc8cb465f3e367bed2c7056c9a)
+
+-  添加relics汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fba4f63)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fba4f63f82e1c5f3af26f4c88eae2a31eba2d8cd)
+
+-  添加 ram-compat的汉化翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1b70430)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1b70430fffad33cc8e0ed828397e98d0ec565e9f)
+
+-  添加ranged weapon的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f6a8e28)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f6a8e2870c034d6f0b0828242f848d7600d457a4)
+
+-  添加饰品栏新贴图和翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5449869)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5449869af928289c8fd5acad87aed53ea6940d52)
+
+#### :bug: 修复
+
+-  小修汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(46266a1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/46266a10cd254e6b4cc07eafc7af1f9f440b757d)
+
+-  修复魂类武器汉化不全的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(25ff97d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/25ff97d442c9caccbf62f8b5bbe662960da1d600)
+
+-  补全缺失汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(958df69)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/958df690fde07cdc3e9edf3c4efd8ba7c99c05f3)
+
+## [v5.3.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.3.0...v5.3.1) -  2026/06/05 
 
 #### :bug: 修复
 
