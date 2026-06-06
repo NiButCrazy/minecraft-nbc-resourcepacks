@@ -44,5 +44,9 @@
   "tooltip.relics.stink_gland.ability.dash.stat.power.title": "冲刺力:",
   "tooltip.relics.stink_gland.ability.dash.stat.power.value": "%1$s 点",
   "tooltip.relics.stink_gland.ability.dash.stat.cooldown.title": "冷却:",
-  "tooltip.relics.stink_gland.ability.dash.stat.cooldown.value": "%1$s 秒"
+  "tooltip.relics.stink_gland.ability.dash.stat.cooldown.value": "%1$s 秒",
+
+  "tooltip.relics.tendon_lump.description": "每发射一次肌腱，就会增加1点经验",
+  "tooltip.relics.frost_robe.description": "每触发一次“霜冻冰刺”技能，增加1点经验\n使用技能“霜冻冰刺”时，冰刺每击中一个生物就增加冰刺数 +1 点经验",
+  "tooltip.relics.stink_gland.description": "“生物防护”能力每持续1秒，就会增加1点经验\n每使用一次“腐臭冲刺”增加冲刺距离 +1 点经验"
 }
