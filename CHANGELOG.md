@@ -1,6 +1,12 @@
 ## :memo: 更新日志
 
-## [v5.4.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.5...v5.4.7) -  v5.4.5..
+## [v5.4.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.7...v5.4.8) -  v5.4.7..
+
+#### :sparkles: 新功能
+
+-  补全各模组汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d3bed6a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d3bed6a4afddc0aa65a0149e4548df0efb1d4281)
+
+## [v5.4.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.5...v5.4.7) -  2026/06/06 
 
 #### :sparkles: 新功能
 
