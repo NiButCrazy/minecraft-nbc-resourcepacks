@@ -5,7 +5,8 @@
     "minecraft:gravel",
     "minecraft:rooted_dirt",
     "minecraft:soul_sand",
-    "minecraft:soul_soil"
+    "minecraft:soul_soil",
+    "minecraft:mud"
   ],
   "append": [
     "fusion_block_transitions:block/red_sand_overlay"

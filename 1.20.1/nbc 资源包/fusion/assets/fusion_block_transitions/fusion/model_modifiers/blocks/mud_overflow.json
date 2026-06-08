@@ -9,8 +9,7 @@
     "minecraft:red_sand",
     "minecraft:rooted_dirt",
     "minecraft:soul_sand",
-    "minecraft:soul_soil",
-    "minecraft:warped_nylium"
+    "minecraft:soul_soil"
   ],
   "append": [
     "fusion_block_transitions:block/mud_overlay"

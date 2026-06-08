@@ -4,7 +4,8 @@
     "minecraft:dirt",
     "minecraft:gravel",
     "minecraft:red_sand",
-    "minecraft:rooted_dirt"
+    "minecraft:rooted_dirt",
+    "minecraft:stone"
   ],
   "append": [
     "fusion_block_transitions:block/grass_overlay"
