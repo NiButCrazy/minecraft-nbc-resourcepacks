@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v5.4.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.7...v5.4.8) -  v5.4.7..
+## [v5.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.8...v5.5.0) -  v5.4.8..
+
+#### :sparkles: 新功能
+
+-  优化过渡纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1cf8b9c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1cf8b9c869926c8a07f23de29af2632769930753)
+
+#### :bug: 修复
+
+-  修复 fumo 汉化不全的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(544e00e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/544e00ea54cb65414a7265edaf1e7a2a15a36ad6)
+
+## [v5.4.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.7...v5.4.8) -  2026/06/07 
 
 #### :sparkles: 新功能
 
