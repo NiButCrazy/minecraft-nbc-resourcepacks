@@ -1,0 +1,10 @@
+{
+  "type": "fusion:connecting",
+  "loader": "fusion:model",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "prefab:block/connecting_glass"
+  },
+  "render_type": "cutout"
+}
+

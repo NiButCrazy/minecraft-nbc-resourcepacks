@@ -1,0 +1,11 @@
+{
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/slab_top",
+  "loader": "fusion:model",
+  "textures": {
+    "bottom": "prefab:block/connecting_glass",
+    "top": "prefab:block/connecting_glass",
+    "side": "prefab:block/connecting_glass_slab"
+  },
+  "render_type": "cutout"
+}

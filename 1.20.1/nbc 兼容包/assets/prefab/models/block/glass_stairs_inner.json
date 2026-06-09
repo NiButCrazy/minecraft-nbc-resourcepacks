@@ -1,0 +1,13 @@
+{
+    "render_type": "minecraft:cutout_mipped",
+    "parent": "prefab:block/template_glass_stairs_inner",
+    "textures": {
+        "full": "block/glass",
+        "stairs_bottom_left": "prefab:block/glass_stairs_bottom_left",
+        "stairs_bottom_right": "prefab:block/glass_stairs_bottom_right",
+        "corner_bottom_left": "prefab:block/glass_corner_bottom_left",
+        "corner_bottom_right": "prefab:block/glass_corner_bottom_right",
+        "corner_top_left": "prefab:block/glass_corner_top_left",
+        "corner_top_right": "prefab:block/glass_corner_top_right"
+    }
+}

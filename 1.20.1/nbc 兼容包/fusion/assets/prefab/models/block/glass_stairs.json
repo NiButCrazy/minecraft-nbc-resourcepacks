@@ -1,0 +1,20 @@
+{
+    "type": "fusion:connecting",
+    "render_type": "minecraft:cutout_mipped",
+    "loader": "fusion:model",
+    "parent": "prefab:block/template_glass_stairs",
+    "textures": {
+        "full": "prefab:block/connecting_glass",
+        "half_bottom": "prefab:block/connecting_glass_stairs_slab",
+        "half_top": "prefab:block/connecting_glass_stairs_slab",
+        "half_left": "prefab:block/connecting_glass_stairs_half_left",
+        "half_right": "prefab:block/connecting_glass_stairs_half_right",
+        "stairs_bottom_left": "prefab:block/glass_stairs_bottom_left",
+        "stairs_bottom_right": "prefab:block/glass_stairs_bottom_right"
+    },
+   "connections": [
+      {
+         "type": "is_same_block"
+      }
+   ]
+}
