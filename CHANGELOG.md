@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v5.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.8...v5.5.0) -  v5.4.8..
+## [v5.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.5.0...v5.6.0) -  v5.5.0..
+
+#### :sparkles: 新功能
+
+-  预制建筑的一个玻璃方块的基本fusion兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d929757)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d929757da54a30a7812857cb36b09a8600840c1f)
+
+-  冰与火村民皮肤兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f1650ad)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f1650aded9e301160a802108c786d121ae28a72d)
+
+-  添加对塔罗牌的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3f66395)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3f6639532cf203e91e2ba24101c51ccccd2f1131)
+
+#### :bug: 修复
+
+- 农夫乐事jei兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6d63066)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6d630669d34fc101bb940512263e0bea821d1350)
+
+## [v5.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.8...v5.5.0) -  2026/06/08 
 
 #### :sparkles: 新功能
 
