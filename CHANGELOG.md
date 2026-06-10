@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v5.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.5.0...v5.6.0) -  v5.5.0..
+## [v5.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.0...v5.6.2) -  v5.6.0..
+
+#### :sparkles: 新功能
+
+-  添加矿工眼镜的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f45f966)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f45f966aa32eb6a2b6b71aa22b36b105fa7c3a74)
+
+-  添加 no chat 的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(579fadf)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/579fadf6288be99bfaa088e41f1319d4ee40e9b8)
+
+## [v5.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.5.0...v5.6.0) -  2026/06/10 
 
 #### :sparkles: 新功能
 
