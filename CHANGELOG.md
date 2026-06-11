@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v5.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.0...v5.6.2) -  v5.6.0..
+## [v5.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.2...v5.7.0) -  v5.6.2..
+
+#### :sparkles: 新功能
+
+-  添加 Goety 的 GUI 兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7e9c2ed)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7e9c2edb8cb09d6845f9034c1c2e0701c835aa86)
+
+-  MrCrayfish's Furniture:RE 的 GUI 兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c79160b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c79160bee45fe2545d137b5992b3d5d0f181972b)
+
+-  车万女仆饰品栏的UI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e6d88e5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e6d88e502ee05a692afa2e282a54cad907cb8fbc)
+
+## [v5.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.0...v5.6.2) -  2026/06/10 
 
 #### :sparkles: 新功能
 
