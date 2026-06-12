@@ -1,0 +1,8 @@
+{
+  "enchantment.usefulspyglass.marking": "标记",
+  "enchantment.usefulspyglass.marking.desc": "左键点击将发光效果通过望远镜附加到观察的生物上",
+  "enchantment.usefulspyglass.precision": "精准",
+  "enchantment.usefulspyglass.precision.desc": "副手拿望远镜，主手拿弓时，潜行蓄力会提供聚焦效果，射出去的箭不受重力影响",
+  "enchantment.usefulspyglass.spotter": "侦察",
+  "enchantment.usefulspyglass.spotter.desc": "透过望远镜观察时按下攻击键，会召唤一颗末影之眼来持续标记目标位置附近的实体"
+}
