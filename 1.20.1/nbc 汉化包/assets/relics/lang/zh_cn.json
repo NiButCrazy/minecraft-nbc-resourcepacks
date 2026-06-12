@@ -55,6 +55,7 @@
   "tooltip.relics.amphibian_boot.ability.gills.stat.chance.value": "%1$s%%",
 
   "item.relics.relic_experience_bottle": "遗物经验瓶",
+  "entity.relics.dissection": "传送门",
   "info.relics.researching.wrong_container": "无法在此物品栏中与遗物交互，请将物品移至玩家主物品栏后重试。",
   "key.relics.research_relic": "研究光标所指的遗物"
 }
