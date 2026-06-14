@@ -1,0 +1,19 @@
+{
+  "entity.mowziesmobs.boulder_projectile": "地卜石",
+  "entity.mowziesmobs.boulder_platform": "地卜石平台",
+  "entity.mowziesmobs.boulder_platform_crumbling": "破碎地卜石平台",
+  "entity.mowziesmobs.pillar_sculptor": "地卜石柱雕刻家",
+    "entity.mowziesmobs.pillar_piece": "地卜石柱",
+  "entity.mowziesmobs.pillar": "地卜石柱",
+  "entity.mowziesmobs.falling_block": "碎块",
+  "entity.mowziesmobs.rock_sling": "飞石弹",
+  "entity.mowziesmobs.block_swapper_tunneling": "置换者隧道",
+  "entity.mowziesmobs.axe_attack": "斧击",
+  "entity.mowziesmobs.camera_shake": "震波",
+  "entity.mowziesmobs.dart": "吹镖",
+  "entity.mowziesmobs.sunstrike": "日光打击",
+  "entity.mowziesmobs.solar_beam": "太阳射线",
+  "entity.mowziesmobs.super_nova": "超新星燃烧",
+  "entity.mowziesmobs.ice_breath": "冰霜旋风",
+  "item.mowziesmobs.music_disc_petiole.desc": "LudoCrypt - 秉竹叶游"
+}
