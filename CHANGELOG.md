@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v5.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.2...v5.7.0) -  v5.6.2..
+## [v5.7.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.0...v5.7.3) -  v5.7.0..
+
+#### :sparkles: 新功能
+
+-  新增 mowzies mobs 兼容包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(855f016)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/855f01656ba202931b8ef9e810adf35450a248f3)
+
+-  添加 useful spyglass 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(98ddaeb)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/98ddaeb2d3ea773991495495747e4316b4cc5749)
+
+#### :bug: 修复
+
+-  修复遗物汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(db97c0d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/db97c0d21538c0ee4cf3a823a115ec822626412c)
+
+## [v5.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.2...v5.7.0) -  2026/06/11 
 
 #### :sparkles: 新功能
 
