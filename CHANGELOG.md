@@ -1,6 +1,14 @@
 ## :memo: 更新日志
 
-## [v5.7.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.0...v5.7.3) -  v5.7.0..
+## [v5.7.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.3...v5.7.5) -  v5.7.3..
+
+#### :bug: 修复
+
+-  修复了一个我是傻逼的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2f6eea6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2f6eea65a7b02adf5cdbb704f5272e0625dc4e1e)
+
+-  修复热力系列的狂风人贴图错误的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9933453)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9933453bf483c93b7c1b6741ef5b45af2e18f053)
+
+## [v5.7.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.0...v5.7.3) -  2026/06/14 
 
 #### :sparkles: 新功能
 
