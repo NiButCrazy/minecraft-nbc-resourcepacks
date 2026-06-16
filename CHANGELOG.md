@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v5.7.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.3...v5.7.5) -  v5.7.3..
+## [v5.7.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.5...v5.7.6) -  v5.7.5..
+
+#### :sparkles: 新功能
+
+-  添加 cfm_wap 的汉化和GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e692e75)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e692e7563a55c6ced5eead9cfac7290b7b680cbe)
+
+#### :bug: 修复
+
+-  修复 ironspell 的血釜翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1d85fd6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1d85fd6b5df3f56078fe1c0f0ee2648550a55ce7)
+
+## [v5.7.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.3...v5.7.5) -  2026/06/14 
 
 #### :bug: 修复
 
