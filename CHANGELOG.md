@@ -1,6 +1,20 @@
 ## :memo: 更新日志
 
-## [v5.7.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.5...v5.7.6) -  v5.7.5..
+## [v5.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.6...v5.8.0) -  v5.7.6..
+
+#### :sparkles: 新功能
+
+-  添加 paintings++ 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1ae6521)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1ae652183448f61dedd4239f4958b363c0491710)
+
+-  添加 not interest 模组汉化和兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4442859)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/44428593ccab8a79927104929a866da1b7a5a092)
+
+#### :bug: 修复
+
+-  小修资源包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(747d7de)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/747d7de2610c26377e7e136adab942bd749e86cc)
+
+-  修复交易界面按钮偏移 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e2d5e91)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e2d5e91373cdd4635371a145d048d78c3b154735)
+
+## [v5.7.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.5...v5.7.6) -  2026/06/16 
 
 #### :sparkles: 新功能
 
