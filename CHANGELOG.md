@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v5.8.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.0...v5.8.4) -  v5.8.0..
+## [v5.8.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.4...v5.8.7) -  v5.8.4..
+
+#### :bug: 修复
+
+-  修复了AE2的大部分错位问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(dbd27c3)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/dbd27c38e882827af73c4aecd0654277113c598f)
+
+-  重新添加 Sky Arena 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d53bcd1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d53bcd1cff5538e042971a5d0598749c38dacacd)
+
+-  放弃mek的激光模型了 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0daec41)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0daec4184d6e9f444ef5eb88f9ecc4cdef3bc1bd)
+
+## [v5.8.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.0...v5.8.4) -  2026/06/18 
 
 #### :sparkles: 新功能
 
