@@ -1,0 +1,25 @@
+{
+  "$schema": "../schema.json",
+  "slots": {
+    "EX_2": {
+      "left": 33,
+      "bottom": 134
+    },
+    "EX_3": {
+      "left": 70,
+      "bottom": 134
+    },
+    "EX_4": {
+      "left": 123,
+      "bottom": 134
+    }
+  },
+  "widgets": {
+    "rename_input": {
+      "left": 35,
+      "bottom": 154,
+      "width": 89,
+      "height": 12
+    }
+  }
+}

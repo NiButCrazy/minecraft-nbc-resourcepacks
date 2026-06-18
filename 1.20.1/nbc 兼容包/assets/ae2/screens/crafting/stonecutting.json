@@ -1,0 +1,20 @@
+{
+  "$schema": "../schema.json",
+  "slots": {
+    "STONECUTTING_INPUT": {
+      "left": 36,
+      "bottom": 159
+    },
+    "EX_1": {
+      "left": 36,
+      "bottom": 121
+    }
+  },
+  "widgets": {
+    "stonecuttingScrollbar": {
+      "left": 134,
+      "bottom": 157,
+      "height": 54
+    }
+  }
+}

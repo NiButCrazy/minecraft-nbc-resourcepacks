@@ -1,0 +1,21 @@
+{
+  "$schema": "../schema.json",
+  "slots": {
+    "SMITHING_TABLE_TEMPLATE": {
+      "left": 30,
+      "bottom": 140
+    },
+    "SMITHING_TABLE_BASE": {
+      "left": 48,
+      "bottom": 140
+    },
+    "SMITHING_TABLE_ADDITION": {
+      "left": 66,
+      "bottom": 140
+    },
+    "SMITHING_TABLE_RESULT": {
+      "left": 124,
+      "bottom": 140
+    }
+  }
+}
