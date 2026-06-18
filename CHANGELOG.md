@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v5.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.6...v5.8.0) -  v5.7.6..
+## [v5.8.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.0...v5.8.4) -  v5.8.0..
+
+#### :sparkles: 新功能
+
+-  添加 disenchanter 的 GUI 兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(485b657)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/485b657378d83df1c12e4d28f3e90d08c8421170)
+
+-  添加 tons of enchant 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b274fa6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b274fa6aa1dbaa1b344476bbe28d429bda4e1850)
+
+-  添加刷怪笼增强的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6d3ca38)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6d3ca38146d0fcd5b0b8a292d6814655aec3348f)
+
+-  添加 Sky Arena 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(92442dc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/92442dc581909dba9121e28b66b52f3ad2be1272)
+
+## [v5.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.6...v5.8.0) -  2026/06/17 
 
 #### :sparkles: 新功能
 
