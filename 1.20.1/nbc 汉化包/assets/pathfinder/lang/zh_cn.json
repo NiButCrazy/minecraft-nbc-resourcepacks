@@ -1,0 +1,23 @@
+﻿{
+  "gui.pathfinder.spade_gui.tooltip_coarse_dirt_rooted_dirt_packed": "砂土、缠根泥土、泥坯",
+  "gui.pathfinder.spade_gui.tooltip_andesite_polished_andesite": "安山岩、磨制安山岩",
+  "gui.pathfinder.spade_gui.tooltip_calcite_diorite": "方解石、闪长岩",
+  "gui.pathfinder.spade_gui.label_palette": "调色板",
+  "gui.pathfinder.spade_gui.tooltip_packed_mud_mud_bricks_rooted_d": "泥坯、泥砖、缠根泥土",
+  "gui.pathfinder.spade_gui.sturdy": "坚固",
+  "gui.pathfinder.spade_gui.tooltip_path_block": "路径方块",
+  "advancements.get_spade.descr": "获得寻路者的铲子",
+  "advancements.get_spade.title": "上路吧，杰克",
+  "item.pathfinder.pathfinders_spade": "寻路者的铲子",
+  "gui.pathfinder.spade_gui.label_size": "路径半径",
+  "gui.pathfinder.spade_gui.tooltip_red_sandstone": "红砂岩",
+  "gui.pathfinder.spade_gui.tooltip_cobbled_deepslate_deepslate": "深板岩圆石、深板岩",
+  "gui.pathfinder.spade_gui.tooltip_moss_mossy_cobblestone_cobbles": "苔藓、苔石、圆石",
+  "gui.pathfinder.spade_gui.tooltip_moss_mossy_stone_bricks_stone": "苔藓、苔石砖、石砖",
+  "gui.pathfinder.spade_gui.tooltip_diorite_polished_diorite": "闪长岩、磨制闪长岩",
+  "gui.pathfinder.spade_gui.tooltip_stone_brick_cobble_andesite_s": "石砖、圆石、安山岩、石头",
+  "gui.pathfinder.spade_gui.label_enable_sturdy_paths": "启用“坚固”路径？",
+  "gui.pathfinder.spade_gui.tooltip_cobbled_deepslate_cracked_deeps": "深板岩圆石、裂纹深板岩砖、深板岩砖、磨制深板岩",
+  "gui.pathfinder.spade_gui.tooltip_granite_polished_granite": "花岗岩、磨制花岗岩",
+  "gui.pathfinder.spade_gui.tooltip_sandstone": "砂岩"
+}
