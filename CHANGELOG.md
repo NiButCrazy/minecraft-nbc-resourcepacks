@@ -1,6 +1,22 @@
 ## :memo: 更新日志
 
-## [v5.8.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.4...v5.8.7) -  v5.8.4..
+## [v5.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.7...v5.9.0) -  v5.8.7..
+
+#### :sparkles: 新功能
+
+-  添加Wan的远古异兽GUI兼容与汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5cb2f45)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5cb2f45ad91308b9b39094f14f06754a5028c216)
+
+-  添加 shutter 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b278f59)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b278f59ef6c2462d9903d68114c50c580ae945e2)
+
+-  添加 pathfinder 的gui兼容和汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1754df7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1754df79f92e6d6836ad4472333aca70d1b99e53)
+
+#### :bug: 修复
+
+-  小修高级AE的材质和汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b160390)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b160390028028ded894f3f34dfa233dbfa499bd0)
+
+-  补全 shutter 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a23d4bf)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a23d4bf8a264c641e9d190e1843f434a531f94a3)
+
+## [v5.8.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.4...v5.8.7) -  2026/06/18 
 
 #### :bug: 修复
 
