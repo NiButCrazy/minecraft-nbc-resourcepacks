@@ -1,6 +1,32 @@
 ## :memo: 更新日志
 
-## [v5.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.7...v5.9.0) -  v5.8.7..
+## [v6.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.9.0...v6.0.0) -  v5.9.0..
+
+#### :sparkles: 新功能
+
+-  添加建筑乐事汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1f47a4e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1f47a4eb621007f285bca0de652c1c0edabc4d36)
+
+-  添加末日启示录汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d84275d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d84275ddcba2b8a4dbe85d6502d76056998d1dd0)
+
+-  添加家具模组的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2eb6d1d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2eb6d1d73020be80e5ae5cbb3b43ddbdd631b62c)
+
+-  添加 create deco 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4269312)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4269312798c8b6698a9a777fcccff6f2623673b1)
+
+-  添加展示乐事的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(01af863)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/01af86394925607caf92293f9dedefcd103ca89d)
+
+-  添加动物围栏汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0c52313)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0c52313070710d8ef7413c3e6ad122b86052305f)
+
+-  添加精美饰品的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e97085f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e97085f28474dde46518dcbdc6bf9eab05a68fca)
+
+-  添加恐怖元素汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(946a1f8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/946a1f8c3fee8b3ced67d42adad788ac3cbb1cf9)
+
+-  添加 ae2 输入输出卡的汉化, 新增模型修复包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0454817)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0454817df863be96ba75587ffc6f8c620da59250)
+
+-  添加 just outdoor 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cfa19f9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cfa19f94e810793e4f372c948266171c649be108)
+
+-  MrCray 家具GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ba6dad7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ba6dad7817f9bb54fdcf7ed0adbce64ffbbd3c18)
+
+## [v5.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.7...v5.9.0) -  2026/06/29 
 
 #### :sparkles: 新功能
 
