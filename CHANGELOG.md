@@ -1,6 +1,28 @@
 ## :memo: 更新日志
 
-## [v6.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.9.0...v6.0.0) -  v5.9.0..
+## [v6.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.0.0...v6.1.0) -  v6.0.0..
+
+#### :sparkles: 新功能
+
+-  MOA 装饰系列汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(666e86f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/666e86fbf34b7c47da8e87362c33e4b39a27fe13)
+
+-  简单灯具汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fedcdf8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fedcdf8a8115ad48458ef847a35267e3d1091f76)
+
+-  Critters and Companions 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(dcfc060)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/dcfc0601390c1277b9c07837ae18c09d145f666b)
+
+-  添加玩偶汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(67d06bc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/67d06bc550fac36e1d7958c67c67e80c9e0c7967)
+
+-  精致存储的额外存储模组汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f186cb6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f186cb637a44199249e9372a30a99ac9397a547d)
+
+-  静谧四季汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(457d3b9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/457d3b9f71146ce12bb84457a96c3149a3d7fd3b)
+
+-  添加传说选项卡兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e9d8de2)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e9d8de2189ca3736f5a43270dbd70b73935557da)
+
+-  精妙核心汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b68c326)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b68c326797d5d0890c6d270a2327e0a4fe749f96)
+
+-  通用机械发电机创造模式物品栏GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6d7faf0)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6d7faf0bb6381fc1ef86fe7fca8daaf74a3cc598)
+
+# [v6.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.9.0...v6.0.0) -  2026/08/24 
 
 #### :sparkles: 新功能
 
