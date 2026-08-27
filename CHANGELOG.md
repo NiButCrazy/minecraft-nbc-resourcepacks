@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v6.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.0.0...v6.1.0) -  v6.0.0..
+## [v6.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.0...v6.1.3) -  v6.1.0..
+
+#### :sparkles: 新功能
+
+-  模型修复包添加溺尸与尸壳 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(69c087d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/69c087dd4a517565ae43aa66202481f2a8b9b289)
+
+-  添加属性汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(71b0f02)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/71b0f0225196c5600dcc4a567a0e863e7830c555)
+
+-  添加神化属性GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(062e7af)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/062e7af1fdfe17fb61a6e052cdeffb21550f0612)
+
+## [v6.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.0.0...v6.1.0) -  2026/08/25 
 
 #### :sparkles: 新功能
 
