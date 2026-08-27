@@ -1,0 +1,10 @@
+﻿{
+  "ftbultimine.modifier.cooldown":"连锁冷却时间",
+  "ftbultimine.modifier.cooldown.desc":"无效属性",
+  "ftbultimine.modifier.max_blocks":"连锁最大方块数量",
+  "ftbultimine.modifier.max_blocks.desc":"无效属性",
+  "parcool.max_stamina":"跑酷最大耐力",
+  "parcool.max_stamina.desc":"跑酷最大耐力",
+  "parcool.stamina_recovery": "跑酷耐力恢复",
+  "parcool.stamina_recovery.desc": "跑酷耐力恢复的速度"
+}
