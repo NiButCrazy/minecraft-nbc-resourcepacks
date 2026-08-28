@@ -1,0 +1,4 @@
+{
+  "attributes.apoc_patches.headshot": "爆头伤害倍率",
+  "attributes.apoc_patches.headshot.desc": "为所有武器增加爆头倍率属性和爆头伤害"
+}
