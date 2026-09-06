@@ -1,0 +1,1319 @@
+[
+  {
+    "name": "apocalypsenow_zh_cn",
+    "desc": "apocalypsenow-3.0.4NS-forge-1.20.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "apocalypsenow-3.0.4NS-forge-1.20.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.BlackpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.BluepetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.BrownpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.CyanpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.GraypetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.GreenpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.LightbluepetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.LigthgraypetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.LimepetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.MagentapetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.OrangepetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.PetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.PinkpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.PurplepetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.RedpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.Trashcan1Block"
+    ],
+    "pairs": [
+      {
+        "key": "§2Shift-Right click with any trash bag to clean it",
+        "value": "§2手持任意垃圾袋时按住Shift并右键以清理"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.TrashcanBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§2Shift-Right click with any trash bag to clean it",
+        "value": "§2手持任意垃圾袋时按住Shift并右键以清理"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.TrashcannBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§2Shift-Right click with any trash bag to clean it",
+        "value": "§2手持任意垃圾袋时按住Shift并右键以清理"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.WhitepetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.YellowpetrolbarrelBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§b§o 10,000 Mb",
+        "value": "§b§o 10,000 兆字节"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.entity.MechanicsToolChestBlockEntity"
+    ],
+    "pairs": [
+      {
+        "key": "Mechanics Tool Chest",
+        "value": "机械工具箱"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.AdrenalineItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to get an adrenaline boost]",
+        "value": "§c[用于获得肾上腺素激增]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.AdrenalinepotItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use with a syringe]",
+        "value": "§c[与注射器一同使用]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.AntibioticsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use it to get rid of infections]",
+        "value": "§c[用于清除侵染]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BandageItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use it to stop bleedings]",
+        "value": "§c[用于止住流血]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BaseballbatwiredItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BaseballbatwithNailsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BaseballbatwithironItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[+ Reinforced]",
+        "value": "§7§n[+ 加固]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BaseballbatwithsawItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[++ Bleeding Effect]",
+        "value": "§4§n[++ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BloodbagItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to recover health]",
+        "value": "§c[用于恢复生命值]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BloodsyringeItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Used To fill up empty blood bags]",
+        "value": "§c[用于装满空血袋]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BraziliantagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture Brazilian military clothing)",
+        "value": "(用于制造巴西军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.BritishtagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture British military clothing)",
+        "value": "(用于制造英军套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.CanadatagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture Canada military clothing)",
+        "value": "(用于制造加拿大军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.CanopenerItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Holds an unopened can in left hand and right-click to open it]",
+        "value": "§2[左手持未开启的罐头，右键开启]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ChainsawbatItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[++ Bleeding Effect]",
+        "value": "§4§n[++ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ChinatagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture China military clothing)",
+        "value": "(用于制造中国军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ChlorineDioxedItem"
+    ],
+    "pairs": [
+      {
+        "key": "used in the manufacture of purification pills",
+        "value": "用于净化药丸的制造"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.CigaretteItem"
+    ],
+    "pairs": [
+      {
+        "key": "§8Low Quality Cigarret",
+        "value": "§8低品质雪茄"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.CleanragsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to stop it bleeding]",
+        "value": "§c[用于止血]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ClubwithsawItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[++ Bleeding Effect]",
+        "value": "§4§n[++ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ComicallyLargeSpoonItem"
+    ],
+    "pairs": [
+      {
+        "key": "CREATIVE ITEM ONLY",
+        "value": "仅限创造模式物品"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ComicbookItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Read for XP]",
+        "value": "§2[阅读以获取经验]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EletricalbaseballbatItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EletricalclubItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EletricalcombataxeItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EletricalmacheteItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EletricaltaticalmaceItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EletricmodulekatanaItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.EmptybloodbagItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use it to take your blood out]",
+        "value": "§c[用于抽出你的血液]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.FantasybookItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Read for XP]",
+        "value": "§2[阅读以获取经验]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.FireModuleKatanaItem"
+    ],
+    "pairs": [
+      {
+        "key": "§e§n[+ Flame Module]",
+        "value": "§e§n[+ 火焰模块]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.FiremodulecombataxeItem"
+    ],
+    "pairs": [
+      {
+        "key": "§e§n[+ Flame Module]",
+        "value": "§e§n[+ 火焰模块]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.FiremodulemacheteItem"
+    ],
+    "pairs": [
+      {
+        "key": "§e§n[+ Flame Module]",
+        "value": "§e§n[+ 火焰模块]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.FlamemoduleironbaseballbatItem"
+    ],
+    "pairs": [
+      {
+        "key": "§e§n[+ Flame Module]",
+        "value": "§e§n[+ 火焰模块]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.FurnitureWrenchItem"
+    ],
+    "pairs": [
+      {
+        "key": "Click to switch between variations of Apocalypse Now block textures that contain more them 2 textures",
+        "value": "点击切换“末日降临”方块纹理的多种变体，这些变体包含超过2种纹理"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.GPNVG18HELMETItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§nPress N to turn on/off night vision",
+        "value": "§n按下N键开启/关闭夜视"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.GasmaskItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.GasmaskhelmetItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.HandlegrippItem"
+    ],
+    "pairs": [
+      {
+        "key": "§f§oUsed for most crafting the melee weapons",
+        "value": "§f§o用于大部分近战武器的合成"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.HighqualitycigarettesItem"
+    ],
+    "pairs": [
+      {
+        "key": "§5High Quality Cigarettes",
+        "value": "§5高品质香烟"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.HighqualitycigarretItem"
+    ],
+    "pairs": [
+      {
+        "key": "§5High Quality Cigarret",
+        "value": "§5高品质雪茄"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.HockeyItem$Boots"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Speed In Ice]",
+        "value": "§9§n[+ 冰面移动加速]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.HomemadeantibioticsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use it to get rid of infections]",
+        "value": "§c[用于清除侵染]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.HydrochloricacidItem"
+    ],
+    "pairs": [
+      {
+        "key": "used in the manufacture of synthetic adrenaline",
+        "value": "用于合成肾上腺素的制造"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.IronbaseballbatwithspikesItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.IronclubItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[+ Reinforced]",
+        "value": "§7§n[+ 加固]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ItaliantagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture Italian military clothing)",
+        "value": "(用于制造意大利军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.JagdkommandoknifeItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.JapantagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture Japan military clothing)",
+        "value": "(用于制造日军套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.LaminatedironbaseballbatItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MagazineItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Read for XP]",
+        "value": "§2[阅读以获取经验]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MedicalkitItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to recover health]",
+        "value": "§c[用于恢复生命值]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MediumqualitycigaretteItem"
+    ],
+    "pairs": [
+      {
+        "key": "§aMedium Quality Cigarette",
+        "value": "§a中等品质香烟"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MediumqualitycigarettesItem"
+    ],
+    "pairs": [
+      {
+        "key": "§aMedium Quality Cigarettes",
+        "value": "§a中等品质香烟"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MexicotagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture Mexican military clothing)",
+        "value": "(用于制造墨西哥军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MilitaryRadioItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2Click on the military communications radio to get the air drop command",
+        "value": "§2点击军事通讯电台以获取空投指令"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.Mo4gasmaskfaceadaptationItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[Face Adaptation]",
+        "value": "§7§n[面部适应]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.Mo4gasmaskfaceadaptationforestcamoItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[Face Adaptation]",
+        "value": "§7§n[面部适应]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.Mo4gasmaskfaceadaptationmudcamoItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[Face Adaptation]",
+        "value": "§7§n[面部适应]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MorphineItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to heal yourself]",
+        "value": "§c[用于治疗自己]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.MorphinepotItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use with a syringe]",
+        "value": "§c[与注射器一同使用]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.NailItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[Ammo For Nail Gun]",
+        "value": "§7§n[钉枪弹药]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.NailedclubItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.NailedcricketbatItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.NailedtablelegItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.NewspaperItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Read for XP]",
+        "value": "§2[阅读以获取经验]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.NovelbookItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Read for XP]",
+        "value": "§2[阅读以获取经验]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.OrangevisorgasmaskItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.PBFHamstergasmaskItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.PainKillersItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to make the pain go away]",
+        "value": "§c[用于缓解疼痛]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.Pkm4gasmaskItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.PlankwithnailsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§4§n[+ Bleeding Effect]",
+        "value": "§4§n[+ 出血效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.PurificationtabletsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use with contaminated water]",
+        "value": "§c[与受污染的水一同使用]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ROURespiratorItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.RadioItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2Click on the military communications radio to get the air drop command",
+        "value": "§2点击军事通讯电台以获取空投指令"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.RagsItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to stop it bleedings]",
+        "value": "§c[用于止住流血]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ReiforcedregboxingglovesItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7§n[+ Reinforced]",
+        "value": "§7§n[+ 加固]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.RussiantagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture RUSSIAN military clothing)",
+        "value": "(用于制造俄军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SalineItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to get rid of infections]",
+        "value": "§c[用于清除侵染]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ScifibookItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Read for XP]",
+        "value": "§2[阅读以获取经验]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ShockbastonItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SliptItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use to fix a broken leg]",
+        "value": "§c[用于固定骨折的腿部]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SoldierItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Posion Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SpecOpsItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§nPress N to turn on/off night vision",
+        "value": "§n按下N键开启/关闭夜视"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.StringandneedleItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use it to stop severe bleedings]",
+        "value": "§c[用于止住严重流血]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SulfuricacidItem"
+    ],
+    "pairs": [
+      {
+        "key": "Used in the manufacture of hydrochloric acid",
+        "value": "用于盐酸的制造"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SuturekitItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Use in case of major damage]",
+        "value": "§c[在遭受严重伤害时使用]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.SyringeItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c[Put together with adranaline or morphine/Or right click to take you blood out]",
+        "value": "§c[可与肾上腺素或吗啡组合使用/或右键抽取自身血液]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.TaserItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9§n[+ Electrical Damage Effect]",
+        "value": "§9§n[+ 电击伤害效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.ToxicingasmaskItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.TrashItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2Shift-Right click on any trash can to clean it",
+        "value": "§2对任意垃圾桶按住Shift并右键以清理"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.TrashblueItem"
+    ],
+    "pairs": [
+      {
+        "key": "§2Shift-Right click on any trash can to clean it",
+        "value": "§2对任意垃圾桶按住Shift并右键以清理"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.UngasmaskhelmetItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§2[Immune to Poison Effect]",
+        "value": "§2[免疫中毒效果]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.UsatagItem"
+    ],
+    "pairs": [
+      {
+        "key": "(Used to manufacture USA military clothing)",
+        "value": "(用于制造美军用套装)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.item.WalletItem"
+    ],
+    "pairs": [
+      {
+        "key": "Right-click to open",
+        "value": "右击以打开"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.Trashcan1Block$1"
+    ],
+    "pairs": [
+      {
+        "key": "Trash Can",
+        "value": "垃圾桶"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.TrashcanBlock$1"
+    ],
+    "pairs": [
+      {
+        "key": "Trash Bin",
+        "value": "垃圾桶"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.apocalypsenow.block.TrashcannBlock$1"
+    ],
+    "pairs": [
+      {
+        "key": "Trash Can",
+        "value": "垃圾桶"
+      }
+    ]
+  }
+]
