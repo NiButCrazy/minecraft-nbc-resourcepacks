@@ -1,6 +1,26 @@
 ## :memo: 更新日志
 
-## [v6.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.0...v6.1.3) -  v6.1.0..
+## [v6.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.3...v6.2.0) -  v6.1.3..
+
+#### :sparkles: 新功能
+
+-  添加两个VP汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9773e4e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9773e4ef5e1f040f2c5464cb2af551b878d65993)
+
+-  挺假跑酷GUI兼容与武器投掷的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(edd1175)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/edd1175fd93551f86c5940d366ddc0bd679859d2)
+
+-  添加apoc_patches汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(83cb303)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/83cb303b48d357f7d58cee7e04eae45f175f5190)
+
+-  添加传说生存的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c5a74c5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c5a74c505744428a2bcac817f342475cc7e1ada2)
+
+#### :bug: 修复
+
+-  修复地图选项的描述 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(06b0180)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/06b01809e58f1b6cfa66676da4455ecffba046d7)
+
+#### :hammer: CI / CD
+
+- ci:  添加模型修复包工作流 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8b32f72)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8b32f72d58eab02aab47d1abecbac3fb22964cde)
+
+## [v6.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.0...v6.1.3) -  2026/08/27 
 
 #### :sparkles: 新功能
 
