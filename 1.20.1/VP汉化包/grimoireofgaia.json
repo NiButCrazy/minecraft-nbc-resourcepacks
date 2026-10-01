@@ -1,0 +1,20 @@
+﻿[
+  {
+    "name": "grimoireofgaia",
+    "desc": "盖亚魔典4马贴图修复",
+    "authors": "Ni But Crazy",
+    "mods": "grimoireofgaia",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "gaia/client/renderer/GaiaHorseRenderer"
+    ],
+    "pairs": [
+      {
+        "key": "textures/entity/horse/horse_zombie.png",
+        "value": "textures/entity/horse/horse_zombie_old.png"
+      }
+    ]
+  }
+]
