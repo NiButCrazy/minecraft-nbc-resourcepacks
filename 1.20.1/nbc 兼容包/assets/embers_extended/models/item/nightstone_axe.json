@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "embers_extended:item/tools/nightstone_axe"
+  }
+}

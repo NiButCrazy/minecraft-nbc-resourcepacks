@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "embers_extended:block/ember_crystal_bricks",
+    "side": "embers_extended:block/ember_crystal_bricks",
+    "top": "embers_extended:block/ember_crystal_bricks"
+  }
+}

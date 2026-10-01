@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "filter=false": {
+      "model": "embers_extended:block/filtered_extractor",
+      "x": 0
+    },
+    "filter=true": {
+      "model": "embers_extended:block/filtered_extractor_filtered",
+      "x": 0
+    }
+  }
+}

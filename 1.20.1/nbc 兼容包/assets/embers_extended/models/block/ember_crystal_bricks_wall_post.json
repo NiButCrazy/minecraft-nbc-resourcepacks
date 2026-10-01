@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "embers_extended:block/ember_crystal_bricks"
+  }
+}

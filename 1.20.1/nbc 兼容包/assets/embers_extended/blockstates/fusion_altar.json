@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "half=lower,waterlogged=false": {
+      "model": "embers_extended:block/ember_infuser_bottom"
+    },
+    "half=lower,waterlogged=true": {
+      "model": "embers_extended:block/ember_infuser_bottom"
+    },
+    "half=upper,waterlogged=false": {
+      "model": "embers_extended:block/fusion_altar_top"
+    },
+    "half=upper,waterlogged=true": {
+      "model": "embers_extended:block/fusion_altar_top"
+    }
+  }
+}

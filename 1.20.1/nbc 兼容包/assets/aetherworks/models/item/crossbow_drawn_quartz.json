@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "textures": {
+    "layer0": "aetherworks:item/crossbow_drawn_quartz_gui"
+  },
+  "base": {
+    "parent": "aetherworks:item/crossbow_drawn_quartz_handheld"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "aetherworks:item/crossbow_drawn_quartz_gui"
+    },
+    "ground": {
+      "parent": "aetherworks:item/crossbow_drawn_quartz_gui"
+    },
+    "fixed": {
+      "parent": "aetherworks:item/crossbow_drawn_quartz_gui"
+    }
+  }
+}

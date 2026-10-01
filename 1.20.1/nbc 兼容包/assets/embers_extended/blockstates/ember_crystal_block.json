@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "embers_extended:block/ember_crystal_block"
+    }
+  }
+}
