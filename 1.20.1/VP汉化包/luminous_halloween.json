@@ -1,0 +1,21 @@
+[
+  {
+    "name":"luminous_halloween",
+    "desc":"luminous_halloween 个人汉化",
+    "authors":"Ni But Crazy",
+    "mods":"luminous_halloween",
+    "dynamic":false
+  },
+  {
+    "target_class":
+      {
+        "name":"net/mcreator/luminoushalloween/procedures/FullMoonProcedure"
+      },
+      "pairs": [
+        {
+          "key":"§9the §9full §9moon §9rises...",
+          "value":"§9满月已经升起..."
+        }
+      ]
+  }
+]
