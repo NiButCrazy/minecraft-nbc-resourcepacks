@@ -1,6 +1,28 @@
 ## :memo: 更新日志
 
-## [v6.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.3...v6.2.0) -  v6.1.3..
+## [v6.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.2.0...v6.3.0) -  v6.2.0..
+
+#### :sparkles: 新功能
+
+-  余烬GUI兼容与材质重构 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(42412fc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/42412fc24ed660e367f8237c1bf9cea1c9a9a8cc)
+
+-  天境GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6e8eacc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6e8eaccb2b0b13324aa8a9f84389f3f445e4b5de)
+
+-  盖亚魔典4生物纹理适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3894df1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3894df1c06b52c66ad82d802e566fdb3c6767ba3)
+
+-  驯养革新村民皮肤兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f438c77)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f438c775fd73109f595c6caee096b739003e11cb)
+
+-  新增口渴GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3826842)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/382684227aee4018000634e2ed9c1da1ff9b528f)
+
+-  pmmo的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a3be51e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a3be51e56d8d2bff1298146992aa36b0e6721f7f)
+
+-  高级战利品信息GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d6873dc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d6873dc4f18cf8d3ec790e18d52e00c94fe38a97)
+
+#### :bug: 修复
+
+-  修复bygone的马和猪灵贴图 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(60600a5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/60600a5419a6d3cb076f34eeb0e4b66820ffb86d)
+
+## [v6.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.3...v6.2.0) -  2026/09/07 
 
 #### :sparkles: 新功能
 
