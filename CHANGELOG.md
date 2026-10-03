@@ -1,8 +1,42 @@
 ## :memo: 更新日志
 
-## [v6.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.2.0...v6.3.0) -  v6.2.0..
+## [v6.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.3.0...v6.4.0) -  v6.3.0..
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
+
+-  禁忌与奥秘GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(85ddb1f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/85ddb1f979e2f0f28dcf5d8d2acb88429dd8863c)
+
+-  添加对lychee的汉化与GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(365dc1b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/365dc1bcd4f12eea444ce938abe07819001d033a)
+
+-  添加月亮事件汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d00e6d5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d00e6d5530b430e69f2b4ec6c7c630529c89d86a)
+
+-  添加 lluminous halloween 硬编码汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4e84bbf)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4e84bbf3b5d79ce2d0a89e354e194419ebce0274)
+
+-  添加 悬赏 模组试验性汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e866a96)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e866a96bb46bf9abd721af174308e6af5618ce69)
+
+-  圣遗物模组GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0b7c25b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0b7c25bbcce9f845b13bd60d99ee2fadc0b177b2)
+
+-  金属桶的材质重构和GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(88850ee)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/88850ee2886299bdf7511732801cf3dc9cadf17d)
+
+-  添加 crockpot 的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a1b6fac)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a1b6fac6f61ad5e8d8f1a39ce740abe95e7d92bf)
+
+#### :bug: 修复
+
+-  修复了原版种小鸟贴图错误以及闪烁的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(caf035e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/caf035e25411314fb4517b0a9f307b3fb28a47b9)
+
+-  天境按钮忘记加上去了 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(81826e9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/81826e905b3e05351e3e2fb24fd42444fde28057)
+
+#### :recycle: 重构
+
+-  重绘小部分图标 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fb89384)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fb89384f4da4f539394f6fe5137a986cf515e9c0)
+
+#### :cyclone: 整体修改
+
+- 神秘遗物GUI粗略兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0858fe5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0858fe5fa8726f14de2cb494843715daf041c3b9)
+
+## [v6.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.2.0...v6.3.0) -  2026/10/02 
+
+#### :sparkles: 新特性
 
 -  余烬GUI兼容与材质重构 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(42412fc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/42412fc24ed660e367f8237c1bf9cea1c9a9a8cc)
 
@@ -24,7 +58,7 @@
 
 ## [v6.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.3...v6.2.0) -  2026/09/07 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加两个VP汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9773e4e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9773e4ef5e1f040f2c5464cb2af551b878d65993)
 
@@ -44,7 +78,7 @@
 
 ## [v6.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.1.0...v6.1.3) -  2026/08/27 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  模型修复包添加溺尸与尸壳 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(69c087d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/69c087dd4a517565ae43aa66202481f2a8b9b289)
 
@@ -54,7 +88,7 @@
 
 ## [v6.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.0.0...v6.1.0) -  2026/08/25 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  MOA 装饰系列汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(666e86f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/666e86fbf34b7c47da8e87362c33e4b39a27fe13)
 
@@ -76,7 +110,7 @@
 
 # [v6.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.9.0...v6.0.0) -  2026/08/24 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加建筑乐事汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1f47a4e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1f47a4eb621007f285bca0de652c1c0edabc4d36)
 
@@ -102,7 +136,7 @@
 
 ## [v5.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.7...v5.9.0) -  2026/06/29 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加Wan的远古异兽GUI兼容与汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5cb2f45)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5cb2f45ad91308b9b39094f14f06754a5028c216)
 
@@ -128,7 +162,7 @@
 
 ## [v5.8.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.8.0...v5.8.4) -  2026/06/18 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加 disenchanter 的 GUI 兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(485b657)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/485b657378d83df1c12e4d28f3e90d08c8421170)
 
@@ -140,7 +174,7 @@
 
 ## [v5.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.6...v5.8.0) -  2026/06/17 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加 paintings++ 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1ae6521)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1ae652183448f61dedd4239f4958b363c0491710)
 
@@ -154,7 +188,7 @@
 
 ## [v5.7.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.5...v5.7.6) -  2026/06/16 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加 cfm_wap 的汉化和GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e692e75)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e692e7563a55c6ced5eead9cfac7290b7b680cbe)
 
@@ -172,7 +206,7 @@
 
 ## [v5.7.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.7.0...v5.7.3) -  2026/06/14 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  新增 mowzies mobs 兼容包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(855f016)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/855f01656ba202931b8ef9e810adf35450a248f3)
 
@@ -184,7 +218,7 @@
 
 ## [v5.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.2...v5.7.0) -  2026/06/11 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加 Goety 的 GUI 兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7e9c2ed)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7e9c2edb8cb09d6845f9034c1c2e0701c835aa86)
 
@@ -194,7 +228,7 @@
 
 ## [v5.6.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.6.0...v5.6.2) -  2026/06/10 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加矿工眼镜的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f45f966)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f45f966aa32eb6a2b6b71aa22b36b105fa7c3a74)
 
@@ -202,7 +236,7 @@
 
 ## [v5.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.5.0...v5.6.0) -  2026/06/10 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  预制建筑的一个玻璃方块的基本fusion兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d929757)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d929757da54a30a7812857cb36b09a8600840c1f)
 
@@ -216,7 +250,7 @@
 
 ## [v5.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.8...v5.5.0) -  2026/06/08 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  优化过渡纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1cf8b9c)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1cf8b9c869926c8a07f23de29af2632769930753)
 
@@ -226,13 +260,13 @@
 
 ## [v5.4.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.7...v5.4.8) -  2026/06/07 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  补全各模组汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d3bed6a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d3bed6a4afddc0aa65a0149e4548df0efb1d4281)
 
 ## [v5.4.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.5...v5.4.7) -  2026/06/06 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加alcocraftplus的汉化和GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(80a5c80)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/80a5c8018c2a3f02097b5bc0fbf7047b23eb042d)
 
@@ -240,7 +274,7 @@
 
 ## [v5.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.4.0...v5.4.5) -  2026/06/06 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加截图管理器汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9604532)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/96045321ceb4d3d61f42cac07f748233ff32b63d)
 
@@ -258,7 +292,7 @@
 
 ## [v5.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.3.1...v5.4.0) -  2026/06/06 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加Marium的魂类武器的翻译汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(74c7b69)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/74c7b69eec47b6d93d71c543003f18e55950a04e)
 
@@ -288,7 +322,7 @@
 
 ## [v5.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.2.1...v5.3.0) -  2026/06/04 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了butcher的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9e2b57b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9e2b57b03b02be308f290ee25470b7fd4f75c9ef)
 
@@ -300,7 +334,7 @@
 
 ## [v5.2.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.2.0...v5.2.1) -  2026/01/06 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  画作材质更新,并添加翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9b1b625)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9b1b625aa1b4a81f4364f677cde40d6ff10016ca)
 
@@ -312,7 +346,7 @@
 
 ## [v5.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.1.0...v5.2.0) -  2025/12/28 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  雕纹砂岩材质重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(eeac430)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/eeac43009ce49f664ac64449af0289b109d102d8)
 
@@ -330,7 +364,7 @@
 
 ## [v5.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.6...v5.1.0) -  2025/12/27 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了guidme的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cf8f19e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cf8f19ebdf0820b46fbb5d270752a84ff174d71c)
 
@@ -342,7 +376,7 @@
 
 ## [v5.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.5...v5.0.6) -  2025/12/26 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 - 修复了扩展ae模组的GUI显示问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2b5439d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2b5439d1b2dc7aba81d8c51c1f1261045566c4da)
 
@@ -356,7 +390,7 @@
 
 ## [v5.0.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.2...v5.0.3) -  2025/12/25 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了对精致存储的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0d80d1e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0d80d1e50f8e93d10a0fc55fcec96bf5eb691709)
 
@@ -366,7 +400,7 @@
 
 ## [v5.0.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.1...v5.0.2) -  2025/12/24 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  原版陶瓦材质回退原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a24bf6b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a24bf6b898063fa767e2ac4eb8daf771f1bf4ec2)
 
@@ -374,13 +408,13 @@
 
 ## [v5.0.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v5.0.0...v5.0.1) -  2025/12/24 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  pipez的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f8ee20d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f8ee20d72e5371e6645dcd5078147a29b583cd22)
 
 # [v5.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.5...v5.0.0) -  2025/12/20 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  更新了南瓜材质变体 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c1f4a16)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c1f4a16629c2e61802cbbe507742416fe796965f)
 
@@ -398,19 +432,19 @@
 
 ## [v4.4.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.3...v4.4.5) -  2025/12/19 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了许多翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(37d74d6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/37d74d60e798febfb51d4b124b560b16acbfcfdb)
 
 ## [v4.4.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.2...v4.4.3) -  2025/12/18 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  小修材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c876b5e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c876b5ee7d4a610218e95a2448546873fc946e8b)
 
 ## [v4.4.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.4.0...v4.4.2) -  2025/12/18 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  补全了ae2指导手册的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f6b9711)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f6b9711eb575d05b652ac7de15720a675b2bd002)
 
@@ -418,7 +452,7 @@
 
 ## [v4.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.6...v4.4.0) -  2025/12/18 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  修改ae2的GUI材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ae82d98)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ae82d98b4afa4b86c93d9be0d0f8db947f619367)
 
@@ -426,13 +460,13 @@
 
 ## [v4.3.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.5...v4.3.6) -  2025/12/17 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  汉化包小修+ae2的GUI贴图小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(94ca68b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/94ca68b5d036f68f0dfb404f58243a93114f0829)
 
 ## [v4.3.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.3.1...v4.3.5) -  2025/12/17 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  可视化按键的VP汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9b570fa)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9b570fa21266df1b91c8f8d3ac62be23fc3ea1eb)
 
@@ -452,7 +486,7 @@
 
 ## [v4.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.7...v4.3.0) -  2025/12/14 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  材质细节小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(0187155)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/0187155605758b5416d06dc181a6e2e2d7f841f9)
 
@@ -464,7 +498,7 @@
 
 ## [v4.2.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.2.1...v4.2.6) -  2025/12/13 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加应用通量的翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(023725f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/023725ff10351f751324057bd14c432baf6c978b)
 
@@ -482,7 +516,7 @@
 
 ## [v4.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.5...v4.2.0) -  2025/12/11 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了饰品收纳盒的GUI兼容与翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(df1a3d3)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/df1a3d3e0ef1072cb3629b0b496302b19c615822)
 
@@ -504,19 +538,19 @@
 
 ## [v4.1.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.3...v4.1.4) -  2025/12/10 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了沉浸工程的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5d545f4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5d545f40052f979b036d6ab92b08ea2029e15cd6)
 
 ## [v4.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.2...v4.1.3) -  2025/12/09 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了物品拾取的汉化翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ebbf060)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ebbf06006cc35b04007798966133a0ed34996242)
 
 ## [v4.1.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.1.0...v4.1.2) -  2025/12/08 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  暮色森林材质翻新并修复虫子材质问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6856533)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6856533212d756c51e3962b480d831e882ff5ed9)
 
@@ -526,7 +560,7 @@
 
 ## [v4.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.8...v4.1.0) -  2025/12/07 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  fusion玻璃板优化,兼容连接纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6c0da70)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6c0da70616325f052c77affb1edb723900e406ce)
 
@@ -546,7 +580,7 @@
 
 ## [v4.0.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.7...v4.0.8) -  2025/12/06 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  实体纹理特性汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5965dc5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5965dc55802fa0d69d8cad840c0e0211346349a6)
 
@@ -558,19 +592,19 @@
 
 ## [v4.0.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.6...v4.0.7) -  2025/12/05 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  植物魔法成就翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3b60a86)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3b60a861d0b69f9a6beadf0cf41792304582143a)
 
 ## [v4.0.6](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.5...v4.0.6) -  2025/12/05 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  void miners 材质和汉化更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f7c0725)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f7c072514bd94b79cc7cb1a31a5ed908448617fd)
 
 ## [v4.0.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.4...v4.0.5) -  2025/12/05 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  全新自然/探索者指南针材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b11fc81)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b11fc812deeeed30719f68dd52efbbc52c383c5c)
 
@@ -578,7 +612,7 @@
 
 ## [v4.0.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v4.0.0...v4.0.4) -  2025/12/04 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了马的全新材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(86b0f64)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/86b0f64b5c48fc2070af548dd601182527f96351)
 
@@ -592,7 +626,7 @@
 
 # [v4.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.4...v4.0.0) -  2025/12/03 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了全新的耄耋纹理和模型 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a817c0a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a817c0a6991d02835153dc00274b310594967e5c)
 
@@ -636,13 +670,13 @@
 
 ## [v3.2.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.2...v3.2.3) -  2025/11/30 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了召唤祭坛的data数据包,包含了合成方式和成就 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1e7bac9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1e7bac9a5bb63530d29cb3a726ee813fb549d186)
 
 ## [v3.2.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.2.1...v3.2.2) -  2025/11/30 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  召唤祭坛GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c397b38)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c397b38fc526e3fc0c149ea660ae0e2a10e28a23)
 
@@ -654,7 +688,7 @@
 
 ## [v3.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.1.0...v3.2.0) -  2025/11/29 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  沉浸工程材质重绘 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(014f916)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/014f916051088275591b15f299cd5d76687b4dab)
 
@@ -668,7 +702,7 @@
 
 ## [v3.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v3.0.0...v3.1.0) -  2025/11/28 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了kubejs实用脚本的类别,添加了沉浸工程的多方块结构的思索索引支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(49dcdca)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/49dcdcaa0107a8c0a159a50a19f50de4dce6cc4d)
 
@@ -676,7 +710,7 @@
 
 # [v3.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.2.0...v3.0.0) -  2025/11/27 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  热力系列的机器材质回退原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f7b294f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f7b294f25136baf9256d4cb441be148425562550)
 
@@ -704,7 +738,7 @@
 
 ## [v2.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.1.0...v2.2.0) -  2025/11/26 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  传送石材质重修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(17e26dd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/17e26ddf2faf6bc463d0aef0b7d765be2f8894fe)
 
@@ -718,7 +752,7 @@
 
 ## [v2.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v2.0.0...v2.1.0) -  2025/11/26 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了各种各样的猪 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7d7cc04)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7d7cc04c0247364cd24d1f6d055804c29d03506b)
 
@@ -736,7 +770,7 @@
 
 # [v2.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.2...v2.0.0) -  2025/11/25 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  食物纹理大修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d5e4dec)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d5e4decb563b9aeeaacb9d9ea946c4e16cec17ef)
 	-  顺便添加了冰与火之歌的全新纹理材质
@@ -747,7 +781,7 @@
 
 ## [v1.10.2](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.10.1...v1.10.2) -  2025/11/23 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  锦致装饰铁栅栏门材质chong hui &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(434e1cf)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/434e1cf9ed309fa225405ef3dcfc772d8d80f93e)
 
@@ -761,7 +795,7 @@
 
 ## [v1.10.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.5...v1.10.0) -  2025/11/22 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  新增药水材质包 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(73e83ba)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/73e83badb8f492605ab5e6751da383be831a1f80)
 
@@ -777,13 +811,13 @@
 
 ## [v1.9.5](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.4...v1.9.5) -  2025/11/20 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  修改了瓶子和蜘蛛纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5790dcb)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5790dcb3cff70bdca6b1721099ad3e6581cc9ce3)
 
 ## [v1.9.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.3...v1.9.4) -  2025/11/19 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  meet your fight 的纹理兼容和部分实体汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1c35fe8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1c35fe86d55958cffd63f8d845336f416df76ca5)
 
@@ -797,7 +831,7 @@
 
 ## [v1.9.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.9.2...v1.9.3) -  2025/11/18 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  新生魔艺村民职业兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3372e12)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3372e12e2a75d4f839320cb19b7876ecf3aee441)
 	-  顺便小修JEI部分界面
@@ -820,7 +854,7 @@
 
 ## [v1.9.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.8.0...v1.9.0) -  2025/11/17 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了村民更多声音 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(db2c41a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/db2c41abb48ef3271aac14cb128a8cfa8559f767)
 
@@ -846,7 +880,7 @@
 
 ## [v1.8.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.1...v1.8.0) -  2025/11/16 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了植物魔法的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(aebcd50)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/aebcd5029041ba2532c434c5f2a0834df1a5c714)
 
@@ -862,7 +896,7 @@
 
 ## [v1.7.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.7.0...v1.7.1) -  2025/11/16 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加深邃幽暗翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cce927e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cce927e799e0017c2c0ec8de33bb301c8c2e6189)
 
@@ -872,7 +906,7 @@
 
 ## [v1.7.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.12...v1.7.0) -  2025/11/15 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加区块加载器的翻译和GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3cba624)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3cba62474f9ed2510645626ca8a24a1cb79d52a0)
 
@@ -884,13 +918,13 @@
 
 ## [v1.6.12](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.11...v1.6.12) -  2025/11/14 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加矿工乐事翻译和GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6933a62)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6933a620c7e5a48e11323473b1fa08bcd344dab9)
 
 ## [v1.6.11](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.10...v1.6.11) -  2025/11/14 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了mek的额外fusion连接纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fdf2726)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fdf27266e73ad00616149e58d9a8a22cbc475a76)
 	-  顺便小修原版材质包
@@ -909,7 +943,7 @@
 
 ## [v1.6.8](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.7...v1.6.8) -  2025/11/13 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  重绘Tom的简单存储的方块纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6107910)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/61079109b8da90dc64a3b8cbad17a4d654078a46)
 
@@ -917,7 +951,7 @@
 
 ## [v1.6.7](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.6...v1.6.7) -  2025/11/12 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了Tom建议存储的GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f24e24e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f24e24e62d15e6db48ea9d048917378607263c49)
 	-  小修其他GUI
@@ -936,7 +970,7 @@
 
 ## [v1.6.4](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.3...v1.6.4) -  2025/11/10 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了Supplementaries 数据包兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3210962)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/32109625612c626e687d853ced48402341c2fb0f)
 
@@ -946,7 +980,7 @@
 
 ## [v1.6.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.6.2...v1.6.3) -  2025/11/09 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加烛火晚宴的GUI兼容,同时小修alex洞穴的GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4ebeb7f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4ebeb7f24891812ca395d46bafa4a83cef4f4b33)
 
@@ -966,7 +1000,7 @@
 
 ## [v1.6.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.1...v1.6.0) -  2025/11/08 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  对 Nameless Trinkets 补充了史诗汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4b08232)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4b08232fe5d107cc62071dffc989cd2c1ac79cb9)
 
@@ -978,13 +1012,13 @@
 
 ## [v1.5.1](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.5.0...v1.5.1) -  2025/11/08 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了对祛魔编辑台的GUI支持 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f86f784)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f86f784e9cd8ef0a6e468fd3b27eb6549d2248e7)
 
 ## [v1.5.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.4.0...v1.5.0) -  2025/11/08 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了对海洋结构进度成就的翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8158d70)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8158d7046bfd41d29614aaf9755411928d638e9b)
 
@@ -996,7 +1030,7 @@
 
 ## [v1.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.3.0...v1.4.0) -  2025/11/07 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了smallship的补充翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ab3bc19)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ab3bc195753a7571231acfb482eab0c5b55b574e)
 
@@ -1008,7 +1042,7 @@
 
 ## [v1.3.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.2.1...v1.3.0) -  2025/11/06 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了对small ships的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7747cd4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7747cd4d25bed9263c061b86e8ab6ccc946cc32f)
 	-  顺便修复了锦致装饰的灯笼模型问题
@@ -1029,7 +1063,7 @@
 
 ## [v1.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.3...v1.2.0) -  2025/11/05 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  添加了对xnet和rftools的部分GUI支持,其余的无从下手 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6be9184)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6be9184d8d110ecdd2a427a0c1079ceadcebdebf)
 
@@ -1043,7 +1077,7 @@
 
 ## [v1.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.1.2...v1.1.3) -  2025/11/03 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  灾变GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(186f13b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/186f13bf3cd3d55b3c5fab0ce59152291d8e7bbb)
 
@@ -1075,7 +1109,7 @@
 
 ## [v1.0.9](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v1.0.8...v1.0.9) -  2025/11/02 
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  ironfurnaces模组添加GUI适配 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9f9c566)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9f9c56689ccdb875b335059267348706000d6ba5)
 
@@ -1127,7 +1161,7 @@
 
 ## v1.0.1
 
-#### :sparkles: 新功能
+#### :sparkles: 新特性
 
 -  大修,仿照ae2风格重绘了所有GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cac3d24)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cac3d242916175b453c97b3d66b9d12fc57d4277)
 
