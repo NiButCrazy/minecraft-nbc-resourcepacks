@@ -1,7 +1,7 @@
 [
   {
     "name":"watut",
-    "desc":"watut汉化",
+    "desc":"旧版本watut汉化, 最新版本无需汉化,直接配置文件里写就行了",
     "authors":"Ni But Crazy",
     "mods":"watut",
     "dynamic":false
