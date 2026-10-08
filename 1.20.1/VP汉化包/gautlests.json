@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Gauntlets",
+    "desc": "Gauntlets 汉化包",
+    "authors": "Ni But Crazy",
+    "mods": "Gauntlets",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "devenilla/gauntlets/item/QuickpunchtrimItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7Quick Punch Trim",
+        "value": "§7迅捷拳击锻造模板"
+      },
+      {
+        "key": "§7Applies to:",
+        "value": "§7可应用于："
+      },
+      {
+        "key": "§9 Gauntlets",
+        "value": "§9 拳套"
+      },
+      {
+        "key": "§7Ingredients:",
+        "value": "§7所需材料："
+      },
+      {
+        "key": "§9 Ingots & Crystals",
+        "value": "§9 锭与水晶"
+      }
+    ]
+  }
+]
