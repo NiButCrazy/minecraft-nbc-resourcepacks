@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Stalwart Dungeons",
+    "desc": "坚固地牢硬编码汉化",
+    "authors": "Ni But Crazy",
+    "mods": "Stalwart Dungeons",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "net/mcreator/stalwartdungeons/item/WartedTungstenItem$Boots",
+      "net/mcreator/stalwartdungeons/item/WartedTungstenItem$Leggings",
+      "net/mcreator/stalwartdungeons/item/WartedTungstenItem$Chestplate",
+      "net/mcreator/stalwartdungeons/item/WartedTungstenItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§7Full set:",
+        "value": "§7套装效果:"
+      },
+      {
+        "key": "§9 Imunise you to Spore and Wither Effect",
+        "value": "§9 免疫孢子和凋零效果"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/stalwartdungeons/item/TungstenItem$Boots",
+      "net/mcreator/stalwartdungeons/item/TungstenItem$Leggings",
+      "net/mcreator/stalwartdungeons/item/TungstenItem$Chestplate",
+      "net/mcreator/stalwartdungeons/item/TungstenItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§7Full set:",
+        "value": "§7套装效果:"
+      },
+      {
+        "key": "§9 Imunise you to Burning and Wither Effect",
+        "value": "§9 免疫狱火和凋零效果"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/stalwartdungeons/item/ChorundumArmorItem$Boots",
+      "net/mcreator/stalwartdungeons/item/ChorundumArmorItem$Leggings",
+      "net/mcreator/stalwartdungeons/item/ChorundumArmorItem$Chestplate",
+      "net/mcreator/stalwartdungeons/item/ChorundumArmorItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§7Full set:",
+        "value": "§7套装效果:"
+      },
+      {
+        "key": "§9 Imunise you to Levitation Effect",
+        "value": "§9 免疫漂浮效果"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/stalwartdungeons/item/AwfulDaggerItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When hit :",
+        "value": "§7攻击时:"
+      },
+      {
+        "key": "§9 Clear all effect of ennemy",
+        "value": "§9 清除被攻击者的所有效果"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/stalwartdungeons/item/AwfulGunItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7Shoot Awful Ghast fire ball",
+        "value": "§7发射惊骇恶魂的火球"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/stalwartdungeons/item/NetherHammerItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When used:",
+        "value": "§7挖掘方块:"
+      },
+      {
+        "key": "§9 Brun and Smelt the Block",
+        "value": "§9 直接烧炼该方块"
+      }
+    ]
+  }
+]
