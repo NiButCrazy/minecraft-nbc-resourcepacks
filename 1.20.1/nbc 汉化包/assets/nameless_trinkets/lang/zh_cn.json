@@ -190,7 +190,7 @@
   "tooltip.nameless_trinkets.isDisabled": "这个饰品已被禁用",
   "itemGroup.nameless_trinketsTab": "无名饰品",
   "curios.identifier.trinkets": "饰品",
-  "curios.identifier.extra": "额外",
+  "curios.identifier.extra": "额外饰品",
   "curios.identifier.neckless": "Neckless",
   "tooltip.nameless_trinkets.mysterious_trinket_3": "命运或许垂怜，赐你新的容纳之所：%1$s",
   "tooltip.nameless_trinkets.mysterious_trinket_4": "可承载的极限灵座：%1$s",
@@ -340,7 +340,7 @@
   "advancements.nameless_trinkets.miners_soul.description": "探取矿工之魂，听那回响在地底的叹息",
 
   "advancements.nameless_trinkets.pocket_lightning_rod.title": "掌中之雷",
-  "advancements.nameless_trinkets.pocket_lightning_rod.description": "持雷之针，电光跃指间，风暴为你低头，Man!",
+  "advancements.nameless_trinkets.pocket_lightning_rod.description": "惶惶世人，可知警钟已在怒雷中长鸣",
 
   "advancements.nameless_trinkets.scarab_amulet.title": "往昔的遗痕",
   "advancements.nameless_trinkets.scarab_amulet.description": "得圣甲之符，古时的祈愿在此复燃",

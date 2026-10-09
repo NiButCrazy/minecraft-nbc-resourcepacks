@@ -4,10 +4,10 @@
       "item": "nameless_trinkets:mysterious_trinket"
     },
     "title": {
-      "translate": "他们在星辉之外低语..."
+      "translate": "advancements.nameless_trinkets.root.title"
     },
     "description": {
-      "translate": "能让命运所有碎片归于掌中吗？"
+      "translate": "advancements.nameless_trinkets.root.description"
     },
     "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
     "show_toast": true,
