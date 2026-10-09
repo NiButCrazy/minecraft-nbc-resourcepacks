@@ -97,34 +97,6 @@
   {
     "target_class":
       {
-        "name":"com/gmail/rawlxxxviii/visual_keybinder/config/ClientConfig"
-      },
-      "pairs": [
-        {
-          "key":"Full keyboard and mouse",
-          "value":"所有键盘和鼠标"
-        },
-        {
-          "key":"Mouse",
-          "value":"鼠标"
-        },
-        {
-          "key":"Full keyboard",
-          "value":"所有键盘"
-        },
-        {
-          "key":"Keypad",
-          "value":"小键盘"
-        },
-        {
-          "key":"Function keys",
-          "value":"功能键"
-        }
-      ]
-  },
-  {
-    "target_class":
-      {
         "name":"com/gmail/rawlxxxviii/visual_keybinder/ui_list/DefaultKeyBindsList"
       },
       "pairs": [

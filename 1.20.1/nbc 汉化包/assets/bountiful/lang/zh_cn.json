@@ -1,5 +1,10 @@
 ﻿{
   "bountiful.decree.crops.name": "农作物悬赏",
   "bountiful.decree.resource.name": "资源悬赏",
-  "bountiful.decree.food.name": "食物悬赏"
+  "bountiful.decree.food.name": "食物悬赏",
+  "bountiful.rarity.Legendary": "传说",
+  "bountiful.entry.fisherman_obj_catch_ench_book": "钓取附魔书",
+  "bountiful.entry.cleric_obj_brew_swiftness": "酿造基础迅捷药水",
+  "bountiful.entry.cleric_obj_cure_zombie_villager": "治愈僵尸村民",
+  "bountiful.decree.inventor.name": "发明"
 }
