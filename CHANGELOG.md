@@ -1,6 +1,63 @@
 ## :memo: 更新日志
 
-## [v6.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.3.0...v6.4.0) -  v6.3.0..
+## [v7.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.4.0...v7.0.0) -  v6.4.0..
+
+#### :sparkles: 新特性
+
+-  盖亚魔典 4 汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a3e73ae)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a3e73ae8d2d4e4b8d1cdb5403b58c971bd0bf308)
+
+-  添加阿尔坦呼唤硬编码汉化与JEI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(97d174b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/97d174bd8e86e9eb3097b06bb0f475615a4b30c4)
+
+-  添加尤卡坦的呼唤汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6d469cc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6d469cc904524197271d6f76c60325580fca9e35)
+
+-  添加坚固地牢汉化与硬编码汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cc95a37)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cc95a370e6242f11687938a9c954328a3e92f00a)
+
+-  农夫暇事 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(95aa74a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/95aa74ae05de1145ff2e6ac03bb8f23fa3ae3de2)
+
+-  天基fluffy fur 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4e53fe5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4e53fe5407dc0a0ecac2ca24c3b3394fd9d8f4f3)
+
+-  无尽贪婪重生的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(065e6ed)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/065e6ed6cbc872f6ec4717c027c52826dc8c9d48)
+
+-  添加admin-chunk-manager硬编码汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f3de17f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f3de17f7ab09f089c6cdd6f0ca7c6ab9a6b17772)
+
+-  添加 gauntlets 的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cbb46db)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cbb46dbd725fabd3b3c0f149f29c71003df5f373)
+
+-  泰拉饰品GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2af961f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2af961f96dc8b781f79a1c988e652759b7cbd8c4)
+
+-  添加黑暗二重身汉化补全 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(c044f95)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/c044f9557824d4d052765c03dbe24ed65a16da80)
+
+-  补充怪物女孩的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(68698ec)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/68698ec02af9df1284a8c25eb79efd98eba78186)
+
+-  添加更好的砂轮的GUI与汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9e1e917)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9e1e917878df28a0a163b8c20e97c5442f1ad848)
+
+-  千古乐事的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(99e3d65)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/99e3d6581870fe45d05d213db0cb0b5864275482)
+	-  并且补充了药水效果的汉化
+
+-  Aetherworks Refracted 的GUI兼容与汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2c02ffb)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2c02ffb247c03d33376029ea2a090d1fea890e3e)
+
+-  神化GUI与JEI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(3f770dd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/3f770dd5299dfcb13fb2e8dd053f69c6400b5abb)
+
+-  添加authcmd的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fd10618)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fd10618ee3b163fef2c2fa968b44558c3faa0061)
+
+-  添加 Universal Enchantment Info  的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f23c091)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f23c091a818a49aba6810f7a04bc701bf07825cf)
+
+-  添加了铁砧与锻造台无法锻造图标 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4bb769a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4bb769af8ea0c687dc497f3ca9f965f3b1d69d59)
+
+#### :bug: 修复
+
+-  小修汉化内容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fad4c09)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fad4c0996571b6713320737d40bc7399cdf89aff)
+
+-  修复天境模组GUI错位的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(164188e)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/164188e57b38f2dee83a9747fa7cf1590b4ff5ae)
+
+#### :books: 样式
+
+-  铁魔法GUI小修 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6cb2939)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6cb2939ac56ac77d3aff4a288e947e8c791e3388)
+
+#### :cyclone: 整体修改
+
+- remove: 移除黑色凋零样式的骷髅皮肤 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2531dd2)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2531dd259d825a1e57aa63c08639a4857c55d225)
+
+## [v6.4.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.3.0...v6.4.0) -  2026/10/03 
 
 #### :sparkles: 新特性
 
