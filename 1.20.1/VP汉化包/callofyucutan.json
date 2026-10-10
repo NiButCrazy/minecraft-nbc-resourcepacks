@@ -1,0 +1,523 @@
+[
+  {
+    "name": "call of yucutan",
+    "desc": "call of yucutan 汉化包",
+    "authors": "Ni But Crazy",
+    "mods": "callofyucutan",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/AncientGoldIngotItem",
+      "net/mcreator/callofyucutan/item/HematiteItem"
+    ],
+    "pairs": [
+      {
+        "key": "§8§oImbued by a Powerful Being",
+        "value": "§8§o由强大存在所灌注"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/JadeAmuletItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When in Inventory:",
+        "value": "§7位于物品栏时:"
+      },
+      {
+        "key": "§9 Luck (00:03)",
+        "value": "§9 幸运 (00:03)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/MayanCalendarItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When in Inventory:",
+        "value": "§7位于物品栏时:"
+      },
+      {
+        "key": "§9 Indicates Lunar Events",
+        "value": "§9指示月相事件"
+      },
+      {
+        "key": "§8Right-Click for more infos",
+        "value": "§8右键查看更多信息"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/procedures/MayanCalendarRightclickedProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Ah Puch can now receive sacrifices",
+        "value": "阿·普切现在可以接受献祭了"
+      },
+      {
+        "key": "Ah Puch will receive sacrifices tonight",
+        "value": "阿·普切今晚将接受献祭"
+      },
+      {
+        "key": "Kukuklan can now receive sacrifices",
+        "value": "库库尔坎现在可以接受献祭了"
+      },
+      {
+        "key": "Kukuklan will receive sacrifices tonight",
+        "value": "库库尔坎今晚将接受献祭"
+      },
+      {
+        "key": "There is no sign yet of an upcoming New or Full Moon",
+        "value": "目前还没有即将出现新月或满月的迹象"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/block/AhPuchIdolBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§8Grants Ah Puch's Bless",
+        "value": "§8赐予阿·普切之祝福"
+      },
+      {
+        "key": "§8as a reward for Sacrifices",
+        "value": "§8作为献祭的奖励"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/block/KukulkanIdolBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§8Grants Kukulkan's Bless",
+        "value": "§8赐予库库尔坎之祝福"
+      },
+      {
+        "key": "§8as a reward for Sacrifices",
+        "value": "§8作为献祭的奖励"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/JadesItem$Boots",
+      "net/mcreator/callofyucutan/item/JadesItem$Chestplate",
+      "net/mcreator/callofyucutan/item/JadesItem$Helmet",
+      "net/mcreator/callofyucutan/item/JadesItem$Leggings"
+    ],
+    "pairs": [
+      {
+        "key": "§7When Full Set is Equipped:",
+        "value": "§7套装效果:"
+      },
+      {
+        "key": "§9 Grants immunity to",
+        "value": "§9  赋予效果免疫:"
+      },
+      {
+        "key": "§9 Poison and Wither",
+        "value": "§9  中毒与凋零"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/procedures/AhPuchIdolOnTickUpdateProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Ah Puch grants you a fraction of his power",
+        "value": "阿·普切赐予你他力量的一小部分"
+      },
+      {
+        "key": "Ah Puch liked your gift, and is requesting more",
+        "value": "阿·普切喜欢你的礼物，并想要更多"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/procedures/KukulkanIdolOnTickUpdateProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Kukulkan grants you a fraction of his power",
+        "value": "库库尔坎赐予你他力量的一小部分"
+      },
+      {
+        "key": "Kukulkan liked your gift, and is requesting more",
+        "value": "库库尔坎喜欢你的礼物，并想要更多"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/MysticVineItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When used on a row of 3 Ritual ",
+        "value": "§7在雨中对着一排 3 个仪式石"
+      },
+      {
+        "key": "§7Rocks Blocks while Raining:",
+        "value": "§7使用时:"
+      },
+      {
+        "key": "§9 Summons a Stone Jaguar",
+        "value": "§9召唤一只恰克"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/FistOfDoomItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When Right-Clicked",
+        "value": "§8不兼容任何附魔"
+      },
+      {
+        "key": "§7on the Ground:",
+        "value": "§7右键点击地面时:"
+      },
+      {
+        "key": "§9 Create a Mitnal Shockwave",
+        "value": "§9制造一道魔法冲击波"
+      },
+      {
+        "key": "§8Buffed by Ah Puch's Bless",
+        "value": "§8受阿普切之祝福强化"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/HangingVineHookItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When Right-Clicked:",
+        "value": "§7右键点击时:"
+      },
+      {
+        "key": "§9 Cling to Blocks",
+        "value": "§9可附着于方块"
+      },
+      {
+        "key": "§8Sneak to get closer ",
+        "value": "§8潜行以靠近或从钩上下来"
+      },
+      {
+        "key": "§8or get off the Hook",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/SentientVineItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When Used on a Block:",
+        "value": "§7对着一方块使用时:"
+      },
+      {
+        "key": "§9 Transform in the correct",
+        "value": "§9变形为正确的工具以与之交互"
+      },
+      {
+        "key": "§9 tool to interact with it",
+        "value": "§8挖掘等级与钻石工具一致"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/ChiliPepperItem"
+    ],
+    "pairs": [
+      {
+        "key": "§9Strength (00:10)",
+        "value": "§9力量 (00:10)"
+      },
+      {
+        "key": "§cHot",
+        "value": "§c微微辣"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/XocolatlItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When drinked:",
+        "value": "§7饮用时:"
+      },
+      {
+        "key": "§9 Extends duration of Ah Puch",
+        "value": "§9将阿·普切的祝福和库库尔坎的祝福延长 30 分钟"
+      },
+      {
+        "key": "§9 and Kukulkan's Bless by 30min",
+        "value": "§8通常被认为是现代巧克力的鼻祖"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/MacuahuitlItem"
+    ],
+    "pairs": [
+      {
+        "key": "§8§oBeautiful and sharp",
+        "value": "§8§o美丽而锋利"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/BlowGunItem"
+    ],
+    "pairs": [
+      {
+        "key": "§8Hold when shooting",
+        "value": "§8长按射击"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/WandOfRadianceItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When Right-Clicked:",
+        "value": "§7右键点击时:"
+      },
+      {
+        "key": "§9 Shoot a powerful Sun Ray",
+        "value": "§9射出一道强大的太阳射线"
+      },
+      {
+        "key": "§8Hold when shooting",
+        "value": "§8射击时需长按，受库库尔坎之祝福强化"
+      },
+      {
+        "key": "§8Buffed by Kukulkan's Bless",
+        "value": "§8不兼容任何附魔"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/PoisonousDartItem"
+    ],
+    "pairs": [
+      {
+        "key": "§8Used by Blow Gun",
+        "value": "§8由吹箭筒使用"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/ObsidianArrowItem"
+    ],
+    "pairs": [
+      {
+        "key": "§c-50% Damage",
+        "value": "§c-50% 伤害"
+      },
+      {
+        "key": "§9Bypass armor",
+        "value": "§9无视护甲"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/HuracanItem$Helmet",
+      "net/mcreator/callofyucutan/item/MonkeyItem$Helmet",
+      "net/mcreator/callofyucutan/item/WarriorItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "§7When wearing Jade Armor:",
+        "value": "§7当穿着翡翠盔甲时:"
+      },
+      {
+        "key": "§9 Can replace Jade Helmet as",
+        "value": "§9可替代翡翠头盔作为翡翠套装的一部分"
+      },
+      {
+        "key": "§9 part of the full Jade set",
+        "value": "§8只能装备在头盔栏"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/block/SolarProjectorBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§7Produce a Solar Ray",
+        "value": "§7产生一道太阳射线"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/block/HematiteBlockBlock",
+      "net/mcreator/callofyucutan/block/ReflectorBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§7Can redirect a Solar Ray",
+        "value": "§7可以折射太阳射线"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/HematiteShieldItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7When Blocking:",
+        "value": "§7格挡时:"
+      },
+      {
+        "key": "§9 Redirects Solar Rays",
+        "value": "§9重新折射太阳射线"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/block/AncientGoldBlock",
+      "net/mcreator/callofyucutan/block/AncientGoldPillarBlock"
+    ],
+    "pairs": [
+      {
+        "key": "§9While Kukulkan's Bless is Applied:",
+        "value": "§9当库库尔坎之祝福生效时:"
+      },
+      {
+        "key": "§7 Can be used to create Golems",
+        "value": "§7可用于创造魔像"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/procedures/AhPuchIdolOnBlockRightClickedProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Ah Puch will transform your item",
+        "value": "阿·普切将转化你的物品"
+      },
+      {
+        "key": "Ah Puch's Bless is required to transform this item",
+        "value": "需要阿·普切之祝福才能转化此物品"
+      },
+      {
+        "key": "Ah Puch won't accept presents before the New Moon",
+        "value": "阿·普切在新月之前不会接受祭品"
+      },
+      {
+        "key": "Ah Puch would like to receive alchemy items",
+        "value": "阿·普切想要收到炼金物品"
+      },
+      {
+        "key": "Ah Puch will accept presents tonight",
+        "value": "阿·普切今晚将接受祭品"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/procedures/KukulkanIdolOnBlockRightClickedProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Kukulkan will transform your item",
+        "value": "库库尔坎将转化你的物品"
+      },
+      {
+        "key": "Kukulkan's Bless is required to transform this item",
+        "value": "需要库库尔坎之祝福才能转化此物品"
+      },
+      {
+        "key": "Kukulkan won't accept presents before the Full Moon",
+        "value": "库库尔坎在满月之前不会接受祭品"
+      },
+      {
+        "key": "Kukulkan would like to receive gems",
+        "value": "库库尔坎想要收到宝石"
+      },
+      {
+        "key": "Kukulkan will accept presents tonight",
+        "value": "库库尔坎今晚将接受祭品"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/jei_recipes/GodSacrificeRecipeCategory"
+    ],
+    "pairs": [
+      {
+        "key": "Ritual Transmutation ",
+        "value": "仪式转化 "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/JEIKukulkanItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7Kukulkan's Bless is required",
+        "value": "§7需要库库尔坎之祝福才能执行此仪式"
+      },
+      {
+        "key": "§7to perform this ritual",
+        "value": "§8神降下了恩典"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/callofyucutan/item/JeiAhPuchItem"
+    ],
+    "pairs": [
+      {
+        "key": "§7Ah Puch's Bless is required",
+        "value": "§7需要阿·普切之祝福才能执行此仪式"
+      },
+      {
+        "key": "§7to perform this ritual",
+        "value": "§8神降下了恩典"
+      }
+    ]
+  }
+]
