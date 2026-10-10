@@ -1,0 +1,20 @@
+{
+  "screen.improvedgrindstone.keys": "按下以更改",
+
+  "improvedgrindstone.config.title": "改进砂轮配置",
+  "improvedgrindstone.config.general.category": "通用",
+  "improvedgrindstone.config.general.xp_cost_type": "经验消耗类型",
+  "improvedgrindstone.config.general.xp_cost_type.tooltip": "选择消耗类型：\n- VANILLA_COST：消耗等级与铁砧类似\n- SPECIFIC_COST：为祛魔物品指定固定消耗\n- NO_COST：祛魔物品不消耗任何经验",
+  "improvedgrindstone.config.general.specific_cost_Value": "指定消耗数值",
+  "improvedgrindstone.config.general.specific_cost_Value.tooltip": "指定 SPECIFIC_COST 的数值，必须先选择该类型此数值才会生效",
+  "improvedgrindstone.config.general.damage_percentage_when_grind": "使用砂轮时的耐久损耗百分比",
+  "improvedgrindstone.config.general.damage_percentage_when_grind.tooltip": "指定使用砂轮时物品的耐久损耗百分比",
+  "improvedgrindstone.config.general.allow_grind_curses": "允许砂轮处理诅咒",
+  "improvedgrindstone.config.general.allow_grind_curses.tooltip": "定义是否允许通过砂轮转移诅咒",
+  "improvedgrindstone.config.general.allow_reduce_repair_cost": "允许降低修复成本",
+  "improvedgrindstone.config.general.allow_reduce_repair_cost.tooltip": "定义是否允许通过砂轮降低修复成本",
+  "improvedgrindstone.config.general.show_experience_cost_tooltip": "在提示框中显示经验消耗",
+  "improvedgrindstone.config.general.show_experience_cost_tooltip.tooltip": "定义选择魔咒的提示框是否显示经验等级（仅在 VANILLA_COST 类型下生效）",
+  "improvedgrindstone.config.general.tax_free_levels_compatibility": "Tax Free Levels 兼容",
+  "improvedgrindstone.config.general.tax_free_levels_compatibility.tooltip": "定义与 TaxFreeLevels 模组的兼容性（仅在安装该模组时生效）"
+}
