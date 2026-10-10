@@ -1,0 +1,64 @@
+[
+  {
+    "name": "admin-chunk-manager",
+    "desc": "admin-chunk-manager 汉化包",
+    "authors": "Ni But Crazy",
+    "mods": "admin-chunk-manager",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "com/envarcade/ftb_admin/ClaimType"
+    ],
+    "pairs": [
+      {
+        "key": "Admin",
+        "value": "管理员"
+      },
+      {
+        "key": "General admin claims",
+        "value": "通用管理员领地"
+      },
+      {
+        "key": "Spawn",
+        "value": "出生区"
+      },
+      {
+        "key": "Server spawn area",
+        "value": "服务器出生点区域"
+      },
+      {
+        "key": "Shop",
+        "value": "商店区"
+      },
+      {
+        "key": "Server shops",
+        "value": "服务器商店"
+      },
+      {
+        "key": "Event",
+        "value": "活动区"
+      },
+      {
+        "key": "Event areas",
+        "value": "活动竞技区域"
+      },
+      {
+        "key": "Staff",
+        "value": "工作人员"
+      },
+      {
+        "key": "Staff-only areas",
+        "value": "仅限工作人员的区域"
+      },
+      {
+        "key": "Public",
+        "value": "公共区"
+      },
+      {
+        "key": "Public builds",
+        "value": "公共建筑"
+      }
+    ]
+  }
+]
