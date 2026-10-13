@@ -1,6 +1,28 @@
 ## :memo: 更新日志
 
-## [v7.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.4.0...v7.0.0) -  v6.4.0..
+## [v7.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v7.0.0...v7.1.0) -  v7.0.0..
+
+#### :sparkles: 新特性
+
+-  添加植物盆栽 GUI 兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d852328)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d85232884c42927fc0254722ceaecebe8ace56a8)
+
+-  切制砂岩重置 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8791ced)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8791ced12a767a01497f99a34a8ffb59a12f3080)
+
+-  神化GUI略微重构 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2d5f9b7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2d5f9b75215c3e6c1dc538756e4409cad87825f7)
+
+-  酿造台GUI重构 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d1d5337)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d1d53378c4bfbc42fd5e0afd8cae511c5048c0ba)
+
+-  添加蟹农乐事GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cfb7b35)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cfb7b353847a311f428024016115264cdb236fa8)
+
+#### :bug: 修复
+
+-  修复切制砂岩的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(dc83b51)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/dc83b51afb06a042e3c15f209bb1851f9019cafe)
+
+#### :cyclone: 整体修改
+
+- remove: 移除混凝土材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(94c4290)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/94c42904057872efbcc133158582440ed64f6516)
+
+# [v7.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v6.4.0...v7.0.0) -  2026/10/10 
 
 #### :sparkles: 新特性
 
