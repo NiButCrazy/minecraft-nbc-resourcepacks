@@ -4,8 +4,8 @@
   "connections":[{"type":"is_same_block"}],
   "parent": "minecraft:block/slab",
   "textures": {
-    "bottom": "minecraft:block/cut_sandstone",
+    "bottom": "minecraft:block/cut_sandstone_bottom",
     "side": "minecraft:block/cut_sandstone_side",
-    "top": "minecraft:block/cut_sandstone"
+    "top": "minecraft:block/sandstone"
   }
 }
