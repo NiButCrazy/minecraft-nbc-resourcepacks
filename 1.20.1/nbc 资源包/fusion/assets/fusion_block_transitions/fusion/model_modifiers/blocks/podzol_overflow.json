@@ -10,5 +10,6 @@
   ],
   "append": [
     "fusion_block_transitions:block/podzol_overlay"
-  ]
+  ],
+  "show_breaking_overlay": false
 }

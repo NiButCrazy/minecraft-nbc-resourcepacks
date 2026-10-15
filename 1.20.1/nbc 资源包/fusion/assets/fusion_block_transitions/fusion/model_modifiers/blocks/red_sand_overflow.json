@@ -10,5 +10,6 @@
   ],
   "append": [
     "fusion_block_transitions:block/red_sand_overlay"
-  ]
+  ],
+  "show_breaking_overlay": false
 }

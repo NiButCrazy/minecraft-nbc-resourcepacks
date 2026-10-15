@@ -11,5 +11,6 @@
   ],
   "append": [
     "fusion_block_transitions:block/mycelium_overlay"
-  ]
+  ],
+  "show_breaking_overlay": false
 }

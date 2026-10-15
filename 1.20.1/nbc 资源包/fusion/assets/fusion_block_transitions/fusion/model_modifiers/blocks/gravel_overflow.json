@@ -8,5 +8,6 @@
   ],
   "append": [
     "fusion_block_transitions:block/gravel_overlay"
-  ]
+  ],
+  "show_breaking_overlay": false
 }

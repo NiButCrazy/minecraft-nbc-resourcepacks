@@ -2,7 +2,8 @@
   "loader": "fusion:model",
   "type": "connecting",
   "textures": {
-    "all": "fusion_block_transitions:block/gravel_overflow"
+    "all": "fusion_block_transitions:block/gravel_overflow",
+    "particle": "#all"
   },
   "connections": {
     "type": "or",

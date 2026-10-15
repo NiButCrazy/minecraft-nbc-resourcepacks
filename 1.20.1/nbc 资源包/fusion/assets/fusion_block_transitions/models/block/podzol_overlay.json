@@ -3,7 +3,8 @@
   "type": "connecting",
   "textures": {
     "top": "fusion_block_transitions:block/podzol_overflow",
-    "side": "fusion_block_transitions:block/podzol_overflow_side"
+    "side": "fusion_block_transitions:block/podzol_overflow_side",
+    "particle": "#top"
   },
   "connections": {
     "top": {
