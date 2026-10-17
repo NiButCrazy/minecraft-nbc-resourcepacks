@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "mekanism_lasers:block/ore_generator" },
-    "facing=east": { "model": "mekanism_lasers:block/ore_generator", "y": 90 },
-    "facing=south": { "model": "mekanism_lasers:block/ore_generator", "y": 180 },
-    "facing=west": { "model": "mekanism_lasers:block/ore_generator", "y": 270 }
-  }
-}
