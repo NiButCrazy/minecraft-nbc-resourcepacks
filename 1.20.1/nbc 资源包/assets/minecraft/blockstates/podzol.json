@@ -17,10 +17,7 @@
             { "model": "block/podzol3", "y": 90, "weight":10 },
             { "model": "block/podzol3", "y": 180, "weight":10 },
             { "model": "block/podzol3", "y": 270, "weight":10 },
-            { "model": "block/podzol4", "weight":50 },
-            { "model": "block/podzol4", "y": 90, "weight":50 },
-            { "model": "block/podzol4", "y": 180, "weight":50 },
-            { "model": "block/podzol4", "y": 270, "weight":50 },
+
 			{ "model": "block/podzol5", "weight":20 },
             { "model": "block/podzol5", "y": 90, "weight":20 },
             { "model": "block/podzol5", "y": 180, "weight":20 },
