@@ -1,6 +1,6 @@
 {
 	"credit": "Yuushya",
-	"parent": "block/template_fence_gate_wall",
+
 	"textures": {
 		"texture": "block/oak_fence_gate"
 	},

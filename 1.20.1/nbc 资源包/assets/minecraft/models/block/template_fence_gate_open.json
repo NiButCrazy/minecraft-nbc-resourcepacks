@@ -1,6 +1,6 @@
 {
 	"credit": "Yuushya",
-	"parent": "block/template_fence_gate_open",
+
 	"textures": {
 		"particle": "block/oak_fence_gate",
 		"texture": "block/oak_fence_gate"

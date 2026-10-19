@@ -3,7 +3,8 @@
 	"parent": "minecraft:block/template_item_frame_map",
 	"textures": {
 		"back": "block/smooth_quartz",
-		"wood": "block/birch_door_top"
+		"wood": "block/birch_door_top",
+		"particle":"block/smooth_quartz"
 	},
 	"elements": [
 		{

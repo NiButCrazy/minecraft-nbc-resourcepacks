@@ -1,0 +1,24 @@
+[
+  {
+    "name": "betterbounty",
+    "desc": "betterbounty GUI 兼容",
+    "authors": "Ni But Crazy",
+    "mods": "betterbounty",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "com/ybm/betterbounty/client/BountyTerminalScreen"
+    ],
+    "pairs": [
+      {
+        "key": "textures/gui/container/generic_54.png",
+        "value": "textures/gui/container/generic_bb.png"
+      },
+      {
+        "key": "textures/gui/widgets.png",
+        "value": "textures/gui/widgets_light.png"
+      }
+    ]
+  }
+]

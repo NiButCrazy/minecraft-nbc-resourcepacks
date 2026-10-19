@@ -3,7 +3,7 @@
 	"textures": {
 		"2": "block/chiseled_quartz_block",
 		"3": "block/dark_oak_planks",
-		"particle": "0extra_building_material/ctm"
+		"particle": "block/chiseled_quartz_block"
 	},
 	"elements": [
 		{
