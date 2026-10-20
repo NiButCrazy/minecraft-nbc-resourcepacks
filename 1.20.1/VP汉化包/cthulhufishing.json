@@ -1,0 +1,284 @@
+[
+  {
+    "name": "cthulhufishing",
+    "desc": "cthulhufishing 汉化",
+    "authors": "Ni But Crazy",
+    "mods": "cthulhufishing",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "net/mcreator/cthulhufishing/procedures/ToolTipHoodOfTheVoidProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "§bTentacle staff",
+        "value": "§b触手权杖"
+      },
+      {
+        "key": "§bBy expending the power of your revelation, your attacks are enhanced by the creature's power",
+        "value": "§b通过消耗你的启示之力，你的攻击将获得该生物力量的强化"
+      },
+      {
+        "key": "Press shift fo show tooltip",
+        "value": "按住 Shift 以显示更多信息"
+      },
+      {
+        "key": "§bNetherite knife amulet",
+        "value": "§b下界合金小刀护符"
+      },
+      {
+        "key": "§b+3 Attack damage",
+        "value": "§b+3 攻击伤害"
+      },
+      {
+        "key": "§bGhost netherite knife amulet",
+        "value": "§b幽灵下界合金小刀护符"
+      },
+      {
+        "key": "§b+2 Attack damage, +3 Summon damage",
+        "value": "§b+2 攻击伤害，+3 召唤伤害"
+      },
+      {
+        "key": "§bAmored summoner ring",
+        "value": "§b装甲召唤师戒指"
+      },
+      {
+        "key": "§b+1 Armor, +2 Summon count",
+        "value": "§b+1 护甲，+2 召唤数量"
+      },
+      {
+        "key": "§bLucky summoner ring",
+        "value": "§b幸运召唤师戒指"
+      },
+      {
+        "key": "§b+1 Luck, +2 Summon count",
+        "value": "§b+1 幸运，+2 召唤数量"
+      },
+      {
+        "key": "§bContains precious items",
+        "value": "§b内含珍贵物品"
+      },
+      {
+        "key": "§bFossil Fish Chestplate",
+        "value": "§b化石鱼胸甲"
+      },
+      {
+        "key": "§bDepending on saturation increases your armor by up to 50%",
+        "value": "§b根据饱和度提升你的护甲，最高可达 50%"
+      },
+      {
+        "key": "§bSacrificial knife",
+        "value": "§b献祭之刃"
+      },
+      {
+        "key": "§bRight click to apply Ritual bleeeding",
+        "value": "§b右键施加仪式流血"
+      },
+      {
+        "key": "§bNecklace of Frozen Crab",
+        "value": "§b冰封螃蟹项链"
+      },
+      {
+        "key": "§bMakes you immune to the freezing effect",
+        "value": "§b使你免疫冰冻效果"
+      },
+      {
+        "key": "§bThird eye",
+        "value": "§b第三只眼"
+      },
+      {
+        "key": "§bAccompanying you, the eye opens up the opportunity for you to catch creatures of the deep and grant revelation for their capture",
+        "value": "§b伴随你的眼睛为你开启捕获深海生物的机会，并为其捕获赐予启示"
+      },
+      {
+        "key": "§bFrozen Leggings",
+        "value": "§b冰封护腿"
+      },
+      {
+        "key": "§bIncrease your movement speed depends on revelation",
+        "value": "§b根据启示提升你的移动速度"
+      },
+      {
+        "key": "§bMushroom fish ring",
+        "value": "§b蘑菇鱼戒指"
+      },
+      {
+        "key": "§bAdditionally enhances your revelation from catching Mushroom Fish",
+        "value": "§b额外增强你捕获蘑菇鱼所获得的启示"
+      },
+      {
+        "key": "§bMushroom lure",
+        "value": "§b蘑菇鱼饵"
+      },
+      {
+        "key": "§bHold in your left hand when fishing in the deep dark, then you can catch Mushroom fish ",
+        "value": "§b在深暗之域钓鱼时手持于副手，即可捕获蘑菇鱼"
+      },
+      {
+        "key": "§bFrozen fish ring",
+        "value": "§b冰封鱼戒指"
+      },
+      {
+        "key": "§bAdditionally enhances your revelation from catching Frozen Fish",
+        "value": "§b额外增强你捕获冰封鱼所获得的启示"
+      },
+      {
+        "key": "§bGreatsword of Revelation",
+        "value": "§b启示巨剑"
+      },
+      {
+        "key": "§bThis blade deals additional magic damage from your armor, this damage can be increased by the power of your revelation",
+        "value": "§b此刃根据你的护甲造成额外魔法伤害，该伤害可被你的启示之力提升"
+      },
+      {
+        "key": "§bDormant eye",
+        "value": "§b沉睡之眼"
+      },
+      {
+        "key": "§bNeed to be awake",
+        "value": "§b需要被唤醒"
+      },
+      {
+        "key": "§bCrimson fish ring",
+        "value": "§b绯红鱼戒指"
+      },
+      {
+        "key": "§bAdditionally enhances your revelation from catching Crimson Fish",
+        "value": "§b额外增强你捕获绯红鱼所获得的启示"
+      },
+      {
+        "key": "§bSculk fish ring",
+        "value": "§b幽匿鱼戒指"
+      },
+      {
+        "key": "§bAdditionally enhances your revelation from catching Sculk fish",
+        "value": "§b额外增强你捕获幽匿鱼所获得的启示"
+      },
+      {
+        "key": "§bRing of the King of Experience",
+        "value": "§b经验之王戒指"
+      },
+      {
+        "key": "§bQuickly consuming your experience increases your damage dealt by up to 25% based on the amount of experience",
+        "value": "§b快速消耗你的经验，根据经验量最多提升你造成的伤害 25%"
+      },
+      {
+        "key": "§bCthulhu grimoire",
+        "value": "§b克苏鲁魔典"
+      },
+      {
+        "key": "§bRight click summon tentacle",
+        "value": "§b右键召唤触手"
+      },
+      {
+        "key": "§bAbyss reagent",
+        "value": "§b深渊试剂"
+      },
+      {
+        "key": "§bIf you do not place it in the relic in time, then the relic may explode",
+        "value": "§b若未及时将其放入遗物中，遗物可能会爆炸"
+      },
+      {
+        "key": "§bAbyss relic",
+        "value": "§b深渊遗物"
+      },
+      {
+        "key": "§bGrimoire of by placing it on the ground it drives aggressive creatures into madness, if you defeat them you can get abyss reagent",
+        "value": "§b将其放置在地面会驱使攻击性生物陷入疯狂，击败它们即可获得深渊试剂"
+      },
+      {
+        "key": "§bFaded runic tablet",
+        "value": "§b褪色符文石板"
+      },
+      {
+        "key": "§bCan be reactivated using the third eye",
+        "value": "§b可使用第三只眼重新激活"
+      },
+      {
+        "key": "§bRunic tablet",
+        "value": "§b符文石板"
+      },
+      {
+        "key": "§bRight click gives you 10 revelation points",
+        "value": "§b右键给予你 10 点启示"
+      },
+      {
+        "key": "§bSculk lure",
+        "value": "§b幽匿鱼饵"
+      },
+      {
+        "key": "§bHold in your left hand when fishing in the deep dark, then you can catch Sculk fish ",
+        "value": "§b在深暗之域钓鱼时手持于副手，即可捕获幽匿鱼"
+      },
+      {
+        "key": "§bCrimson lure",
+        "value": "§b绯红鱼饵"
+      },
+      {
+        "key": "§bHold in your left hand when fishing with the effect of ritual bleeding, then you can catch Crimson fish",
+        "value": "§b在拥有仪式流血效果钓鱼时手持于副手，即可捕获绯红鱼"
+      },
+      {
+        "key": "§bFrozen lure",
+        "value": "§b冰封鱼饵"
+      },
+      {
+        "key": "§bHold in your left hand when fishing with the effect of ritual bleeding, then you can catch Frozen fish",
+        "value": "§b在拥有仪式流血效果钓鱼时手持于副手，即可捕获冰封鱼"
+      },
+      {
+        "key": "§bHood of the deep void",
+        "value": "§b深空兜帽"
+      },
+      {
+        "key": "§bDoesn't let you go hungry till you have revelation",
+        "value": "§b只要你还拥有启示，就不会感到饥饿"
+      },
+      {
+        "key": "§bUsed to improve equipment",
+        "value": "§b用于强化装备"
+      },
+      {
+        "key": "§bMask of Revelation",
+        "value": "§b启示面具"
+      },
+      {
+        "key": "§bWhen equip revelation costs you spend half as much ",
+        "value": "§b装备时，你消耗的启示减半"
+      },
+      {
+        "key": "§bHeavy fishing rod",
+        "value": "§b重型钓竿"
+      },
+      {
+        "key": "§bGives you a chance for a giant catch",
+        "value": "§b使你有机会钓到巨型渔获"
+      },
+      {
+        "key": "§bGives you a quest for tribute of fish",
+        "value": "§b给予你一个献祭鱼类的任务"
+      },
+      {
+        "key": "§bWhen eaten gives \"Health Boost\" effect",
+        "value": "§b食用后给予“生命提升”效果"
+      },
+      {
+        "key": "§bWhen eaten gives \"Night vision\" effect",
+        "value": "§b食用后给予“夜视”效果"
+      },
+      {
+        "key": "§bUsed for netherite crafting",
+        "value": "§b用于下界合金合成"
+      },
+      {
+        "key": "§bWhen eaten gives \"Mushroomed\" and \"Saturation\" effects",
+        "value": "§b食用后给予“蘑菇化”和“饱和”效果"
+      },
+      {
+        "key": "§bWhen eaten gives \"Water breathing\" effect",
+        "value": "§b食用后给予“水下呼吸”效果"
+      }
+    ]
+  }
+]
