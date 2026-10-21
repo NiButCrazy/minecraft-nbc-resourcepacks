@@ -1,4 +1,7 @@
 {
+  "sfm:falling_anvil": {
+    "order": 99
+  },
   "uei:ench_info": {
     "order": 100
   }
