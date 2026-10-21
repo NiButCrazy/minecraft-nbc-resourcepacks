@@ -123,5 +123,20 @@
   "ftbquests.custom_icon.entity": "实体：%s",
   "ftbquests.gui.error.selection_multiple_lines": "选择内容跨越多行！",
   "ftbquests.gui.error.already_component": "该行已是文本组件 JSON！",
-  "config.jade.plugin_ftbquests.barrier": "屏障"
+  "ftbquests.file.emergency_items.get_items": "获取物品",
+  "ftbquests.quest.misc.completion_count": "已完成 %s 次",
+  "ftbquests.quest.misc.completion_count.plural": "已完成 %s 次",
+  "ftbquests.quest.misc.repeat_cooldown": "任务重复冷却",
+  "ftbquests.quest.misc.repeat_cooldown.tooltip": "仅在“可重复任务”为是时生效。\n领取该任务全部奖励后，到能够再次完成该任务目标的间隔秒数。",
+  "ftbquests.quest.locked.cooldown": "%s 后可重复",
+  "ftbquests.gui.convert_json": "将行转换为 Json",
+  "ftbquests.gui.convert_json.2": "按住 Shift：转换所有行",
+  "ftbquests.gui.set_autofocused": "设为自动聚焦任务",
+  "ftbquests.gui.clear_autofocused": "清除自动聚焦任务",
+  "ftbquests.gui.move_left": "左移",
+  "ftbquests.gui.move_right": "右移",
+  "ftbquests.task.grab_item": "抓取物品副本",
+  "ftbquests.task.gave_item": "已给予任务物品：%s",
+  "config.jade.plugin_ftbquests.barrier": "屏障",
+  "ftbquests.gui.key_reference": "快捷键"
 }

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "ftb_quests",
+    "desc": "ftb_quests 汉化",
+    "authors": "Ni But Crazy",
+    "mods": "ftb_quests",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "dev/ftb/mods/ftbquests/client/gui/quests/ViewQuestPanel"
+    ],
+    "pairs": [
+      {
+        "key": "[No Subtitle]",
+        "value": "[无副标题]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev/ftb/mods/ftbquests/client/gui/quests/ViewQuestPanel"
+    ],
+    "pairs": [
+      {
+        "key": "(new page placeholder text)",
+        "value": "(新页面占位文本)"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev/ftb/mods/ftbquests/client/gui/quests/ViewQuestPanel$5"
+    ],
+    "pairs": [
+      {
+        "key": "[Page Up]",
+        "value": "[上一页]"
+      },
+      {
+        "key": "[Mousewheel Up]",
+        "value": "[鼠标滚轮向上]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev/ftb/mods/ftbquests/client/gui/quests/ViewQuestPanel$4"
+    ],
+    "pairs": [
+      {
+        "key": "[Page Down]",
+        "value": "[下一页]"
+      },
+      {
+        "key": "[Mousewheel Down]",
+        "value": "[鼠标滚轮向下]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev/ftb/mods/ftbquests/client/gui/quests/ChapterPanel$ModpackButton"
+    ],
+    "pairs": [
+      {
+        "key": "Stays open",
+        "value": "保持展开"
+      },
+      {
+        "key": "Doesn't stay open",
+        "value": "不保持展开"
+      }
+    ]
+  }
+]
