@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Mokels witch boss",
+    "desc": "Mokels witch boss硬编码汉化",
+    "authors": "NiButCrazy",
+    "mods": "mokels_witch_boss",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.item.BottomlessBagItem"],
+    "pairs": [
+      { "key": "Rightclick to open the bag", "value": "右键打开袋子" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.item.FlaskOfHealingItem"],
+    "pairs": [
+      { "key": "an unlimited healing item", "value": "一个无限治疗物品" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.item.FlaskOfHealinglvltwoItem"],
+    "pairs": [
+      { "key": "an unlimited healing item", "value": "一个无限治疗物品" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.item.WitchStaffItem"],
+    "pairs": [
+      { "key": "Tool modifier", "value": "工具修饰符" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.procedures.WitchbossStopSoundProcedure"],
+    "pairs": [
+      { "key": "you really were...", "value": "你真的……" },
+      { "key": "strong enough...", "value": "足够强大……" },
+      { "key": "take my belongings, they're yours now...", "value": "拿走我的东西吧，它们现在是你的了……" },
+      { "key": "farewell brave warrior...", "value": "再见了，勇敢的战士……" },
+      { "key": "and thank you...", "value": "还有，谢谢你……" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.procedures.Witchhat2RightClickedOnEntityProcedure"],
+    "pairs": [
+      { "key": "hey you! over here!", "value": "嘿，你！看这边！" },
+      { "key": "don't worry you'll be rewarded after my death", "value": "别担心，我死后你会得到奖励的" },
+      { "key": "i will wait here for you to return.", "value": "我会在这里等你回来。" },
+      { "key": "If you really are the chosen one, bring me the \"totem of rot and decay\"", "value": "如果你真的是天选之人，就把“腐朽与衰败图腾”带给我" },
+      { "key": "I want to leave this realm. but the only way for me to perish is getting defeated by a warrior.", "value": "我想离开这个世界。但唯一能让我消亡的方式，就是被战士击败。" },
+      { "key": "Anyways, Could you help me?", "value": "总之，你能帮帮我吗？" },
+      { "key": "Don't worry I'm just joking.", "value": "别担心，我只是在开玩笑。" },
+      { "key": "That hurts my feelings.", "value": "那伤到我的感情了。" },
+      { "key": "Why are you looking at me like that? is it because i'm a hat?", "value": "你为什么那样看着我？因为我是个帽子吗？" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.procedures.WitchhatGivingRightClickedOnEntityProcedure"],
+    "pairs": [
+      { "key": "i believe in you...", "value": "我相信你……" },
+      { "key": "defeat me...", "value": "击败我……" }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.procedures.WitchhatOnEntityTickUpdateProcedure"],
+    "pairs": [
+      { "key": "Oh you did it!", "value": "哦，你做到了！" },
+      { "key": "i believe in you", "value": "我相信你" },
+      { "key": "hand it over to me when you're ready to fight ", "value": "准备好战斗的时候把它交给我 " }
+    ]
+  },
+  {
+    "target_class": ["net.mcreator.mokelswitchboss.procedures.WitchhatOnInitialEntitySpawnProcedure"],
+    "pairs": [
+      { "key": "hey you! yes you. I'm over here!", "value": "嘿，你！对，就是你。我在这儿！" }
+    ]
+  }
+]

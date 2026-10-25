@@ -1,4 +1,7 @@
 {
+  "ali:block_loot": {
+    "order": 99
+  },
   "sfm:falling_anvil": {
     "order": 99
   },
