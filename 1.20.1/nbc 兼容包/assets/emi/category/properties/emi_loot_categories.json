@@ -1,11 +1,38 @@
 {
+  "emi:anvil_repairing": {
+    "order": 80
+  },
+  "ali:ali:cat_morning_gift": {
+    "order": 95
+  },
+  "ali:entity_loot": {
+    "order": 96
+  },
+  "ali:archaeology_loot": {
+    "order": 97
+  },
+  "ali:gameplay_loot": {
+    "order": 97
+  },
+  "ali:fishing_loot": {
+    "order": 97
+  },
+  "ali:chest_loot": {
+    "order": 98
+  },
   "ali:block_loot": {
     "order": 99
   },
+  "jei_biome:biome_blocks": {
+    "order": 100
+  },
+  "jei_biome:biome_mobs": {
+    "order": 101
+  },
   "sfm:falling_anvil": {
-    "order": 99
+    "order": 102
   },
   "uei:ench_info": {
-    "order": 100
+    "order": 103
   }
 }
