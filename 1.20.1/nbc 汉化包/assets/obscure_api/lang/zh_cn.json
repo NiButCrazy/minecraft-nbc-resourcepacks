@@ -46,8 +46,8 @@
   "enchantment.obscure_api.mirror.description": "复制弹射物，但复制体仅造成50%伤害",
 
   "attribute.obscure_api.accuracy": "命中率",
-  "attribute.obscure_api.criticalDamage": "暴击伤害",
-  "attribute.obscure_api.criticalHit": "暴击率",
+  "attribute.obscure_api.criticalDamage": "会心伤害",
+  "attribute.obscure_api.criticalHit": "会心一击",
   "attribute.obscure_api.dodge": "闪避",
   "attribute.obscure_api.healingPower": "治疗强度",
   "attribute.obscure_api.magicDamage": "魔法伤害",
@@ -58,8 +58,8 @@
   "attribute.obscure_api.resilience": "韧性",
 
   "obscure_api.accuracy": "命中率",
-  "obscure_api.criticalDamage": "暴击伤害",
-  "obscure_api.criticalHit": "暴击率",
+  "obscure_api.criticalDamage": "会心伤害",
+  "obscure_api.criticalHit": "会心一击",
   "obscure_api.dodge": "闪避",
   "obscure_api.healingPower": "治疗强度",
   "obscure_api.magicDamage": "魔法伤害",

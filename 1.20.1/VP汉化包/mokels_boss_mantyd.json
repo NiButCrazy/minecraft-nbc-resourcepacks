@@ -1,0 +1,169 @@
+[
+  {
+    "name": "Mokels Boss: Mantyd 硬编码汉化",
+    "desc": "Mokels Boss: Mantyd 硬编码对话与 tooltip 汉化（信达雅风格）；专名：基诺拉、棠郎花、萨菲拉。未包含语言文件。",
+    "authors": "Claude Code",
+    "mods": "mokels_boss_mantyd",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.item.AncestralBagItem"
+    ],
+    "pairs": [
+      {
+        "key": "Rightclick to open the bag",
+        "value": "右击打开袋子"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.item.MantydFluteItem"
+    ],
+    "pairs": [
+      {
+        "key": "Summon Kinora's echo",
+        "value": "召唤基诺拉的回响"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.item.MantydMedicineItem"
+    ],
+    "pairs": [
+      {
+        "key": "A strong mixture that may be able to resurrect kinora",
+        "value": "一种可能使基诺拉复活的强效药剂"
+      },
+      {
+        "key": "(it has a strong earthy smell to it)",
+        "value": "（散发着一股浓重的泥土气息）"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.item.MantydhelmetItem$Helmet"
+    ],
+    "pairs": [
+      {
+        "key": "made out of multiple materials you didn't knew existed",
+        "value": "由多种你未曾见过的材料制成"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.item.PlantationRuneItem"
+    ],
+    "pairs": [
+      {
+        "key": "can be exchanged for an item by speaking to a Wandering Trader",
+        "value": "可以与流浪商人交谈以换取物品"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.procedures.MantydBloomAttackPatternProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "A Mantyd Blossom Appeared",
+        "value": "棠郎花现身了"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.procedures.MantydBossSpawnOnEntityTickUpdateProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "an intruder?",
+        "value": "入侵者？"
+      },
+      {
+        "key": "well...",
+        "value": "这个嘛……"
+      },
+      {
+        "key": "are you after the ancestral rune?",
+        "value": "你是在找先祖符文吗？"
+      },
+      {
+        "key": "doesn't matter...",
+        "value": "无所谓……"
+      },
+      {
+        "key": "i'll kick you out if you don't want to leave",
+        "value": "你若执意不走，我就把你赶出去"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.procedures.SpawnTalkProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Why did you bring me back to life?",
+        "value": "你为何要将我复活？"
+      },
+      {
+        "key": "don't worry, i won't harm you anymore",
+        "value": "放心，我不会再伤害你了"
+      },
+      {
+        "key": "is it because of the ancestral rune?",
+        "value": "是因为先祖符文吗？"
+      },
+      {
+        "key": "...",
+        "value": "……"
+      },
+      {
+        "key": "fine",
+        "value": "好吧。"
+      },
+      {
+        "key": "I am not giving this to you out of kindness but out of loyalty to my daughter.",
+        "value": "我把这个交给你，并非出于善意，而是出于对我女儿的忠诚。"
+      },
+      {
+        "key": "now go",
+        "value": "走吧。"
+      },
+      {
+        "key": "More Content in v2.0",
+        "value": "更多内容将在 v2.0 中推出"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.mokelsbossmantyd.procedures.Talkbutton1Procedure"
+    ],
+    "pairs": [
+      {
+        "key": "i see... then i have to give you something",
+        "value": "原来如此……那我得给你点东西"
+      },
+      {
+        "key": "here, you earned it",
+        "value": "拿着，这是你应得的"
+      },
+      {
+        "key": "visit me again sometime",
+        "value": "有空再来看看我"
+      },
+      {
+        "key": "More interaction in v2.0",
+        "value": "更多互动将在 v2.0 中推出"
+      }
+    ]
+  }
+]
