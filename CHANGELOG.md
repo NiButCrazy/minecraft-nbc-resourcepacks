@@ -1,6 +1,90 @@
 ## :memo: 更新日志
 
-## [v7.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v7.0.0...v7.1.0) -  v7.0.0..
+## [v8.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v7.1.0...v8.0.0) -  v7.1.0..
+
+#### :sparkles: 新特性
+
+-  物品收集齐与垃圾桶的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ef72261)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ef72261e35f57f616dd56933b8a0c482a0da1e2c)
+
+-  添加克苏鲁钓鱼的GUI兼容与汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6518bce)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6518bceb5c966ec327381a16538e60b7aacb0f9e)
+
+-  海洋之心样式重构 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f06a10a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f06a10afb8a27da4db8a60030740d7f45cc2a998)
+
+-  添加七罪之子的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5ba5520)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5ba5520c8979fc503d0f5f690936fb97afb3d331)
+
+-  重构量子采矿机的模型与材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7fadd6d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7fadd6d223dbc6211e1adbc219cfc5022865c4b8)
+
+-  添加传送石碑汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1c8186f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1c8186fb77ee9e631bff622c98f42844a7277270)
+
+-  完善ftb任务的汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(473fea4)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/473fea41978b4d672f0df34135502d9420afca00)
+
+-  兼容了sfm与其他模组GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(9eb40ec)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/9eb40ec3693deb4a9b31971895d0aed2c74609cb)
+
+-  统一农夫乐事GUI,然后添加showcaser汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(7b385d7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/7b385d735b944277b601e2cb5ecb77239f2361f4)
+
+-  妖怪归乡GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b5e109b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b5e109ba6c9053f5ba3bc119fe72167704b84be4)
+
+-  通用附魔信息查看的顺序默认放后面 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b27bdb6)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b27bdb6b99db55cac58b377c0cdc8e7c4c7a5ac0)
+
+-  jade 贴图优化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a6f6a78)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a6f6a78a3a9722582a13ebca090bc3204c25e0ac)
+
+-  添加wizards_reborn的GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cdb4e32)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cdb4e320523b229bb59deff168edefb4883a1352)
+
+-  extrastornge 添加GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e41e3c5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e41e3c5445582935d46e3edf18159620ec00c290)
+
+-  灵灾模组GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(d1b521d)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/d1b521d434b8bed6ed7150f59dd6051734de233a)
+
+-  牛排材质重构 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(75386b5)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/75386b5dc65c3fabe4a96047c120bb17c7d09d06)
+
+-  兼容赏金GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(2b3ca2f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/2b3ca2f6b81e20843f21875c2851a3b323eb6fac)
+
+-  添加一堆用来兼容其他模组的GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(502a711)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/502a7114c936cee95e4cf75b04d76393e9a115e4)
+
+-  ExtraSound GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(5b6d64a)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/5b6d64ac37f801f3f31d14a51076635573dbab66)
+
+-  部分音效回归原版 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f8532fc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f8532fcf97ef5fdd867186b7dc1073de3a4aba06)
+
+#### :bug: 修复
+
+-  修修补补 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b1c0333)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b1c0333fdd592a1689fb5f589c61dfc6348e71dd)
+
+-  对各种 BUG 修修补补 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1040d1f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1040d1fd8725836a99e49e77af58af071f4fd6f7)
+
+-  修复了一部分诡异的BUG &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(b0079f7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/b0079f7d88953c0151a8de9a3b5543f34a9ad725)
+
+-  兼容新版 fusion &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e4404c1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e4404c1e1d8d119f595f15e87a3e2cd76f19f434)
+
+-  修修补补 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(698d4cc)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/698d4ccbcdb2c2c24ffec524443a42a022821e89)
+
+-  修复了女巫精酿的药水贴图错误 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(459b094)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/459b094915c910e46c3ad76fbe78f1172e9f8d94)
+
+-  灾厄侵扰怪物模型贴图兼容,附魔书材质小翻新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(eec2327)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/eec2327fd06c1998048b1a5c882092c2d0893935)
+
+-  去除灰化土突兀的随机纹理 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(93b74cd)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/93b74cd3f0de6b4f2839828f34f62250f9730d63)
+
+-  修改通用机械激光翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cb2787f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cb2787fb17a6f48659b0fd51ebf4dd387ad43b8f)
+
+-  千古乐事按键绑定修复翻译 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cdb08a1)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cdb08a1ad03d7ba04d8ba715f5d1a449e4303916)
+
+-  修复熔炉问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(ae42b24)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/ae42b24642365b80ac6df126c20df847c2f57d1b)
+
+-  修复熔炉的部分GUI &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(080b2d7)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/080b2d792d1ea92472b18a8908e4859bfd9311fe)
+
+-  修复了箭头略微偏移的问题 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f2da2ca)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f2da2ca2073e22477bd90398c185bb2f75af5dfc)
+
+-  修复农夫暇事的GUI统一 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(6cc77b9)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/6cc77b9a6faf5295b56e87515c8d908d15cd38a6)
+
+#### :recycle: 重构
+
+-  重构卫道士的uv贴图 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(cbbed04)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/cbbed04c3ded2e7f90d9a0a1d6e94374ef68b721)
+
+#### :cyclone: 整体修改
+
+- remove: 移除diet数据包,防止与整合包冲突 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1678cae)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1678cae9dd2cc4779e41f91f231bbd38cac0abeb)
+
+- doc: 元数据更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(a5284fe)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/a5284fef917b5d1472a9c6c3d007129c5fafbf34)
+
+## [v7.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v7.0.0...v7.1.0) -  2026/10/13 
 
 #### :sparkles: 新特性
 
