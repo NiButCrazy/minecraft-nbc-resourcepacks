@@ -1,0 +1,8 @@
+{
+  "effect.eidolon.chilled.description": "阻止所有来源的生命值恢复",
+  "effect.eidolon.anchored.description": "阻止传送",
+  "effect.eidolon.reinforced.description": "护甲值增加25%%",
+  "effect.eidolon.vulnerable.description": "护甲值降低25%%",
+  "effect.eidolon.undeath.description": "将实体视作亡灵生物，会在阳光下着火且只能食用僵尸的食物。",
+  "effect.eidolon.light_blessing.description": "你身上的神圣光环能驱散亡灵生物。"
+}
