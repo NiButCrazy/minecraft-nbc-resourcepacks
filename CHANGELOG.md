@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v8.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v7.1.0...v8.0.0) -  v7.1.0..
+## [v8.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.0.0...v8.1.0) -  v8.0.0..
+
+#### :sparkles: 新特性
+
+-  遥远世界汉化更新 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(eb1ff9f)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/eb1ff9f917793d43577859c08e5e84b83d9a6a55)
+
+-  添加 eidolon 的GUI兼容与汉化 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e9d8cb8)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e9d8cb8bf7a2a38f4de98e33db351a87c353f912)
+
+-  神秘遗物++兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(4b05415)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/4b05415968a260c49ace37f2109c0890706e0043)
+
+# [v8.0.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v7.1.0...v8.0.0) -  2026/10/26 
 
 #### :sparkles: 新特性
 
