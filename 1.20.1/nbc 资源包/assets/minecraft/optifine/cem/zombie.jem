@@ -18,8 +18,8 @@
 					"mirrorTexture": "u",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-5, 30, -5, 10, 3, 10], "textureOffset": [24, 47]},
-						{"coordinates": [-4, 32.7, -4, 8, 1.3, 8], "textureOffset": [26, 38]},
+						{"coordinates": [-5, 30, -5, 10, 3, 10], "textureOffset": [24, 33]},
+						{"coordinates": [-4, 32.7, -4, 8, 1.3, 8], "textureOffset": [32, 0]},
 						{"coordinates": [-1, 32.9, -1, 2, 2, 2], "textureOffset": [0, 48]}
 					]
 				}
@@ -32,7 +32,12 @@
 			"mirrorTexture": "u",
 			"translate": [0, -24, 0],
 			"boxes": [
-				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.25}
+				{
+					"coordinates": [-4, 24, -4, 8, 8, 8],
+					"uvNorth": [40, 0, 32, 8],
+					"uvWest": [32, 0, 24, 8],
+					"sizeAdd": 0.25
+				}
 			]
 		},
 		{
@@ -51,7 +56,8 @@
 			"mirrorTexture": "u",
 			"translate": [5, -22, 0],
 			"boxes": [
-				{"coordinates": [-7, 12, -2, 3, 12, 4], "textureOffset": [40, 16]}
+				{"coordinates": [-7, 12, -2, 3, 12, 4], "textureOffset": [50, 48]},
+				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [40, 16]}
 			],
 			"submodels": [
 				{
@@ -60,7 +66,7 @@
 					"mirrorTexture": "u",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [-7.5, 12, -2.5, 4, 10, 5], "textureOffset": [7, 49]}
+						{"coordinates": [-7.5, 12, -2.5, 4, 10, 5], "textureOffset": [0, 32]}
 					]
 				}
 			]
@@ -72,7 +78,8 @@
 			"mirrorTexture": "u",
 			"translate": [-5, -22, 0],
 			"boxes": [
-				{"coordinates": [4, 12, -2, 3, 12, 4], "textureOffset": [40, 16]}
+				{"coordinates": [4, 12, -2, 3, 12, 4], "textureOffset": [50, 48]},
+				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [32, 48]}
 			],
 			"submodels": [
 				{
@@ -81,7 +88,7 @@
 					"mirrorTexture": "u",
 					"translate": [0, 0, 0],
 					"boxes": [
-						{"coordinates": [3.5, 12, -2.5, 4, 10, 5], "textureOffset": [7, 49]}
+						{"coordinates": [3.5, 12, -2.5, 4, 10, 5], "textureOffset": [0, 32]}
 					]
 				}
 			]
@@ -103,7 +110,7 @@
 			"mirrorTexture": "u",
 			"translate": [-1.9, -12, 0],
 			"boxes": [
-				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 32]}
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [16, 48]}
 			]
 		}
 	]
