@@ -1,0 +1,76 @@
+[
+  {
+    "name": "sons_of_sins",
+    "desc": "七罪之子汉化",
+    "authors": "Ni But Crazy",
+    "mods": "sons_of_sins",
+    "dynamic": false
+  },
+  {
+    "target_class": [
+      "net/mcreator/sonsofsins/jei_recipes/EthericBloodImbibationRecipeCategory"
+    ],
+    "pairs": [
+      {
+        "key": "Etheric Imbibation",
+        "value": "空魂汲取"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/sonsofsins/procedures/FleshCarcassSpecialInformation2Procedure",
+      "net/mcreator/sonsofsins/procedures/FleshCarcassSpecialInformation3Procedure",
+      "net/mcreator/sonsofsins/procedures/FleshCarcassSpecialInformationProcedure",
+      "net/mcreator/sonsofsins/procedures/PuppetOfStrifeSpecialInformationProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "§7[Empty]",
+        "value": "§7[空]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/sonsofsins/item/BloodyBoneItem"
+    ],
+    "pairs": [
+      {
+        "key": "§5§oStronger than steel, sharper than a razor blade",
+        "value": "§5§o比钢铁更坚硬，比剃刀更锋利"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/sonsofsins/procedures/UrnSpecialInformationProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "§5§oCurrently contains ",
+        "value": "§5§o当前含有 "
+      },
+      {
+        "key": " ashes",
+        "value": " 个空魂灰烬"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net/mcreator/sonsofsins/item/FleshAxeItem",
+      "net/mcreator/sonsofsins/item/FleshHoeItem",
+      "net/mcreator/sonsofsins/item/FleshPickaxeItem",
+      "net/mcreator/sonsofsins/item/FleshShovelItem",
+      "net/mcreator/sonsofsins/item/FleshSwordItem"
+
+    ],
+    "pairs": [
+      {
+        "key": "§5§oHas the ability to self-regenerate",
+        "value": "§5§o具有自我再生能力"
+      }
+    ]
+  }
+]
