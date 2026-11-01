@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{
+					"coordinates": [-4, 0, -4, 8, 8, 8],
+					"uvNorth": [32, 0, 40, 8],
+					"uvEast": [24, 0, 32, 8],
+					"sizeAdd": 0.25
+				}
+			]
+		}
+	]
+}

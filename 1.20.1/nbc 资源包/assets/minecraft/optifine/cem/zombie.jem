@@ -34,8 +34,8 @@
 			"boxes": [
 				{
 					"coordinates": [-4, 24, -4, 8, 8, 8],
-					"uvNorth": [40, 0, 32, 8],
-					"uvWest": [32, 0, 24, 8],
+					"uvNorth": [32, 0, 40, 8],
+					"uvEast": [24, 0, 32, 8],
 					"sizeAdd": 0.25
 				}
 			]
