@@ -1,6 +1,18 @@
 ## :memo: 更新日志
 
-## [v8.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.0.0...v8.1.0) -  v8.0.0..
+## [v8.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.1.0...v8.1.3) -  v8.1.0..
+
+#### :sparkles: 新特性
+
+-  来自深渊汉化与GUI兼容 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(f11e053)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/f11e05338a52da269b6268bd6cd9004fa62e3b11)
+
+-  小修小补 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(1169461)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/1169461e357a33897fe94cc082c88c62c8e9a8fe)
+
+#### :bug: 修复
+
+-  修修补补 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(8a6485b)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/8a6485bdf9e1af3260ddb2fae06cb88be44a2f7b)
+
+## [v8.1.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.0.0...v8.1.0) -  2026/10/29 
 
 #### :sparkles: 新特性
 
