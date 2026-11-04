@@ -1,6 +1,16 @@
 ## :memo: 更新日志
 
-## [v8.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.1.0...v8.1.3) -  v8.1.0..
+## [v8.2.0](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.1.3...v8.2.0) -  v8.1.3..
+
+#### :sparkles: 新特性
+
+-  重绘小部分材质 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(fe82471)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/fe82471d08a893ebd6dc5ee9a2c5e30f39524773)
+
+#### :bug: 修复
+
+-  修复竹栅栏贴图,精致存储的GUI文件错误 &nbsp;- by [@NiButCrazy](https://github.com/NiButCrazy) [`(e7ceb24)`](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/commit/e7ceb248f7b2ca150a0e11fabae0ffc02bb5c536)
+
+## [v8.1.3](https://github.com/NiButCrazy/minecraft-nbc-resourcepacks/compare/v8.1.0...v8.1.3) -  2026/11/01 
 
 #### :sparkles: 新特性
 
