@@ -22,11 +22,11 @@
   "widgets": {
     "smithingTableSubstitutions": {
       "left": 24,
-      "bottom": 151
+      "bottom": 153
     },
     "smithingTableClearPattern": {
       "left": 14,
-      "bottom": 151
+      "bottom": 153
     }
   }
 }

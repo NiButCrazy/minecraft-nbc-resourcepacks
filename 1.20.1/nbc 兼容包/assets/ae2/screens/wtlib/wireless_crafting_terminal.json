@@ -63,12 +63,12 @@
   },
   "widgets": {
     "clearCraftingGrid": {
-      "left": 151,
-      "bottom": 161
+      "left": 150,
+      "bottom": 160
     },
     "clearToPlayerInv": {
-      "left": 161,
-      "bottom": 161
+      "left": 160,
+      "bottom": 160
     },
     "wirelessTerminalSettingsButton": {
       "left": 73,

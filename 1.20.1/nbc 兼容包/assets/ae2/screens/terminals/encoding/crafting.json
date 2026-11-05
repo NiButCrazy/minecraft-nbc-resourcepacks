@@ -14,15 +14,15 @@
   },
   "widgets": {
     "craftingSubstitutions": {
-      "left": 80,
+      "left": 82,
       "bottom": 159
     },
     "craftingFluidSubstitutions": {
-      "left": 90,
+      "left": 92,
       "bottom": 159
     },
     "craftingClearPattern": {
-      "left": 70,
+      "left": 72,
       "bottom": 159
     }
   }
